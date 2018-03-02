@@ -1,0 +1,33 @@
+Features
+* tenure as D1 team: Teams.FirstD1Season - Teams.LastD1Season
+* playing a rival (e.g. Michigan v Michigan St/Kentucky v Louisville)
+* historical tournament win totals
+* historical tournament win percentage
+* regular season win percentage
+* historical regular season win percentage
+* historical regular season number of wins
+* tournament seed
+* regular season win margin (points)
+* player-related features
+* coach-related features
+* program-related features
+
+Hypotheses
+1. Team with a better overall record wins
+2. Team with a better post-season record wins
+3. Team playing closer to home wins
+4. Higher seeded teams beat lower seeded teams
+5. Does strength of schedule really matter (i.e. significantly predict tournament success)?
+
+Models
+* upset probability (probability that a lower seeded team beats a higher seeded 
+team in a given game in a given round)
+
+TODO
+* predict upsets 
+* summary stats on BIG upsets (eg underdog is more than four ranks apart)
+
+Sources
+* http://blog.kaggle.com/2017/05/19/march-machine-learning-mania-1st-place-winners-interview-andrew-landgraf/
+* https://arxiv.org/abs/1412.0248
+* http://blog.kaggle.com/2017/05/19/march-machine-learning-mania-1st-place-winners-interview-andrew-landgraf/

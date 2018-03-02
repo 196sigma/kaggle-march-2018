@@ -1,0 +1,28 @@
+03/01/2018
+===============================================================================
+* getting to know the data
+
+* submitted the naive prediction of a 50-50 chance for both teams. The log-
+loss of this prediction is 0.6931472. I will refer to this as the naive 
+baseline log-loss.
+
+* As a first step beyond the naive 50-50 prediction, I computed the overall 
+historical percentage in which the favored (i.e. lower seeded team) wins. This 
+probability is 70.15%. I applied this probability to the 2014-2017 test sample. 
+The Log-loss fell to 0.6064068.
+
+* added win-loss record as features. Tried an initial logistic regression.
+Submitted. The Log-loss fell to 0.58261 on my machine, .561579 on  Kaggle's 
+leader board.
+
+PREDICTIONS
+1. seed_win_prediction.csv
+Prediction is historical average frequency of favored team winning
+The Log-loss fell to 0.6064068.
+
+2. record_win_prediction.csv
+Predictions using a logistic regression model of win-loss record.
+Logistic regression. Includes, for both teams 1 and 2, win percentage, number 
+of  wins, number of games played, as well as an indicator variable for whether 
+or not team 1 was seeded lower (i.e. team 1 was favored).
+Log-loss fell to 0.58261.
