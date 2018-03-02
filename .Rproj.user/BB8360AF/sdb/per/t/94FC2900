@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "## Reginald Edwards\n## CREATED: 1 March 2018\n## MODIFIED:\n## DESCRIPTION: This script computes the log-loss of the predictions. \n###############################################################################\n\n# log-loss function takes a vector of actual y and a vector of predictions\nlog.loss <- function(y, x.pred) -mean(y*log(x.pred) + (1-y)*log(1 - x.pred))\n\nlogloss.evaluate <- function(predictions_file_loc = \"data/results/SampleSubmissionStage1.csv\"){\n  ## load predictions\n  X.pred <- read.csv(predictions_file_loc, stringsAsFactors = FALSE)\n  names(X.pred) <- tolower(names(X.pred))\n  \n  ## load actual results\n  X.res <- read.csv('data/raw/NCAATourneyCompactResults.csv', stringsAsFactors = FALSE)\n  names(X.res) <- tolower(names(X.res))\n  \n  ## transform actual results table into one comparable to the submissions table\n  X.res$id <- ifelse(X.res$wteamid < X.res$lteamid, paste(X.res$season, \n    X.res$wteamid, X.res$lteamid, sep = '_'), paste(X.res$season, X.res$lteamid,\n    X.res$wteamid, sep = '_'))\n  \n  ## Merge actual results with predictions\n  X <- merge(X.pred, X.res[,c('id', 'wteamid', 'lteamid')])\n  \n  ## compute log-loss\n  # compute y\n  f <- function(x, i) unlist(strsplit(x, \"_\"))[i]\n  X$team1 <- lapply(X$id, f, i = 2)\n  X$team2 <- lapply(X$id, f, i = 3)\n  X$y <- ifelse(X$team1 == X$wteamid, 1, 0)\n  print(\"Naive prediction baseline is 0.6931472\")\n  return(log.loss(X$y, X$pred))\n  ## 0.6931472 for naive predictions  \n}\n",
+    "created" : 1519919269066.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4127872112",
+    "id" : "94FC2900",
+    "lastKnownWriteTime" : 1519929893,
+    "last_content_update" : 1519929893810,
+    "path" : "C:/Users/Reginald/Dropbox/Kaggle - NCAA ML 2018/code/log-loss-evaluation.R",
+    "project_path" : "code/log-loss-evaluation.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
