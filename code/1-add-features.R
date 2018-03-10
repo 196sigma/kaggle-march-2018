@@ -170,3 +170,14 @@ train.set$record <- NULL
 train.set$teamname <- NULL
 
 save(train.set, file="data/working/train_set.RData")
+
+###############################################################################
+## Scoring statistics
+load("data/working/train_set.RData")
+load("data/working/test_set.RData")
+load("data/working/scoring_stats.RData")
+train.set <- merge(train.set, scoring.stats, by.x = c("season", "team1"), by.y = c("season", "teamid"), all.x = TRUE)
+test.set <- merge(test.set, scoring.stats, by.x = c("season", "team1"), by.y = c("season", "teamid"), all.x = TRUE)
+
+save(test.set, file="data/working/test_set.RData")
+save(train.set, file="data/working/train_set.RData")

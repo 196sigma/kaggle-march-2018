@@ -32,3 +32,4 @@ test.set$season <- unlist(lapply(test.set$id, f, i = 1))
 test.set$team1 <- unlist(lapply(test.set$id, f, i = 2))
 test.set$team2 <- unlist(lapply(test.set$id, f, i = 3))
 save(test.set, file = 'data/working/test_set.RData')
+

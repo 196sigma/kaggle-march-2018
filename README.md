@@ -46,6 +46,11 @@ frequency of a favored team winning its match-up.
     - depends: *data/working/ncaa_sos_cleaned.txt*
     - outputs: *data/working/ncaa_sos.RData*
 
+- **scoring-stats.R**: adds points-per-game (ppg) and opponent ppg stats
+    - depends: *data/raw/RegularSeasonCompactResults.csv*
+    - outputs: *data/working/points_per_game.RData*
+    
+
 data/
 
 - raw/

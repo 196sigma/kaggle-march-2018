@@ -121,100 +121,33 @@ $(document).ready(function () {
 </div>
 
 
-<div id="reginald-edwards" class="section level2">
-<h2>Reginald Edwards</h2>
-</div>
-<div id="created-01-march-2018" class="section level2">
-<h2>CREATED: 01 March 2018</h2>
-</div>
-<div id="modified-09-march-2018" class="section level2">
-<h2>MODIFIED: 09 March 2018</h2>
-</div>
-<div id="description-overview-of-code-data-etc-for-kaggle-march-madness-2018" class="section level2">
-<h2>DESCRIPTION: Overview of code, data, etc for Kaggle March Madness 2018</h2>
-</div>
-<div id="competition" class="section level2">
-<h2>Competition</h2>
-</div>
-<div id="section" class="section level2">
-<h2></h2>
-<p>CODE ORGANIZATION</p>
-<p>code/</p>
+<div id="section" class="section level1">
+<h1>03/01/2018</h1>
 <ul>
-<li><strong>0-prep-data.R</strong>: run at the beginning of the project, this script generates datasets that will have to be used at many different points in the project. Transforms a lot of the raw datasets into useful formats.
-<ul>
-<li>depends: <em>data/raw/NCAATourneyCompactResults.csv</em>; <em>data/results/SampleSubmissionStage1.csv</em></li>
-<li>outputs: <em>data/results/predictions_template.RData</em>; <em>data/working/test_set.RData</em>; <em>data/working/compact_results.RData</em></li>
-</ul></li>
-<li><strong>1-add-features.R</strong>: Add various features that will be used later for modeling: team seeds, upset indicator, NCAA strength of schedule (SoS) ranking. Adds features to both the training set and the testing set.
-<ul>
-<li>depends: <em>data/working/compact_results.RData</em>; <em>data/raw/NCAATourneySeeds.csv</em>; <em>data/working/test_set.RData</em>;</li>
+<li><p>getting to know the data</p></li>
+<li><p>submitted the naive prediction of a 50-50 chance for both teams. The log- loss of this prediction is 0.6931472. I will refer to this as the naive baseline log-loss.</p></li>
+<li><p>As a first step beyond the naive 50-50 prediction, I computed the overall historical percentage in which the favored (i.e. lower seeded team) wins. This probability is 70.15%. I applied this probability to the 2014-2017 test sample. The Log-loss fell to 0.6064068.</p></li>
+<li><p>added win-loss record as features. Tried an initial logistic regression. Submitted. The Log-loss fell to 0.58261 on my machine, .561579 on Kaggle’s leader board.</p></li>
 </ul>
-<em>reg-season-win-probability.R</em>
+<p>PREDICTIONS 1. seed_win_prediction.csv Prediction is historical average frequency of favored team winning The Log-loss fell to 0.6064068.</p>
+<ol start="2" style="list-style-type: decimal">
+<li>record_win_prediction.csv Predictions using a logistic regression model of win-loss record. Logistic regression. Includes, for both teams 1 and 2, win percentage, number of wins, number of games played, as well as an indicator variable for whether or not team 1 was seeded lower (i.e. team 1 was favored). Log-loss fell to 0.58261.</li>
+</ol>
+</div>
+<div id="section-1" class="section level1">
+<h1>03/09/2018</h1>
 <ul>
-<li>outputs: <em>data/working/seeds.RData</em>; <em>data/working/train_set.RData</em></li>
-</ul></li>
-<li><strong>reg-season-win-probability.R</strong>: Called by <em>add-features.R</em>. Adds the regular season win percentage for each team in each season.
-<ul>
-<li>depends: <em>data/raw/RegularSeasonCompactResults.csv</em>; <em>data/working/train_set.RData</em>; <em>data/working/test_set.RData</em></li>
-<li>outputs: <em>data/working/test_set.RData</em></li>
-</ul></li>
-<li><strong>seed-win-probability.R</strong>: Exploratory in nature. Calculates the historical frequency of a favored team winning its match-up.
-<ul>
-<li>depends:</li>
-<li>outputs:</li>
-</ul></li>
-<li><strong>log-loss-evaluation.R</strong>: evaluate a set of predictions
-<ul>
-<li>depends:</li>
-<li>outputs:</li>
-</ul></li>
-<li><strong>get_ncaa_sos.py</strong>: Extract data on NCAA strength of schedule from pdf file and output it into a nice delimited file.
-<ul>
-<li>depends: <em>college_basketball_strength_of_schedule_database.pdf</em>; <em>data/working/ncaa_sos.txt</em></li>
-<li>outputs: <em>data/working/ncaa_sos_cleaned.txt</em></li>
-</ul></li>
-<li><strong>add_ncaa_sos.R</strong>: prepare for addition data on NCAA strength of schedule
-<ul>
-<li>depends: <em>data/working/ncaa_sos_cleaned.txt</em></li>
-<li>outputs: <em>data/working/ncaa_sos.RData</em></li>
-</ul></li>
-<li><strong>scoring-stats.R</strong>: adds points-per-game (ppg) and opponent ppg stats
-<ul>
-<li>depends: <em>data/raw/RegularSeasonCompactResults.csv</em></li>
-<li>outputs: <em>data/working/points_per_game.RData</em></li>
-</ul></li>
+<li>downloaded NCAA strength of schedule rankings. These data are in a pdf file, which I convert to text. The files contains different views of the same data. After converting the pdf to text, I manually extracted the first view of the data, which contained the fields (Year, Team, SOS, Record).</li>
+<li>cleaned up code (better variables names, comments, etc)</li>
+<li>submitted <em>predictions-03092018-a.csv</em>: Score of 0.557140, improvement of 19 places on leaderboard</li>
 </ul>
-<p>data/</p>
+</div>
+<div id="section-2" class="section level1">
+<h1>03/10/2018</h1>
 <ul>
-<li><p>raw/</p></li>
-<li><p>Cities.csv</p></li>
-<li><p>college_basketball_strength_of_schedule_database.pdf</p></li>
-<li><p>Conferences.csv</p></li>
-<li><p>ConferenceTourneyGames.csv</p></li>
-<li>DataFiles.zip</li>
-<li>GameCities.csv</li>
-<li>MasseyOrdinals.zip</li>
-<li>NCAATourneyCompactResults.csv</li>
-<li>NCAATourneyDetailedResults.csv</li>
-<li>NCAATourneySeedRoundSlots.csv</li>
-<li>NCAATourneySeeds.csv</li>
-<li>NCAATourneySlots.csv</li>
-<li>PlayByPlay_2010.zip</li>
-<li>RegularSeasonCompactResults.csv</li>
-<li>RegularSeasonDetailedResults.csv</li>
-<li>Seasons.csv</li>
-<li>SecondaryTourneyCompactResults.csv</li>
-<li>SecondaryTourneyTeams.csv</li>
-<li>TeamCoaches.csv</li>
-<li>TeamConferences.csv</li>
-<li>Teams.csv</li>
-<li>TeamSpellings.csv</li>
-<li>working/
-<ul>
-<li><strong>seed_win_prediction.csv</strong>: predictions using the prior probabiliyy of the favored team wining</li>
-<li><strong>record_win_prediction.csv</strong>: predictions using a logistic regression model of win-loss record</li>
-</ul></li>
+<li>added points and opp points per game stats</li>
+<li>submmited <em>predictions-03102018-a.csv</em>: Score of 0.548216, improvement of 26 places on leaderboard</li>
+<li>submmited <em>predictions-03102018-b.csv</em>: Score of 0.548216, improvement of 26 places on leaderboard</li>
 </ul>
 </div>
 
