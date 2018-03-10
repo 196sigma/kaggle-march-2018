@@ -24,6 +24,7 @@ Models
 team in a given game in a given round)
 
 TODO
+* evaluate error distributions, correlation among models
 * explore competition evaluation metric (log-loss)
 * predict upsets 
 * summary stats on BIG upsets (eg underdog is more than four ranks apart)

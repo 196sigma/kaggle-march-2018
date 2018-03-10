@@ -59,6 +59,6 @@ log.loss(train.set$y, train.set$pred)
 
 test.set$pred <- predict(m3, test.set, type = "response")
 test.set$pred <- pmax(pmin(0.999, test.set$pred), 0.001)
-write.csv(test.set[,c('id','pred')], file = 'data/working/predictions-03092018-a.csv', row.names = FALSE, quote = FALSE)
-logloss.evaluate('data/working/predictions-03092018-a.csv')
+write.csv(test.set[,c('id','pred')], file = 'data/results/predictions-03092018-a.csv', row.names = FALSE, quote = FALSE)
+logloss.evaluate('data/results/predictions-03092018-a.csv')
 
