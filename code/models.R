@@ -1,17 +1,15 @@
 ## Reginald Edwards
-## CREATED: 1 March 2018
-## MODIFIED:
-## DESCRIPTION: Compute the probability regular season win percentages and use
-## ase probability of tournament win
+## CREATED: 01 March 2018
+## MODIFIED: 02 March 2018
+## DESCRIPTION: 
 ###############################################################################
 
-source('code/prep-data.R')
-source('code/add-features.R')
 
 rm(list=ls())
+gc()
 
-load(file = 'data/working/training.RData')
-load(file = 'data/working/testing.RData')
+load(file = 'data/working/train_set.RData')
+load(file = 'data/working/test_set.RData')
 
 source('code/log-loss-evaluation.R')
 

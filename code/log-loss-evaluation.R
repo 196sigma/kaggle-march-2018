@@ -1,6 +1,6 @@
 ## Reginald Edwards
-## CREATED: 1 March 2018
-## MODIFIED:
+## CREATED: 01 March 2018
+## MODIFIED: 09 March 2018
 ## DESCRIPTION: This script computes the log-loss of the predictions. 
 ###############################################################################
 
@@ -34,3 +34,5 @@ logloss.evaluate <- function(predictions_file_loc = "data/results/SampleSubmissi
   return(log.loss(X$y, X$pred))
   ## 0.6931472 for naive predictions  
 }
+
+#save(logloss.evaluate, file = "code/logloss_evaluate.RData")

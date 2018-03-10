@@ -1,0 +1,2786 @@
+Year          Team                 SOS         Record
+       2010   A&M-Corpus Christi         159   17-15
+       2011   A&M-Corpus Christi         160   7-21
+       2012   A&M-Corpus Christi         269   6-24
+       2013   A&M-Corpus Christi         206   5-23
+       2014   A&M-Corpus Christi         318   15-13
+       2015   A&M-Corpus Christi         316   17-13
+       2016   A&M-Corpus Christi         235   23-7
+       2017   A&M-Corpus Christi         296   17-11
+       2015   Abilene Christian          274   7-21
+       2016   Abilene Christian          329   9-18
+       2017   Abilene Christian          309   9-16
+       2010   Air Force                  101   10-21
+       2011   Air Force                   58   14-14
+       2012   Air Force                   61   11-16
+       2013   Air Force                   52   15-13
+       2014   Air Force                  173   10-18
+       2015   Air Force                  198   12-17
+       2016   Air Force                  168   12-18
+       2017   Air Force                  103   10-21
+       2010   Akron                      168   24-10
+       2011   Akron                      184   22-12
+       2012   Akron                       60   21-11
+       2013   Akron                      120   25-6
+       2014   Akron                      143   21-12
+       2015   Akron                      120   20-14
+       2016   Akron                      126   25-8
+       2017   Akron                      161   25-8
+       2010   Alabama                     49   17-15
+       2011   Alabama                    130   21-11
+       2012   Alabama                     32   21-11
+       2013   Alabama                     78   20-12
+       2014   Alabama                      5   12-19
+       2015   Alabama                     61   17-14
+       2016   Alabama                     32   18-14
+       2017   Alabama                     68   19-14
+       2010   Alabama A&M                344   11-16
+       2011   Alabama A&M                334   10-15
+       2012   Alabama A&M                342   5-21
+       2013   Alabama A&M                339   9-20
+       2014   Alabama A&M                327   12-16
+       2015   Alabama A&M                347   8-20
+2016   Alabama A&M       351   10-18
+2017   Alabama A&M       347   2-27
+2010   Alabama St.       341   16-15
+2011   Alabama St.       329   15-17
+2012   Alabama St.       336   10-19
+2013   Alabama St.       330   9-22
+2014   Alabama St.       348   16-12
+2015   Alabama St.       351   17-10
+2016   Alabama St.       311   12-17
+2017   Alabama St.       329   7-23
+2010   Albany (NY)       202   7-25
+2011   Albany (NY)       290   16-16
+2012   Albany (NY)       332   19-14
+2013   Albany (NY)       286   24-10
+2014   Albany (NY)       273   18-14
+2015   Albany (NY)       286   24-8
+2016   Albany (NY)       301   23-8
+2017   Albany (NY)       202   20-13
+2010   Alcorn            288   2-29
+2011   Alcorn            321   4-24
+2012   Alcorn            343   7-21
+2013   Alcorn            296   9-23
+2014   Alcorn            326   9-19
+2015   Alcorn            345   5-25
+2016   Alcorn            324   13-15
+2017   Alcorn            326   15-14
+2010   American          307   11-20
+2011   American          307   22-9
+2012   American          302   20-11
+2013   American          235   10-20
+2014   American          217   20-12
+2015   American          158   17-16
+2016   American          190   12-19
+2017   American          223   8-22
+2010   Appalachian St.   183   22-12
+2011   Appalachian St.   229   14-15
+2012   Appalachian St.   238   11-18
+2013   Appalachian St.   323   13-16
+2014   Appalachian St.   291   5-21
+2015   Appalachian St.   279   12-17
+2016   Appalachian St.   135   9-22
+2017   Appalachian St.   172   7-21
+2010   Arizona            39   16-15
+2011   Arizona            54   27-7
+2012   Arizona           122   23-11
+2013   Arizona            28   25-7
+2014   Arizona             4   30-4
+2015   Arizona            23   31-3
+2016   Arizona            93   25-8
+2017   Arizona            14   30-4
+2010   Arizona St.        92   22-10
+2011   Arizona St.        69   12-19
+2012   Arizona St.       139   10-21
+2013   Arizona St.       111   21-12
+2014   Arizona St.        55   21-11
+2015   Arizona St.        64   17-15
+2016   Arizona St.        23   15-17
+2017   Arizona St.        58   15-18
+2010   Ark.-Pine Bluff   266   16-15
+2011   Ark.-Pine Bluff   318   7-24
+2012   Ark.-Pine Bluff   327   11-22
+2013   Ark.-Pine Bluff   320   16-14
+2014   Ark.-Pine Bluff   270   11-18
+2015   Ark.-Pine Bluff   340   12-20
+2016   Ark.-Pine Bluff   300   8-25
+2017   Ark.-Pine Bluff   334   6-24
+2010   Arkansas           40   14-18
+2011   Arkansas          129   18-13
+2012   Arkansas           63   18-14
+2013   Arkansas           91   19-13
+2014   Arkansas           98   21-11
+2015   Arkansas           37   26-8
+2016   Arkansas           72   16-16
+2017   Arkansas           55   25-9
+2010   Arkansas St.      254   17-14
+2011   Arkansas St.      188   15-15
+2012   Arkansas St.      166   13-20
+2013   Arkansas St.      252   18-12
+2014   Arkansas St.      286   17-13
+2015   Arkansas St.      280   10-18
+2016   Arkansas St.      197   9-20
+2017   Arkansas St.      241   19-12
+2010   Army              303   14-15
+2011   Army              297   10-19
+2012   Army          330   11-18
+2013   Army          276   15-15
+2014   Army          266   14-16
+2015   Army          308   14-15
+2016   Army          323   18-13
+2017   Army          259   12-19
+2010   Auburn         64   15-17
+2011   Auburn        163   10-20
+2012   Auburn         77   15-16
+2013   Auburn        131   9-23
+2014   Auburn        114   14-16
+2015   Auburn         22   14-20
+2016   Auburn         48   11-20
+2017   Auburn        154   18-14
+2010   Austin Peay   147   17-15
+2011   Austin Peay   173   18-13
+2012   Austin Peay    82   11-20
+2013   Austin Peay   237   6-23
+2014   Austin Peay   324   10-18
+2015   Austin Peay   200   6-22
+2016   Austin Peay   187   16-17
+2017   Austin Peay   214   9-19
+2010   Ball St.      238   15-15
+2011   Ball St.      281   18-12
+2012   Ball St.      331   14-15
+2013   Ball St.      297   14-15
+2014   Ball St.       99   3-25
+2015   Ball St.       88   6-23
+2016   Ball St.      250   18-13
+2017   Ball St.      292   20-12
+2010   Baylor         15   25-7
+2011   Baylor         46   17-13
+2012   Baylor          8   26-7
+2013   Baylor         25   17-14
+2014   Baylor          9   22-11
+2015   Baylor          3   23-9
+2016   Baylor          4   21-11
+2017   Baylor          5   24-7
+2010   Belmont       207   19-12
+2011   Belmont       285   30-4
+2012   Belmont       201   26-7
+2013   Belmont        61   24-6
+2014   Belmont           129   23-9
+2015   Belmont           251   21-10
+2016   Belmont           166   19-11
+2017   Belmont           193   21-6
+2010   Bethune-Cookman   326   17-16
+2011   Bethune-Cookman   313   17-12
+2012   Bethune-Cookman   317   16-17
+2013   Bethune-Cookman   283   12-20
+2014   Bethune-Cookman   335   5-25
+2015   Bethune-Cookman   350   9-21
+2016   Bethune-Cookman   336   12-18
+2017   Bethune-Cookman   344   8-22
+2010   Binghamton        179   13-18
+2011   Binghamton        231   8-23
+2012   Binghamton        318   2-29
+2013   Binghamton        209   2-27
+2014   Binghamton        305   7-23
+2015   Binghamton        230   5-25
+2016   Binghamton        215   8-22
+2017   Binghamton        281   9-20
+2010   Boise St.         195   15-17
+2011   Boise St.         178   19-12
+2012   Boise St.         100   12-17
+2013   Boise St.          69   19-10
+2014   Boise St.          79   19-13
+2015   Boise St.         118   23-8
+2016   Boise St.         127   18-12
+2017   Boise St.          98   18-11
+2010   Boston College     46   15-16
+2011   Boston College     40   20-12
+2012   Boston College     83   9-22
+2013   Boston College     47   16-17
+2014   Boston College     47   7-24
+2015   Boston College     58   13-19
+2016   Boston College     64   7-25
+2017   Boston College     39   9-23
+2010   Boston U.         192   19-13
+2011   Boston U.         212   21-13
+2012   Boston U.         230   16-16
+2013   Boston U.         208   17-12
+2014   Boston U.         137   24-10
+2015   Boston U.         112   12-17
+2016   Boston U.       280   17-14
+2017   Boston U.       238   17-14
+2010   Bowling Green   171   14-16
+2011   Bowling Green   243   13-19
+2012   Bowling Green   149   15-15
+2013   Bowling Green   212   11-19
+2014   Bowling Green    95   11-20
+2015   Bowling Green   239   20-10
+2016   Bowling Green   189   14-18
+2017   Bowling Green   140   12-19
+2010   Bradley          59   16-15
+2011   Bradley         150   11-20
+2012   Bradley          85   7-25
+2013   Bradley         223   16-16
+2014   Bradley         199   12-20
+2015   Bradley         131   8-24
+2016   Bradley         113   4-27
+2017   Bradley         135   12-20
+2010   Brown           206   11-20
+2011   Brown           193   10-17
+2012   Brown           234   7-23
+2013   Brown           306   12-15
+2014   Brown           310   14-13
+2015   Brown           192   11-18
+2016   Brown           256   7-20
+2017   Brown           306   11-17
+2010   Bryant          302   1-29
+2011   Bryant          145   8-21
+2012   Bryant          266   2-28
+2013   Bryant          268   19-11
+2014   Bryant          235   17-14
+2015   Bryant          220   16-15
+2016   Bryant          270   7-23
+2017   Bryant          252   11-20
+2010   Bucknell        327   14-17
+2011   Bucknell        221   25-8
+2012   Bucknell        187   23-9
+2013   Bucknell        189   27-5
+2014   Bucknell        208   16-14
+2015   Bucknell        174   18-14
+2016   Bucknell        238   16-13
+2017   Bucknell        190   26-8
+2010   Buffalo              140   18-12
+2011   Buffalo              239   17-13
+2012   Buffalo              112   18-10
+2013   Buffalo              155   12-20
+2014   Buffalo              177   18-10
+2015   Buffalo               59   23-9
+2016   Buffalo               80   19-14
+2017   Buffalo              116   15-15
+2010   Butler                69   28-4
+2011   Butler                67   22-9
+2012   Butler               108   19-14
+2013   Butler                30   25-8
+2014   Butler               101   13-17
+2015   Butler                41   22-10
+2016   Butler                86   21-10
+2017   Butler                 9   23-8
+2010   BYU                  125   29-5
+2011   BYU                   18   29-4
+2012   BYU                  104   23-8
+2013   BYU                   94   20-11
+2014   BYU                   12   22-11
+2015   BYU                   66   23-9
+2016   BYU                  122   22-10
+2017   BYU                   83   22-11
+2010   Cal Poly             292   12-19
+2011   Cal Poly             302   15-14
+2012   Cal Poly             306   16-15
+2013   Cal Poly             229   16-13
+2014   Cal Poly             121   11-19
+2015   Cal Poly             165   11-16
+2016   Cal Poly             121   8-20
+2017   Cal Poly             287   9-20
+2010   Cal St. Fullerton    235   16-15
+2011   Cal St. Fullerton    316   10-20
+2012   Cal St. Fullerton    319   19-9
+2013   Cal St. Fullerton    314   12-18
+2014   Cal St. Fullerton    280   11-20
+2015   Cal St. Fullerton    262   7-22
+2016   Cal St. Fullerton    272   8-20
+2017   Cal St. Fullerton    342   15-14
+2010   Cal St. Northridge   184   11-21
+2011   Cal St. Northridge   277   12-18
+2012   Cal St. Northridge   309   5-21
+2013   Cal St. Northridge   277   12-17
+2014   Cal St. Northridge   297   15-18
+2015   Cal St. Northridge    99   7-24
+2016   Cal St. Northridge   231   8-20
+2017   Cal St. Northridge   319   10-18
+2010   California             8   23-10
+2011   California            23   17-14
+2012   California            79   24-9
+2013   California            41   20-11
+2014   California            38   19-13
+2015   California            65   18-15
+2016   California            16   23-10
+2017   California            37   21-12
+2010   Campbell             283   19-11
+2011   Campbell             284   11-19
+2012   Campbell             308   16-15
+2013   Campbell             278   11-19
+2014   Campbell             320   9-19
+2015   Campbell             232   7-22
+2016   Campbell             326   9-18
+2017   Campbell             301   14-17
+2010   Canisius             237   15-17
+2011   Canisius             180   15-15
+2012   Canisius             312   5-25
+2013   Canisius             145   18-13
+2014   Canisius             186   21-11
+2015   Canisius             194   16-14
+2016   Canisius             200   14-19
+2017   Canisius             216   18-15
+2010   Centenary (LA)       264   8-21
+2011   Centenary (LA)       269   1-27
+2010   Central Ark.         293   9-21
+2011   Central Ark.         252   2-24
+2012   Central Ark.         301   6-20
+2013   Central Ark.         308   11-17
+2014   Central Ark.         275   6-19
+2015   Central Ark.         329   2-27
+2016   Central Ark.         332   7-21
+2017   Central Ark.         218   8-24
+2010   Central Conn. St.    338   12-18
+2011   Central Conn. St.    259   19-12
+2012   Central Conn. St.   236   13-16
+2013   Central Conn. St.   188   13-17
+2014   Central Conn. St.   300   10-19
+2015   Central Conn. St.   296   5-26
+2016   Central Conn. St.   348   4-25
+2017   Central Conn. St.   341   6-23
+2010   Central Mich.       236   15-15
+2011   Central Mich.       305   9-21
+2012   Central Mich.       275   10-21
+2013   Central Mich.       225   10-20
+2014   Central Mich.       222   8-21
+2015   Central Mich.       173   20-8
+2016   Central Mich.       103   14-15
+2017   Central Mich.       251   14-16
+2010   Charleston So.      291   13-17
+2011   Charleston So.      249   12-16
+2012   Charleston So.      255   16-12
+2013   Charleston So.      291   16-12
+2014   Charleston So.      240   9-18
+2015   Charleston So.      270   16-11
+2016   Charleston So.      178   6-21
+2017   Charleston So.      269   9-19
+2010   Charlotte           106   19-12
+2011   Charlotte           124   10-20
+2012   Charlotte           138   13-17
+2013   Charlotte           105   21-11
+2014   Charlotte           151   17-14
+2015   Charlotte           176   14-18
+2016   Charlotte           230   14-19
+2017   Charlotte           237   12-17
+2010   Chattanooga         222   15-18
+2011   Chattanooga         194   14-16
+2012   Chattanooga         231   8-21
+2013   Chattanooga         265   11-19
+2014   Chattanooga         330   15-14
+2015   Chattanooga         224   20-10
+2016   Chattanooga         222   27-5
+2017   Chattanooga         222   17-12
+2010   Chicago St.         346   9-23
+2011   Chicago St.         322   4-25
+2012   Chicago St.         288   3-25
+2013   Chicago St.         269   7-21
+2014   Chicago St.     230   11-19
+2015   Chicago St.     254   5-24
+2016   Chicago St.     206   1-28
+2017   Chicago St.     127   3-26
+2010   Cincinnati       12   18-15
+2011   Cincinnati      102   25-8
+2012   Cincinnati       80   24-10
+2013   Cincinnati       26   22-11
+2014   Cincinnati       59   27-6
+2015   Cincinnati       55   22-10
+2016   Cincinnati       66   22-10
+2017   Cincinnati       57   29-5
+2010   Citadel         199   16-16
+2011   Citadel         208   8-22
+2012   Citadel         222   4-24
+2013   Citadel         315   6-22
+2014   Citadel         306   4-25
+2015   Citadel         332   8-19
+2016   Citadel         298   7-22
+2017   Citadel         233   9-21
+2010   Clemson          22   21-10
+2011   Clemson          71   21-11
+2012   Clemson         142   16-15
+2013   Clemson         127   13-18
+2014   Clemson          94   20-12
+2015   Clemson          69   16-15
+2016   Clemson         118   17-14
+2017   Clemson          31   17-15
+2010   Cleveland St.    78   16-17
+2011   Cleveland St.   113   24-8
+2012   Cleveland St.   134   21-10
+2013   Cleveland St.   126   11-18
+2014   Cleveland St.   136   19-11
+2015   Cleveland St.   132   16-14
+2016   Cleveland St.   128   7-23
+2017   Cleveland St.   114   8-22
+2010   Coastal Caro.   332   28-6
+2011   Coastal Caro.   311   24-5
+2012   Coastal Caro.   264   15-11
+2013   Coastal Caro.   248   11-15
+2014   Coastal Caro.   284   18-12
+2015   Coastal Caro.   306   20-9
+2016   Coastal Caro.        233   15-11
+2017   Coastal Caro.         95   14-17
+2010   Col. Of Charleston   173   21-11
+2011   Col. of Charleston   152   24-10
+2012   Col. of Charleston   145   19-12
+2013   Col. of Charleston   258   24-9
+2014   Col. of Charleston   207   13-18
+2015   Col. of Charleston   207   9-24
+2016   Col. of Charleston   120   16-14
+2017   Col. of Charleston   138   24-9
+2010   Colgate              271   10-19
+2011   Colgate              262   7-23
+2012   Colgate              240   8-22
+2013   Colgate              227   11-21
+2014   Colgate              256   12-18
+2015   Colgate              189   15-17
+2016   Colgate              273   12-17
+2017   Colgate              282   9-22
+2010   Colorado              33   15-16
+2011   Colorado              60   20-13
+2012   Colorado              72   21-11
+2013   Colorado              23   21-11
+2014   Colorado              18   23-11
+2015   Colorado              48   15-17
+2016   Colorado              47   21-11
+2017   Colorado             111   18-14
+2010   Colorado St.          96   16-15
+2011   Colorado St.          29   18-12
+2012   Colorado St.           7   19-11
+2013   Colorado St.          49   23-8
+2014   Colorado St.         119   14-16
+2015   Colorado St.         108   26-6
+2016   Colorado St.         167   16-16
+2017   Colorado St.          82   21-11
+2010   Columbia             230   11-17
+2011   Columbia             228   14-13
+2012   Columbia             164   13-15
+2013   Columbia             289   10-16
+2014   Columbia             161   18-12
+2015   Columbia             106   12-15
+2016   Columbia             195   19-10
+2017   Columbia             275   10-16
+2010   Coppin St.        323   8-22
+2011   Coppin St.        328   13-14
+2012   Coppin St.        326   10-16
+2013   Coppin St.        260   7-24
+2014   Coppin St.        218   11-20
+2015   Coppin St.        242   7-23
+2016   Coppin St.        307   7-22
+2017   Coppin St.        321   7-23
+2010   Cornell           209   27-4
+2011   Cornell           123   10-18
+2012   Cornell           103   11-16
+2013   Cornell           279   12-18
+2014   Cornell           118   1-26
+2015   Cornell           223   12-17
+2016   Cornell           169   9-18
+2017   Cornell           177   7-21
+2010   Creighton          85   16-15
+2011   Creighton         131   19-14
+2012   Creighton         114   28-5
+2013   Creighton          87   27-7
+2014   Creighton          22   26-7
+2015   Creighton          71   14-19
+2016   Creighton          92   18-14
+2017   Creighton          45   24-9
+2010   CSU Bakersfield   300   7-22
+2011   CSU Bakersfield   298   9-19
+2012   CSU Bakersfield   281   13-14
+2013   CSU Bakersfield   242   10-16
+2014   CSU Bakersfield   322   12-19
+2015   CSU Bakersfield   309   11-19
+2016   CSU Bakersfield   310   21-8
+2017   CSU Bakersfield   171   19-9
+2010   Dartmouth         208   5-23
+2011   Dartmouth         192   5-23
+2012   Dartmouth         220   4-25
+2013   Dartmouth         244   8-19
+2014   Dartmouth         252   10-16
+2015   Dartmouth         221   14-14
+2016   Dartmouth         214   9-18
+2017   Dartmouth         234   7-20
+2010   Davidson          137   16-15
+2011   Davidson          254   16-14
+2012   Davidson       165   24-7
+2013   Davidson       177   25-7
+2014   Davidson       182   19-12
+2015   Davidson       113   23-7
+2016   Davidson        57   19-12
+2017   Davidson        69   17-15
+2010   Dayton          26   20-12
+2011   Dayton          63   22-13
+2012   Dayton          75   20-12
+2013   Dayton          99   17-14
+2014   Dayton          56   23-10
+2015   Dayton         103   25-8
+2016   Dayton          46   25-7
+2017   Dayton          70   23-7
+2010   Delaware        53   7-24
+2011   Delaware       107   14-17
+2012   Delaware       237   18-13
+2013   Delaware       175   19-14
+2014   Delaware       191   25-9
+2015   Delaware       156   10-20
+2016   Delaware       147   7-23
+2017   Delaware       183   11-20
+2010   Delaware St.   282   17-12
+2011   Delaware St.   278   7-21
+2012   Delaware St.   321   13-14
+2013   Delaware St.   326   13-18
+2014   Delaware St.   307   7-21
+2015   Delaware St.   268   16-17
+2016   Delaware St.   308   5-25
+2017   Delaware St.   338   8-22
+2010   Denver         217   19-13
+2011   Denver         223   13-17
+2012   Denver         196   22-9
+2013   Denver         139   21-9
+2014   Denver         108   15-15
+2015   Denver         130   12-18
+2016   Denver         196   16-15
+2017   Denver         297   16-14
+2010   DePaul          38   8-23
+2011   DePaul          53   7-24
+2012   DePaul         130   12-19
+2013   DePaul         112   11-21
+2014   DePaul      36   12-21
+2015   DePaul      97   12-20
+2016   DePaul      73   9-22
+2017   DePaul      84   9-23
+2010   Detroit    234   20-14
+2011   Detroit    147   16-16
+2012   Detroit    184   20-13
+2013   Detroit     86   18-12
+2014   Detroit    165   11-19
+2015   Detroit    142   13-18
+2016   Detroit    223   14-15
+2017   Detroit    166   7-23
+2010   Drake      102   14-19
+2011   Drake      183   13-18
+2012   Drake      123   16-15
+2013   Drake       85   14-17
+2014   Drake      150   14-16
+2015   Drake       91   8-22
+2016   Drake      226   6-24
+2017   Drake      153   6-23
+2010   Drexel     141   16-16
+2011   Drexel     155   21-10
+2012   Drexel     229   27-6
+2013   Drexel     179   13-18
+2014   Drexel     158   16-14
+2015   Drexel     188   11-18
+2016   Drexel      69   6-24
+2017   Drexel     258   8-23
+2010   Duke        11   29-5
+2011   Duke        24   30-4
+2012   Duke         3   27-6
+2013   Duke         1   27-5
+2014   Duke         6   26-8
+2015   Duke        13   29-4
+2016   Duke         8   23-10
+2017   Duke         6   27-8
+2010   Duquesne    86   16-15
+2011   Duquesne   134   17-12
+2012   Duquesne    48   15-15
+2013   Duquesne    89   8-22
+2014   Duquesne   146   12-17
+2015   Duquesne   111   11-19
+2016   Duquesne        123   15-16
+2017   Duquesne        157   10-22
+2010   East Carolina   115   10-21
+2011   East Carolina    38   15-15
+2012   East Carolina    69   11-16
+2013   East Carolina    77   14-12
+2014   East Carolina   198   13-16
+2015   East Carolina   137   12-19
+2016   East Carolina   125   12-20
+2017   East Carolina   163   15-18
+2010   Eastern Ill.    218   19-12
+2011   Eastern Ill.    273   7-20
+2012   Eastern Ill.    316   10-17
+2013   Eastern Ill.    247   11-20
+2014   Eastern Ill.    269   9-19
+2015   Eastern Ill.    171   15-14
+2016   Eastern Ill.    278   11-17
+2017   Eastern Ill.    328   12-15
+2010   Eastern Ky.     215   20-12
+2011   Eastern Ky.     327   13-16
+2012   Eastern Ky.     262   14-16
+2013   Eastern Ky.     153   22-9
+2014   Eastern Ky.     224   22-9
+2015   Eastern Ky.     260   17-11
+2016   Eastern Ky.     207   14-16
+2017   Eastern Ky.     178   10-19
+2010   Eastern Mich.   245   17-15
+2011   Eastern Mich.   276   6-22
+2012   Eastern Mich.   294   13-18
+2013   Eastern Mich.   220   13-18
+2014   Eastern Mich.    76   18-14
+2015   Eastern Mich.   181   17-13
+2016   Eastern Mich.    58   14-15
+2017   Eastern Mich.    88   12-17
+2010   Eastern Wash.   161   9-21
+2011   Eastern Wash.   202   8-20
+2012   Eastern Wash.   228   13-17
+2013   Eastern Wash.   312   10-21
+2014   Eastern Wash.   220   13-16
+2015   Eastern Wash.   206   23-8
+2016   Eastern Wash.   334   15-15
+2017   Eastern Wash.   303   20-11
+2010   Elon                  197   9-23
+2011   Elon                  308   11-17
+2012   Elon                  274   13-16
+2013   Elon                  305   19-11
+2014   Elon                  200   16-13
+2015   Elon                  294   13-18
+2016   Elon                  130   14-16
+2017   Elon                  213   16-14
+2010   ETSU                  151   20-14
+2011   ETSU                  168   21-11
+2012   ETSU                  258   16-14
+2013   ETSU                  191   9-22
+2014   ETSU                  234   17-15
+2015   ETSU                  191   14-14
+2016   ETSU                  129   21-11
+2017   ETSU                  182   25-7
+2010   Evansville            129   9-21
+2011   Evansville             96   14-15
+2012   Evansville             81   15-15
+2013   Evansville             97   17-14
+2014   Evansville            120   12-19
+2015   Evansville            139   18-12
+2016   Evansville            186   24-9
+2017   Evansville            101   14-17
+2010   Fairfield             167   22-10
+2011   Fairfield             264   24-7
+2012   Fairfield             120   19-14
+2013   Fairfield             263   19-15
+2014   Fairfield             147   7-25
+2015   Fairfield             125   7-24
+2016   Fairfield             158   19-13
+2017   Fairfield             231   16-14
+2010   Fairleigh Dickinson   216   11-21
+2011   Fairleigh Dickinson   257   5-24
+2012   Fairleigh Dickinson   212   3-26
+2013   Fairleigh Dickinson   222   7-24
+2014   Fairleigh Dickinson   223   9-20
+2015   Fairleigh Dickinson   284   7-21
+2016   Fairleigh Dickinson   276   17-14
+2017   Fairleigh Dickinson   267   10-19
+2010   FGCU                  319   8-21
+2011   FGCU                  250   10-20
+2012   FGCU            211   14-17
+2013   FGCU            202   22-10
+2014   FGCU            257   20-12
+2015   FGCU            258   19-10
+2016   FGCU            290   16-13
+2017   FGCU            240   23-7
+2010   FIU             174   7-25
+2011   FIU             216   9-19
+2012   FIU             151   8-20
+2013   FIU             133   18-14
+2014   FIU             194   13-15
+2015   FIU             269   14-17
+2016   FIU             236   11-19
+2017   FIU             247   5-24
+2010   Fla. Atlantic   212   14-16
+2011   Fla. Atlantic   220   19-10
+2012   Fla. Atlantic   127   10-19
+2013   Fla. Atlantic   214   13-18
+2014   Fla. Atlantic   166   8-22
+2015   Fla. Atlantic   211   7-20
+2016   Fla. Atlantic   208   7-24
+2017   Fla. Atlantic   221   8-20
+2010   Florida          35   21-12
+2011   Florida           3   26-7
+2012   Florida          25   23-10
+2013   Florida          15   26-7
+2014   Florida          11   32-2
+2015   Florida           4   16-17
+2016   Florida          11   19-14
+2017   Florida           7   24-8
+2010   Florida A&M     314   9-22
+2011   Florida A&M     332   8-20
+2012   Florida A&M     296   8-23
+2013   Florida A&M     310   6-23
+2014   Florida A&M     333   12-18
+2015   Florida A&M     342   2-27
+2016   Florida A&M     344   6-21
+2017   Florida A&M     350   5-23
+2010   Florida St.      56   22-9
+2011   Florida St.      90   21-10
+2012   Florida St.       4   24-9
+2013   Florida St.      44   18-15
+2014   Florida St.     39   19-13
+2015   Florida St.     72   17-16
+2016   Florida St.     91   19-13
+2017   Florida St.     19   25-8
+2010   Fordham         98   2-26
+2011   Fordham         83   7-21
+2012   Fordham        136   10-19
+2013   Fordham         76   7-24
+2014   Fordham        100   10-21
+2015   Fordham         87   9-21
+2016   Fordham        205   16-13
+2017   Fordham        136   12-19
+2017   Fort Wayne     268   16-12
+2010   Fresno St.     118   15-18
+2011   Fresno St.     171   13-17
+2012   Fresno St.     160   11-20
+2013   Fresno St.      19   9-19
+2014   Fresno St.      86   15-16
+2015   Fresno St.     126   13-17
+2016   Fresno St.     134   23-9
+2017   Fresno St.     105   18-12
+2010   Furman         322   13-17
+2011   Furman         240   20-10
+2012   Furman         278   13-16
+2013   Furman         327   5-24
+2014   Furman         342   7-20
+2015   Furman         185   9-22
+2016   Furman         183   16-15
+2017   Furman         187   19-11
+2010   Ga. Southern   165   9-23
+2011   Ga. Southern   288   2-27
+2012   Ga. Southern   249   13-15
+2013   Ga. Southern   285   12-19
+2014   Ga. Southern   340   12-19
+2015   Ga. Southern   263   19-9
+2016   Ga. Southern   248   12-17
+2017   Ga. Southern   152   16-14
+2010   Gardner-Webb   262   8-21
+2011   Gardner-Webb   225   9-21
+2012   Gardner-Webb   311   10-20
+2013   Gardner-Webb   328   18-12
+2014   Gardner-Webb   328   15-15
+2015   Gardner-Webb        148   16-14
+2016   Gardner-Webb        258   14-16
+2017   Gardner-Webb        253   16-14
+2010   George Mason        180   17-14
+2011   George Mason         88   26-6
+2012   George Mason        186   24-9
+2013   George Mason        172   18-14
+2014   George Mason         67   11-20
+2015   George Mason         60   8-22
+2016   George Mason         88   11-21
+2017   George Mason        131   19-13
+2010   George Washington   170   16-14
+2011   George Washington   164   17-14
+2012   George Washington    52   10-21
+2013   George Washington    90   13-17
+2014   George Washington    78   24-8
+2015   George Washington   167   21-12
+2016   George Washington   119   23-10
+2017   George Washington   115   19-14
+2010   Georgetown            1   23-10
+2011   Georgetown            1   21-10
+2012   Georgetown           13   22-8
+2013   Georgetown           18   25-6
+2014   Georgetown           19   17-14
+2015   Georgetown           12   21-10
+2016   Georgetown           20   15-18
+2017   Georgetown           27   14-18
+2010   Georgia              17   14-17
+2011   Georgia              44   21-11
+2012   Georgia              14   15-17
+2013   Georgia              70   15-17
+2014   Georgia              57   19-13
+2015   Georgia              39   21-11
+2016   Georgia              19   19-13
+2017   Georgia              12   18-14
+2010   Georgia St.         187   12-20
+2011   Georgia St.         158   12-19
+2012   Georgia St.         260   21-11
+2013   Georgia St.         231   14-16
+2014   Georgia St.         227   23-8
+2015   Georgia St.         136   23-9
+2016   Georgia St.         164   14-14
+2017   Georgia St.    160   18-12
+2010   Georgia Tech     9   22-12
+2011   Georgia Tech    80   13-18
+2012   Georgia Tech    96   11-20
+2013   Georgia Tech   128   16-15
+2014   Georgia Tech   140   16-17
+2015   Georgia Tech    32   12-19
+2016   Georgia Tech    22   19-14
+2017   Georgia Tech    71   16-15
+2010   Gonzaga        117   26-6
+2011   Gonzaga        100   23-9
+2012   Gonzaga         70   25-6
+2013   Gonzaga         75   30-2
+2014   Gonzaga         84   27-6
+2015   Gonzaga         68   31-2
+2016   Gonzaga        107   25-7
+2017   Gonzaga         80   32-1
+2010   Grambling      340   7-21
+2011   Grambling      340   12-21
+2012   Grambling      341   4-24
+2013   Grambling      342   0-28
+2014   Grambling      338   4-23
+2015   Grambling      349   0-27
+2016   Grambling      325   4-24
+2017   Grambling      346   13-17
+2014   Grand Canyon   233   12-14
+2015   Grand Canyon   330   15-14
+2016   Grand Canyon   249   23-6
+2017   Grand Canyon   280   20-9
+2010   Green Bay      160   21-12
+2011   Green Bay      121   13-18
+2012   Green Bay      117   13-15
+2013   Green Bay      166   17-15
+2014   Green Bay      139   21-6
+2015   Green Bay      147   22-8
+2016   Green Bay      218   21-12
+2017   Green Bay      230   16-13
+2010   Hampton        337   14-18
+2011   Hampton        338   23-8
+2012   Hampton        324   12-21
+2013   Hampton        329   14-17
+2014   Hampton        321   18-12
+2015   Hampton      326   16-17
+2016   Hampton      320   20-10
+2017   Hampton      323   12-16
+2010   Hartford     261   8-22
+2011   Hartford     244   11-20
+2012   Hartford     292   9-22
+2013   Hartford     281   17-13
+2014   Hartford     313   17-16
+2015   Hartford     276   13-16
+2016   Hartford     225   9-23
+2017   Hartford     313   9-23
+2010   Harvard      279   21-7
+2011   Harvard      142   21-6
+2012   Harvard      209   25-4
+2013   Harvard      187   18-9
+2014   Harvard      229   25-4
+2015   Harvard      134   20-7
+2016   Harvard      151   12-16
+2017   Harvard      227   16-10
+2010   Hawaii       103   10-20
+2011   Hawaii       210   17-12
+2012   Hawaii       175   14-16
+2013   Hawaii       234   16-14
+2014   Hawaii       215   18-11
+2015   Hawaii       163   20-13
+2016   Hawaii       253   25-5
+2017   Hawaii       312   13-16
+2010   High Point   331   15-15
+2011   High Point   211   10-19
+2012   High Point   235   11-18
+2013   High Point   332   15-13
+2014   High Point   183   14-14
+2015   High Point   190   19-9
+2016   High Point   306   18-10
+2017   High Point   254   12-16
+2010   Hofstra      175   19-14
+2011   Hofstra      140   20-11
+2012   Hofstra      126   10-22
+2013   Hofstra      215   6-25
+2014   Hofstra      178   10-23
+2015   Hofstra      288   20-13
+2016   Hofstra      106   23-9
+2017   Hofstra           165   14-17
+2010   Holy Cross        198   9-22
+2011   Holy Cross        219   8-21
+2012   Holy Cross        213   15-14
+2013   Holy Cross        274   12-18
+2014   Holy Cross        176   19-13
+2015   Holy Cross        153   13-16
+2016   Holy Cross        295   14-19
+2017   Holy Cross        235   15-17
+2010   Houston           110   19-15
+2011   Houston           169   10-18
+2012   Houston           214   14-15
+2013   Houston           322   18-12
+2014   Houston           130   17-16
+2015   Houston           175   13-19
+2016   Houston           148   22-9
+2017   Houston            73   21-10
+2010   Houston Baptist   343   12-21
+2011   Houston Baptist   341   5-24
+2012   Houston Baptist   286   7-20
+2013   Houston Baptist   344   11-17
+2014   Houston Baptist   309   4-23
+2015   Houston Baptist   265   8-16
+2016   Houston Baptist   227   13-16
+2017   Houston Baptist   194   13-13
+2010   Howard            310   7-25
+2011   Howard            260   6-24
+2012   Howard            244   9-21
+2013   Howard            318   6-23
+2014   Howard            278   6-25
+2015   Howard            334   13-16
+2016   Howard            337   10-20
+2017   Howard            327   8-24
+2010   Idaho             143   15-16
+2011   Idaho             170   17-13
+2012   Idaho             172   16-13
+2013   Idaho             123   11-18
+2014   Idaho             255   15-18
+2015   Idaho             222   11-17
+2016   Idaho             314   19-12
+2017   Idaho             307   16-13
+2010   Idaho St.         185   7-22
+2011   Idaho St.        206   7-20
+2012   Idaho St.        253   8-21
+2013   Idaho St.        301   5-24
+2014   Idaho St.        262   9-18
+2015   Idaho St.        322   5-23
+2016   Idaho St.        347   14-15
+2017   Idaho St.        246   4-26
+2010   Ill.-Chicago     193   8-22
+2011   Ill.-Chicago     157   6-24
+2012   Ill.-Chicago     217   7-21
+2013   Ill.-Chicago     159   16-15
+2014   Ill.-Chicago     184   4-25
+2015   Ill.-Chicago     177   8-24
+2016   Ill.-Chicago     265   3-25
+2017   Ill.-Chicago     270   13-18
+2010   Illinois          34   19-14
+2011   Illinois          21   19-13
+2012   Illinois          33   17-15
+2013   Illinois           9   21-12
+2014   Illinois          37   19-14
+2015   Illinois          74   19-13
+2016   Illinois          70   15-19
+2017   Illinois          20   17-14
+2010   Illinois St.     148   22-10
+2011   Illinois St.     214   12-19
+2012   Illinois St.     118   20-13
+2013   Illinois St.     118   18-15
+2014   Illinois St.     111   15-15
+2015   Illinois St.      54   20-12
+2016   Illinois St.      94   17-14
+2017   Illinois St.     123   26-6
+2015   Incarnate Word   266   14-10
+2016   Incarnate Word   261   14-11
+2017   Incarnate Word   250   8-17
+2010   Indiana           89   10-21
+2011   Indiana           65   12-20
+2012   Indiana           27   25-8
+2013   Indiana           10   27-6
+2014   Indiana           62   17-15
+2015   Indiana           25   20-13
+2016   Indiana           97   25-7
+2017   Indiana           36   18-15
+2010   Indiana St.    50   17-14
+2011   Indiana St.    86   19-13
+2012   Indiana St.   161   17-14
+2013   Indiana St.    45   17-14
+2014   Indiana St.   132   21-10
+2015   Indiana St.   148   14-16
+2016   Indiana St.   116   14-17
+2017   Indiana St.   143   10-20
+2010   Iona          158   21-10
+2011   Iona          103   22-11
+2012   Iona          144   25-7
+2013   Iona          136   20-13
+2014   Iona          113   22-10
+2015   Iona          187   26-8
+2016   Iona          142   22-10
+2017   Iona          158   22-12
+2010   Iowa           47   10-22
+2011   Iowa           75   11-20
+2012   Iowa           92   17-16
+2013   Iowa          122   21-12
+2014   Iowa           43   19-12
+2015   Iowa           29   21-11
+2016   Iowa           28   21-10
+2017   Iowa           56   18-14
+2010   Iowa St.       43   15-17
+2011   Iowa St.       81   16-16
+2012   Iowa St.       38   22-10
+2013   Iowa St.       37   22-11
+2014   Iowa St.       25   26-7
+2015   Iowa St.       11   25-8
+2016   Iowa St.       12   21-11
+2017   Iowa St.       23   23-10
+2010   IPFW          296   16-15
+2011   IPFW          289   17-12
+2012   IPFW          219   8-19
+2013   IPFW          319   14-17
+2014   IPFW          280   21-10
+2015   IPFW          257   13-14
+2016   IPFW          159   22-9
+2010   IUPUI         177   24-10
+2011   IUPUI         137   17-14
+2012   IUPUI         143   12-18
+2013   IUPUI              210   4-26
+2014   IUPUI              138   3-26
+2015   IUPUI              172   10-21
+2016   IUPUI              141   12-19
+2017   IUPUI              219   12-18
+2010   Jackson St.        317   19-12
+2011   Jackson St.        337   15-15
+2012   Jackson St.        280   6-24
+2013   Jackson St.        343   11-18
+2014   Jackson St.        312   11-20
+2015   Jackson St.        346   11-21
+2016   Jackson St.        330   17-15
+2017   Jackson St.        343   12-17
+2010   Jacksonville       253   19-12
+2011   Jacksonville       273   18-11
+2012   Jacksonville       153   8-22
+2013   Jacksonville       321   12-18
+2014   Jacksonville       260   10-18
+2015   Jacksonville       335   7-22
+2016   Jacksonville       346   12-16
+2017   Jacksonville       348   13-15
+2010   Jacksonville St.   265   11-19
+2011   Jacksonville St.   296   4-25
+2012   Jacksonville St.   208   13-17
+2013   Jacksonville St.   217   15-11
+2014   Jacksonville St.   299   8-21
+2015   Jacksonville St.   290   10-19
+2016   Jacksonville St.   193   6-23
+2017   Jacksonville St.   239   18-14
+2010   James Madison      231   13-20
+2011   James Madison      151   21-11
+2012   James Madison      265   12-20
+2013   James Madison      282   20-14
+2014   James Madison      164   11-20
+2015   James Madison      143   19-13
+2016   James Madison      138   20-11
+2017   James Madison      141   9-23
+2010   Kansas               7   32-2
+2011   Kansas              10   32-2
+2012   Kansas              12   27-6
+2013   Kansas              20   29-5
+2014   Kansas               1   24-9
+2015   Kansas           1   26-8
+2016   Kansas           3   29-4
+2017   Kansas          28   28-4
+2010   Kansas St.       2   26-7
+2011   Kansas St.       7   21-10
+2012   Kansas St.      64   21-10
+2013   Kansas St.      43   26-7
+2014   Kansas St.      34   20-12
+2015   Kansas St.      19   15-17
+2016   Kansas St.      24   17-16
+2017   Kansas St.      41   20-13
+2010   Kennesaw St.   297   13-20
+2011   Kennesaw St.   256   7-23
+2012   Kennesaw St.   232   2-28
+2013   Kennesaw St.   271   3-27
+2014   Kennesaw St.   209   4-25
+2015   Kennesaw St.   292   8-22
+2016   Kennesaw St.   174   9-20
+2017   Kennesaw St.   308   12-18
+2010   Kent St.        72   23-9
+2011   Kent St.       116   22-11
+2012   Kent St.       167   20-11
+2013   Kent St.       150   19-13
+2014   Kent St.       214   15-16
+2015   Kent St.       152   20-11
+2016   Kent St.       144   18-13
+2017   Kent St.       210   21-13
+2010   Kentucky        36   32-2
+2011   Kentucky         8   25-8
+2012   Kentucky        28   32-2
+2013   Kentucky        73   21-11
+2014   Kentucky         2   24-10
+2015   Kentucky        36   34-0
+2016   Kentucky        25   26-8
+2017   Kentucky        17   29-5
+2010   La Salle        94   12-18
+2011   La Salle       105   15-18
+2012   La Salle       124   21-12
+2013   La Salle        79   21-9
+2014   La Salle        32   15-16
+2015   La Salle        63   17-16
+2016   La Salle        63   8-22
+2017   La Salle         86   15-15
+2010   La.-Lafayette   280   13-17
+2011   La.-Lafayette   263   13-14
+2012   La.-Lafayette   198   15-15
+2013   La.-Lafayette   146   12-20
+2014   La.-Lafayette   155   20-11
+2015   La.-Lafayette   164   17-13
+2016   La.-Lafayette   165   15-14
+2017   La.-Lafayette   170   19-12
+2010   La.-Monroe      267   12-19
+2011   La.-Monroe      265   5-24
+2012   La.-Monroe      210   3-25
+2013   La.-Monroe      135   4-23
+2014   La.-Monroe      171   9-17
+2015   La.-Monroe      169   17-12
+2016   La.-Monroe      114   18-13
+2017   La.-Monroe      150   7-24
+2010   Lafayette       324   19-13
+2011   Lafayette       166   12-19
+2012   Lafayette       162   13-18
+2013   Lafayette       157   18-15
+2014   Lafayette       185   10-20
+2015   Lafayette       182   19-12
+2016   Lafayette       243   6-24
+2017   Lafayette       283   8-21
+2010   Lamar           273   14-18
+2011   Lamar           315   9-17
+2012   Lamar           207   21-11
+2013   Lamar           254   3-28
+2014   Lamar           288   3-25
+2015   Lamar           217   11-15
+2016   Lamar           340   7-19
+2017   Lamar           336   15-14
+2010   Lehigh          289   22-10
+2011   Lehigh          283   16-15
+2012   Lehigh          297   25-7
+2013   Lehigh          233   20-9
+2014   Lehigh          239   14-18
+2015   Lehigh          195   15-14
+2016   Lehigh          155   16-15
+2017   Lehigh          169   19-12
+2010   Liberty         259   15-16
+2011   Liberty          253   16-13
+2012   Liberty          295   11-18
+2013   Liberty          295   12-20
+2014   Liberty          250   8-21
+2015   Liberty          320   4-24
+2016   Liberty          232   10-19
+2017   Liberty          203   16-13
+2010   Lipscomb         309   17-13
+2011   Lipscomb         186   16-13
+2012   Lipscomb         204   12-18
+2013   Lipscomb         186   11-18
+2014   Lipscomb         265   14-15
+2015   Lipscomb         305   11-17
+2016   Lipscomb         184   10-21
+2017   Lipscomb         264   17-13
+2010   LIU Brooklyn     284   14-17
+2011   LIU Brooklyn     266   27-5
+2012   LIU Brooklyn     239   25-8
+2013   LIU Brooklyn     300   20-13
+2014   LIU Brooklyn     272   9-20
+2015   LIU Brooklyn     237   12-18
+2016   LIU Brooklyn     343   16-15
+2017   LIU Brooklyn     340   19-12
+2010   Long Beach St.    91   17-16
+2011   Long Beach St.   132   20-11
+2012   Long Beach St.   109   23-8
+2013   Long Beach St.   147   17-13
+2014   Long Beach St.   126   13-17
+2015   Long Beach St.    79   14-17
+2016   Long Beach St.    68   18-14
+2017   Long Beach St.   196   13-19
+2010   Longwood         252   12-19
+2011   Longwood         319   8-19
+2012   Longwood         337   6-21
+2013   Longwood         309   6-25
+2014   Longwood         289   4-24
+2015   Longwood         300   9-23
+2016   Longwood         303   7-23
+2017   Longwood         299   4-24
+2010   Louisiana Tech   190   23-10
+2011   Louisiana Tech   197   11-20
+2012   Louisiana Tech   148   16-16
+2013   Louisiana Tech     199   25-6
+2014   Louisiana Tech     203   26-7
+2015   Louisiana Tech     202   24-8
+2016   Louisiana Tech     267   21-9
+2017   Louisiana Tech     242   21-10
+2010   Louisville           6   20-12
+2011   Louisville          12   25-9
+2012   Louisville           9   26-9
+2013   Louisville           7   29-5
+2014   Louisville          81   29-5
+2015   Louisville          20   24-8
+2016   Louisville          35   23-8
+2017   Louisville           2   24-8
+2010   Loyola Chicago     229   14-16
+2011   Loyola Chicago     233   16-15
+2012   Loyola Chicago     272   6-23
+2013   Loyola Chicago     293   14-16
+2014   Loyola Chicago     213   9-22
+2015   Loyola Chicago     138   17-13
+2016   Loyola Chicago     264   14-17
+2017   Loyola Chicago     224   16-14
+2010   Loyola Maryland    219   13-17
+2011   Loyola Maryland    196   15-15
+2012   Loyola Maryland    215   24-8
+2013   Loyola Maryland    163   21-11
+2014   Loyola Maryland    261   10-19
+2015   Loyola Maryland    264   11-19
+2016   Loyola Maryland    146   9-21
+2017   Loyola Maryland    229   14-16
+2010   Loyola Marymount   204   18-15
+2011   Loyola Marymount   159   9-21
+2012   Loyola Marymount   110   17-12
+2013   Loyola Marymount   104   10-22
+2014   Loyola Marymount   115   12-19
+2015   Loyola Marymount    98   7-23
+2016   Loyola Marymount   242   13-17
+2017   Loyola Marymount    96   14-15
+2010   LSU                109   11-20
+2011   LSU                114   11-21
+2012   LSU                 55   18-14
+2013   LSU                108   19-12
+2014   LSU                 85   19-13
+2015   LSU          95   22-10
+2016   LSU          77   19-14
+2017   LSU          32   10-21
+2010   Maine       270   19-11
+2011   Maine       261   14-15
+2012   Maine       313   11-17
+2013   Maine       239   10-19
+2014   Maine       243   5-23
+2015   Maine       215   3-27
+2016   Maine       289   8-22
+2017   Maine       207   6-25
+2010   Manhattan   154   11-20
+2011   Manhattan   148   6-25
+2012   Manhattan   277   20-12
+2013   Manhattan   144   14-18
+2014   Manhattan   187   25-7
+2015   Manhattan   291   19-13
+2016   Manhattan   204   13-18
+2017   Manhattan   174   10-22
+2010   Marist      155   1-29
+2011   Marist      144   6-27
+2012   Marist      199   14-18
+2013   Marist      178   10-21
+2014   Marist      193   12-19
+2015   Marist      243   7-25
+2016   Marist      245   7-23
+2017   Marist      146   8-24
+2010   Marquette    45   22-11
+2011   Marquette    30   20-14
+2012   Marquette    20   25-7
+2013   Marquette    14   23-8
+2014   Marquette    60   17-15
+2015   Marquette    35   13-19
+2016   Marquette   124   20-13
+2017   Marquette    59   19-12
+2010   Marshall    112   23-9
+2011   Marshall     64   20-11
+2012   Marshall     16   20-13
+2013   Marshall    124   12-19
+2014   Marshall    188   9-22
+2015   Marshall    184   9-21
+2016   Marshall     83   17-16
+2017   Marshall         99   19-15
+2010   Maryland         21   23-8
+2011   Maryland         72   19-14
+2012   Maryland         56   17-15
+2013   Maryland         98   22-12
+2014   Maryland         10   16-15
+2015   Maryland         47   27-6
+2016   Maryland         29   24-8
+2017   Maryland         52   23-8
+2010   Massachusetts    66   12-20
+2011   Massachusetts   115   14-15
+2012   Massachusetts   131   22-11
+2013   Massachusetts    74   21-11
+2014   Massachusetts    42   24-8
+2015   Massachusetts    42   17-15
+2016   Massachusetts    99   14-18
+2017   Massachusetts   121   15-18
+2010   McNeese         312   10-20
+2011   McNeese         270   17-11
+2012   McNeese         185   14-15
+2013   McNeese         255   11-17
+2014   McNeese         180   7-20
+2015   McNeese         302   11-16
+2016   McNeese         345   7-19
+2017   McNeese         164   5-21
+2010   Memphis          70   23-9
+2011   Memphis          42   25-9
+2012   Memphis          17   26-8
+2013   Memphis          63   30-4
+2014   Memphis          30   22-9
+2015   Memphis          38   18-14
+2016   Memphis         105   19-15
+2017   Memphis         148   19-13
+2010   Mercer          214   16-17
+2011   Mercer          190   14-18
+2012   Mercer          270   21-11
+2013   Mercer          262   21-11
+2014   Mercer          216   23-8
+2015   Mercer          277   16-15
+2016   Mercer          299   17-14
+2017   Mercer          129   13-17
+2010   Miami (FL)      114   20-13
+2011   Miami (FL)      43   19-14
+2012   Miami (FL)      53   19-12
+2013   Miami (FL)       3   27-6
+2014   Miami (FL)      93   17-16
+2015   Miami (FL)      77   21-12
+2016   Miami (FL)      18   25-7
+2017   Miami (FL)      40   21-11
+2010   Miami (OH)      68   14-18
+2011   Miami (OH)      36   15-16
+2012   Miami (OH)      88   8-21
+2013   Miami (OH)     151   8-22
+2014   Miami (OH)     122   13-17
+2015   Miami (OH)     140   12-19
+2016   Miami (OH)      78   12-20
+2017   Miami (OH)     197   9-21
+2010   Michigan        62   15-17
+2011   Michigan        19   19-13
+2012   Michigan        19   23-9
+2013   Michigan        68   25-7
+2014   Michigan         7   25-8
+2015   Michigan         9   15-16
+2016   Michigan        43   21-12
+2017   Michigan        24   24-11
+2010   Michigan St.    51   24-8
+2011   Michigan St.    13   18-14
+2012   Michigan St.     1   26-7
+2013   Michigan St.     4   24-8
+2014   Michigan St.    24   26-8
+2015   Michigan St.     6   23-11
+2016   Michigan St.    56   29-5
+2017   Michigan St.    11   19-14
+2010   Middle Tenn.   227   19-13
+2011   Middle Tenn.   246   15-16
+2012   Middle Tenn.   194   24-6
+2013   Middle Tenn.   121   28-5
+2014   Middle Tenn.   124   22-9
+2015   Middle Tenn.   133   18-16
+2016   Middle Tenn.   140   22-9
+2017   Middle Tenn.   156   29-4
+2010   Milwaukee      175   20-14
+2011   Milwaukee      104   19-13
+2012   Milwaukee      179   18-13
+2013   Milwaukee          183   6-24
+2014   Milwaukee          228   20-13
+2015   Milwaukee          157   12-16
+2016   Milwaukee          283   18-13
+2017   Milwaukee          155   10-24
+2010   Minnesota           30   21-13
+2011   Minnesota           35   17-14
+2012   Minnesota           51   19-14
+2013   Minnesota            6   20-12
+2014   Minnesota            8   19-13
+2015   Minnesota           73   17-15
+2016   Minnesota          101   8-23
+2017   Minnesota           21   24-9
+2010   Mississippi St.     87   23-11
+2011   Mississippi St.     85   17-14
+2012   Mississippi St.     91   21-11
+2013   Mississippi St.    117   10-22
+2014   Mississippi St.    195   14-19
+2015   Mississippi St.    127   12-19
+2016   Mississippi St.     76   14-17
+2017   Mississippi St.    107   16-16
+2010   Mississippi Val.   325   9-23
+2011   Mississippi Val.   303   13-19
+2012   Mississippi Val.   310   21-12
+2013   Mississippi Val.   333   5-23
+2014   Mississippi Val.   345   6-23
+2015   Mississippi Val.   338   6-26
+2016   Mississippi Val.   304   8-27
+2017   Mississippi Val.   298   7-25
+2010   Missouri            55   22-10
+2011   Missouri            62   22-10
+2012   Missouri            89   30-4
+2013   Missouri            38   23-10
+2014   Missouri            74   22-11
+2015   Missouri            18   8-23
+2016   Missouri            74   10-21
+2017   Missouri            85   8-24
+2010   Missouri St.       133   20-12
+2011   Missouri St.       128   25-8
+2012   Missouri St.        74   15-16
+2013   Missouri St.        71   9-22
+2014   Missouri St.        97   19-12
+2015   Missouri St.   107   9-20
+2016   Missouri St.   198   12-19
+2017   Missouri St.   232   16-16
+2010   Monmouth       308   12-19
+2011   Monmouth       203   9-21
+2012   Monmouth       205   12-20
+2013   Monmouth       250   10-21
+2014   Monmouth       276   11-21
+2015   Monmouth       219   18-15
+2016   Monmouth       176   27-7
+2017   Monmouth       192   27-6
+2010   Montana        201   22-9
+2011   Montana        224   19-10
+2012   Montana        191   23-6
+2013   Montana        218   23-6
+2014   Montana        248   15-13
+2015   Montana        199   18-12
+2016   Montana        251   18-11
+2017   Montana        288   16-16
+2010   Montana St.    241   15-14
+2011   Montana St.    248   11-18
+2012   Montana St.    307   10-17
+2013   Montana St.    337   11-17
+2014   Montana St.    313   12-17
+2015   Montana St.    228   6-23
+2016   Montana St.    327   13-17
+2017   Montana St.    302   14-16
+2010   Morehead St.   145   23-10
+2011   Morehead St.   175   22-9
+2012   Morehead St.   182   15-15
+2013   Morehead St.   106   13-18
+2014   Morehead St.   202   18-13
+2015   Morehead St.   212   15-17
+2016   Morehead St.   172   17-12
+2017   Morehead St.   149   12-16
+2010   Morgan St.     286   27-9
+2011   Morgan St.     317   17-14
+2012   Morgan St.     261   9-20
+2013   Morgan St.     336   17-15
+2014   Morgan St.     245   15-16
+2015   Morgan St.     325   7-24
+2016   Morgan St.     296   8-22
+2017   Morgan St.       349   13-16
+2010   Mt. St. Mary's   178   16-15
+2011   Mt. St. Mary's   146   11-21
+2012   Mt. St. Mary's   245   8-21
+2013   Mt. St. Mary's   174   18-14
+2014   Mt. St. Mary's   241   16-16
+2015   Mt. St. Mary's   213   15-15
+2016   Mt. St. Mary's   277   14-19
+2017   Mt. St. Mary's   186   19-15
+2010   Murray St.       275   30-4
+2011   Murray St.       242   21-8
+2012   Murray St.       159   27-1
+2013   Murray St.       194   19-10
+2014   Murray St.       236   16-11
+2015   Murray St.       233   25-5
+2016   Murray St.       153   15-14
+2017   Murray St.       261   14-17
+2010   N.C. A&T         263   11-22
+2011   N.C. A&T         235   12-17
+2012   N.C. A&T         273   9-20
+2013   N.C. A&T         316   18-16
+2014   N.C. A&T         331   8-23
+2015   N.C. A&T         341   7-23
+2016   N.C. A&T         350   10-21
+2017   N.C. A&T         339   1-29
+2010   N.C. Central     335   7-22
+2011   N.C. Central     335   11-15
+2012   N.C. Central     315   13-15
+2013   N.C. Central     303   19-9
+2014   N.C. Central     336   26-5
+2015   N.C. Central     348   22-7
+2016   N.C. Central     333   10-19
+2017   N.C. Central     351   22-8
+2010   Navy             298   13-17
+2011   Navy             292   10-20
+2012   Navy             173   2-26
+2013   Navy             201   7-23
+2014   Navy             302   8-21
+2015   Navy             196   12-19
+2016   Navy             318   18-14
+2017   Navy             195   15-16
+2013   Neb. Omaha       294   10-19
+2010   Nebraska          61   15-18
+2011   Nebraska          57   19-12
+2012   Nebraska          58   12-18
+2013   Nebraska          12   15-18
+2014   Nebraska          31   19-12
+2015   Nebraska          57   13-18
+2016   Nebraska         111   16-18
+2017   Nebraska           3   11-19
+2010   Nevada            67   20-12
+2011   Nevada            95   12-19
+2012   Nevada           170   24-6
+2013   Nevada            56   11-19
+2014   Nevada           104   15-17
+2015   Nevada           210   7-22
+2016   Nevada           145   17-13
+2017   Nevada           124   28-6
+2010   New Hampshire    244   13-17
+2011   New Hampshire    314   11-18
+2012   New Hampshire    337   12-16
+2013   New Hampshire    232   8-20
+2014   New Hampshire    311   5-24
+2015   New Hampshire    321   17-12
+2016   New Hampshire    305   17-12
+2017   New Hampshire    185   17-12
+2010   New Mexico        77   29-4
+2011   New Mexico        94   20-12
+2012   New Mexico        87   26-6
+2013   New Mexico         2   29-5
+2014   New Mexico        28   27-6
+2015   New Mexico       115   15-16
+2016   New Mexico       112   17-15
+2017   New Mexico        54   17-14
+2010   New Mexico St.    57   22-11
+2011   New Mexico St.    49   14-17
+2012   New Mexico St.   105   24-9
+2013   New Mexico St.   107   23-10
+2014   New Mexico St.   170   25-9
+2015   New Mexico St.   204   21-10
+2016   New Mexico St.   209   21-10
+2017   New Mexico St.   257   25-5
+2010   New Orleans      281   8-22
+2013   New Orleans      341   4-18
+2014   New Orleans      258   8-14
+2015   New Orleans      337   8-18
+2016   New Orleans      349   7-20
+2017   New Orleans      276   17-11
+2010   Niagara          152   18-15
+2011   Niagara          217   9-23
+2012   Niagara          150   14-19
+2013   Niagara          149   19-13
+2014   Niagara          168   7-26
+2015   Niagara          166   8-22
+2016   Niagara          221   7-25
+2017   Niagara          226   10-23
+2010   Nicholls St.     224   11-19
+2011   Nicholls St.     247   10-14
+2012   Nicholls St.     287   8-20
+2013   Nicholls St.     299   9-21
+2014   Nicholls St.     344   12-14
+2015   Nicholls St.     311   7-19
+2016   Nicholls St.     269   8-23
+2017   Nicholls St.     256   10-17
+2010   NJIT             342   10-21
+2011   NJIT             344   11-15
+2012   NJIT             334   11-17
+2013   NJIT             347   12-13
+2014   NJIT             343   9-16
+2015   NJIT             244   14-11
+2016   NJIT             287   16-14
+2017   NJIT             244   9-20
+2010   Norfolk St.      276   11-19
+2011   Norfolk St.      251   12-20
+2012   Norfolk St.      300   24-8
+2013   Norfolk St.      335   21-11
+2014   Norfolk St.      301   16-14
+2015   Norfolk St.      250   18-13
+2016   Norfolk St.      288   15-16
+2017   Norfolk St.      322   15-16
+2010   North Carolina    16   16-16
+2011   North Carolina     6   26-7
+2012   North Carolina     5   29-5
+2013   North Carolina     8   23-10
+2014   North Carolina    16   23-9
+2015   North Carolina     2   24-11
+2016   North Carolina        27   28-6
+2017   North Carolina        13   26-7
+2010   North Carolina St.    79   19-15
+2011   North Carolina St.    70   15-16
+2012   North Carolina St.    23   22-12
+2013   North Carolina St.    35   24-10
+2014   North Carolina St.    29   21-13
+2015   North Carolina St.     7   20-13
+2016   North Carolina St.    62   16-17
+2017   North Carolina St.    65   15-17
+2010   North Dakota         336   8-23
+2011   North Dakota         342   15-14
+2012   North Dakota         320   13-14
+2013   North Dakota         261   14-16
+2014   North Dakota         221   15-16
+2015   North Dakota         231   6-22
+2016   North Dakota         241   14-15
+2017   North Dakota         304   19-9
+2010   North Dakota St.     247   11-18
+2011   North Dakota St.     258   12-15
+2012   North Dakota St.     254   15-13
+2013   North Dakota St.     185   22-9
+2014   North Dakota St.     106   22-6
+2015   North Dakota St.     267   21-9
+2016   North Dakota St.     179   18-13
+2017   North Dakota St.     168   17-11
+2010   North Florida        239   13-18
+2011   North Florida        110   15-19
+2012   North Florida        197   15-16
+2013   North Florida        219   12-19
+2014   North Florida        212   14-16
+2015   North Florida        323   20-11
+2016   North Florida        321   19-11
+2017   North Florida        134   11-19
+2010   North Texas          272   24-8
+2011   North Texas          237   20-11
+2012   North Texas          276   15-14
+2013   North Texas          190   11-19
+2014   North Texas          162   13-16
+2015   North Texas          159   12-17
+2016   North Texas          220   10-20
+2017   North Texas          272   6-22
+2010   Northeastern      81   20-12
+2011   Northeastern      68   11-20
+2012   Northeastern     176   14-17
+2013   Northeastern     205   20-12
+2014   Northeastern     112   11-21
+2015   Northeastern     183   23-11
+2016   Northeastern      90   17-15
+2017   Northeastern     108   15-16
+2010   Northern Ariz.   243   14-14
+2011   Northern Ariz.   286   17-12
+2012   Northern Ariz.   279   3-24
+2013   Northern Ariz.   196   11-21
+2014   Northern Ariz.   277   14-17
+2015   Northern Ariz.   248   18-14
+2016   Northern Ariz.   136   3-25
+2017   Northern Ariz.   315   8-23
+2010   Northern Colo.   328   24-7
+2011   Northern Colo.   200   19-10
+2012   Northern Colo.   155   8-18
+2013   Northern Colo.   253   11-18
+2014   Northern Colo.   293   16-13
+2015   Northern Colo.   278   13-15
+2016   Northern Colo.   229   8-21
+2017   Northern Colo.   284   9-18
+2010   Northern Ill.    225   10-20
+2011   Northern Ill.    310   8-21
+2012   Northern Ill.    282   4-25
+2013   Northern Ill.    280   4-25
+2014   Northern Ill.    197   14-17
+2015   Northern Ill.    135   13-16
+2016   Northern Ill.    182   17-12
+2017   Northern Ill.    265   12-17
+2013   Northern Ky.     325   11-16
+2014   Northern Ky.     264   9-21
+2015   Northern Ky.     238   11-17
+2016   Northern Ky.     181   7-21
+2017   Northern Ky.     209   22-10
+2010   Northwestern     156   20-13
+2011   Northwestern      79   18-13
+2012   Northwestern      21   18-13
+2013   Northwestern      72   13-19
+2014   Northwestern      52   14-19
+2015   Northwestern        52   15-17
+2016   Northwestern       157   20-12
+2017   Northwestern        63   23-11
+2010   Northwestern St.   316   10-19
+2011   Northwestern St.   339   16-13
+2012   Northwestern St.   241   13-16
+2013   Northwestern St.   182   19-8
+2014   Northwestern St.   160   13-14
+2015   Northwestern St.   186   15-12
+2016   Northwestern St.   319   5-19
+2017   Northwestern St.   335   9-16
+2010   Notre Dame          37   23-11
+2011   Notre Dame          25   26-6
+2012   Notre Dame          43   22-11
+2013   Notre Dame          54   25-9
+2014   Notre Dame          71   15-17
+2015   Notre Dame          82   29-5
+2016   Notre Dame          26   21-11
+2017   Notre Dame          30   25-9
+2010   Oakland            136   26-8
+2011   Oakland            138   24-9
+2012   Oakland            128   16-15
+2013   Oakland            140   14-16
+2014   Oakland             70   11-20
+2015   Oakland            110   14-16
+2016   Oakland            212   21-11
+2017   Oakland            263   22-8
+2010   Ohio               104   21-14
+2011   Ohio               156   18-15
+2012   Ohio               174   26-7
+2013   Ohio               148   24-9
+2014   Ohio               125   22-11
+2015   Ohio                80   10-20
+2016   Ohio                95   20-11
+2017   Ohio               191   19-11
+2010   Ohio St.            73   27-7
+2011   Ohio St.            26   32-2
+2012   Ohio St.            10   27-7
+2013   Ohio St.            12   26-7
+2014   Ohio St.            14   25-9
+2015   Ohio St.            76   23-10
+2016   Ohio St.            33   20-13
+2017   Ohio St.        43   17-15
+2010   Oklahoma        18   13-18
+2011   Oklahoma        33   14-17
+2012   Oklahoma        68   15-16
+2013   Oklahoma        22   20-11
+2014   Oklahoma        17   23-9
+2015   Oklahoma        15   22-10
+2016   Oklahoma        15   25-7
+2017   Oklahoma        35   11-20
+2010   Oklahoma St.    24   22-10
+2011   Oklahoma St.    37   19-13
+2012   Oklahoma St.    29   14-18
+2013   Oklahoma St.    46   24-8
+2014   Oklahoma St.    41   21-12
+2015   Oklahoma St.    17   17-13
+2016   Oklahoma St.    75   12-20
+2017   Oklahoma St.    16   19-12
+2010   Old Dominion    74   26-8
+2011   Old Dominion    61   27-6
+2012   Old Dominion   101   20-13
+2013   Old Dominion   173   5-25
+2014   Old Dominion   135   16-17
+2015   Old Dominion   145   24-7
+2016   Old Dominion   201   22-13
+2017   Old Dominion   200   19-12
+2010   Ole Miss        84   21-10
+2011   Ole Miss        76   20-13
+2012   Ole Miss        49   20-13
+2013   Ole Miss       129   26-8
+2014   Ole Miss        92   19-14
+2015   Ole Miss        51   20-12
+2016   Ole Miss       171   20-12
+2017   Ole Miss        72   20-13
+2014   Omaha          279   13-14
+2015   Omaha          344   11-17
+2016   Omaha          173   16-13
+2017   Omaha          176   17-14
+2010   Oral Roberts   188   20-13
+2011   Oral Roberts   161   19-15
+2012   Oral Roberts   203   27-6
+2013   Oral Roberts   168   17-14
+2014   Oral Roberts   163   13-16
+2015   Oral Roberts   213   16-14
+2016   Oral Roberts    85   12-17
+2017   Oral Roberts   119   6-22
+2010   Oregon          82   16-16
+2011   Oregon          59   15-17
+2012   Oregon          86   22-9
+2013   Oregon         113   26-8
+2014   Oregon          21   23-9
+2015   Oregon          45   24-9
+2016   Oregon           1   27-6
+2017   Oregon          33   28-5
+2010   Oregon St.     146   14-17
+2011   Oregon St.     119   11-20
+2012   Oregon St.     137   18-14
+2013   Oregon St.     115   14-18
+2014   Oregon St.      73   16-15
+2015   Oregon St.     122   16-14
+2016   Oregon St.      14   18-12
+2017   Oregon St.      60   4-27
+2010   Pacific        228   20-11
+2011   Pacific        204   14-15
+2012   Pacific        250   9-19
+2013   Pacific        138   20-12
+2014   Pacific        110   14-15
+2015   Pacific        151   9-19
+2016   Pacific        102   6-20
+2017   Pacific         81   10-22
+2010   Penn           210   6-22
+2011   Penn           177   13-15
+2012   Penn            95   19-12
+2013   Penn           211   9-22
+2014   Penn           204   8-20
+2015   Penn           162   9-19
+2016   Penn           271   10-17
+2017   Penn           199   13-15
+2010   Penn St.        80   11-20
+2011   Penn St.         5   19-14
+2012   Penn St.        39   12-20
+2013   Penn St.        29   10-21
+2014   Penn St.        65   15-17
+2015   Penn St.        85   18-16
+2016   Penn St.        87   16-16
+2017   Penn St.        33   15-18
+2010   Pepperdine     189   7-24
+2011   Pepperdine     182   11-21
+2012   Pepperdine     251   9-19
+2013   Pepperdine     176   11-18
+2014   Pepperdine     134   14-16
+2015   Pepperdine     179   17-13
+2016   Pepperdine     137   17-13
+2017   Pepperdine      90   8-22
+2010   Pittsburgh      13   24-8
+2011   Pittsburgh      32   27-5
+2012   Pittsburgh      34   17-16
+2013   Pittsburgh      81   24-8
+2014   Pittsburgh      61   25-9
+2015   Pittsburgh      46   18-14
+2016   Pittsburgh      31   20-11
+2017   Pittsburgh       8   16-17
+2010   Portland       128   21-10
+2011   Portland       162   20-11
+2012   Portland        62   6-24
+2013   Portland       114   9-21
+2014   Portland       155   15-16
+2015   Portland       114   15-15
+2016   Portland       150   11-20
+2017   Portland       113   9-22
+2010   Portland St.   172   13-19
+2011   Portland St.   324   13-16
+2012   Portland St.   218   15-15
+2013   Portland St.   317   6-20
+2014   Portland St.   303   15-14
+2015   Portland St.   299   13-14
+2016   Portland St.   275   11-18
+2017   Portland St.   332   12-16
+2010   Prairie View   339   16-14
+2011   Prairie View   336   7-22
+2012   Prairie View   325   11-18
+2013   Prairie View   340   12-19
+2014   Prairie View   274   10-23
+2015   Prairie View   324   14-18
+2016   Prairie View   316   7-24
+2017   Prairie View   310   11-20
+2010   Presbyterian   246   5-26
+2011   Presbyterian   201   13-18
+2012   Presbyterian   283   13-15
+2013   Presbyterian   313   5-24
+2014   Presbyterian   341   4-26
+2015   Presbyterian   218   6-22
+2016   Presbyterian   313   8-20
+2017   Presbyterian   279   3-25
+2010   Princeton      301   20-8
+2011   Princeton      185   24-6
+2012   Princeton      116   17-11
+2013   Princeton      160   16-11
+2014   Princeton      308   19-8
+2015   Princeton      229   15-14
+2016   Princeton      132   21-6
+2017   Princeton      132   22-6
+2010   Providence      29   12-19
+2011   Providence      91   15-17
+2012   Providence     121   15-17
+2013   Providence      66   17-14
+2014   Providence      63   23-11
+2015   Providence       5   22-11
+2016   Providence      53   23-10
+2017   Providence      50   20-12
+2010   Purdue          65   27-5
+2011   Purdue          27   25-7
+2012   Purdue          31   21-12
+2013   Purdue          84   15-17
+2014   Purdue         102   15-17
+2015   Purdue          62   21-12
+2016   Purdue          34   26-8
+2017   Purdue          61   25-7
+2010   Quinnipiac     321   23-9
+2011   Quinnipiac     304   22-9
+2012   Quinnipiac     221   18-13
+2013   Quinnipiac     165   15-16
+2014   Quinnipiac     172   20-11
+2015   Quinnipiac     261   15-15
+2016   Quinnipiac     246   9-21
+2017   Quinnipiac     215   10-21
+2010   Radford        232   19-12
+2011   Radford        218   2-24
+2012   Radford        226   4-26
+2013   Radford         334   10-19
+2014   Radford         349   18-12
+2015   Radford         273   18-11
+2016   Radford         175   14-15
+2017   Radford         206   12-18
+2010   Rhode Island     75   23-9
+2011   Rhode Island    126   19-13
+2012   Rhode Island    115   7-24
+2013   Rhode Island     51   8-21
+2014   Rhode Island     87   13-18
+2015   Rhode Island    144   21-9
+2016   Rhode Island     89   17-15
+2017   Rhode Island     42   24-9
+2010   Rice            223   8-23
+2011   Rice             98   12-18
+2012   Rice            168   14-15
+2013   Rice            141   4-25
+2014   Rice            144   5-23
+2015   Rice            160   10-19
+2016   Rice            202   10-20
+2017   Rice            290   20-11
+2010   Richmond         63   26-8
+2011   Richmond        141   27-7
+2012   Richmond         90   16-16
+2013   Richmond         80   18-14
+2014   Richmond         58   19-14
+2015   Richmond         31   19-13
+2016   Richmond         71   16-16
+2017   Richmond         94   20-12
+2010   Rider           132   17-16
+2011   Rider           222   23-10
+2012   Rider           140   13-19
+2013   Rider           162   18-14
+2014   Rider           179   14-17
+2015   Rider           285   21-11
+2016   Rider           228   13-20
+2017   Rider           311   18-15
+2010   Robert Morris   255   23-11
+2011   Robert Morris   118   18-14
+2012   Robert Morris   233   24-10
+2013   Robert Morris   290   23-10
+2014   Robert Morris   238   21-13
+2015   Robert Morris        235   19-14
+2016   Robert Morris        263   10-22
+2017   Robert Morris        262   14-19
+2010   Rutgers               83   15-17
+2011   Rutgers               73   15-17
+2012   Rutgers               71   14-18
+2013   Rutgers               59   15-16
+2014   Rutgers               46   11-21
+2015   Rutgers               24   10-22
+2016   Rutgers              115   6-25
+2017   Rutgers              109   14-18
+2010   Sacramento St.       257   9-21
+2011   Sacramento St.       271   5-21
+2012   Sacramento St.       328   8-18
+2013   Sacramento St.       331   12-15
+2014   Sacramento St.       285   12-16
+2015   Sacramento St.       271   18-11
+2016   Sacramento St.       294   12-17
+2017   Sacramento St.       318   11-18
+2010   Sacred Heart         334   14-15
+2011   Sacred Heart         320   11-18
+2012   Sacred Heart         256   14-18
+2013   Sacred Heart         152   9-20
+2014   Sacred Heart         323   5-26
+2015   Sacred Heart         282   14-17
+2016   Sacred Heart         291   12-18
+2017   Sacred Heart         333   13-19
+2010   Saint Francis (PA)   278   11-19
+2011   Saint Francis (PA)   167   9-21
+2012   Saint Francis (PA)   200   6-23
+2013   Saint Francis (PA)   207   5-24
+2014   Saint Francis (PA)   296   10-21
+2015   Saint Francis (PA)   247   15-15
+2016   Saint Francis (PA)   292   12-17
+2017   Saint Francis (PA)   337   15-16
+2010   Saint Joseph's        52   11-20
+2011   Saint Joseph's        52   11-22
+2012   Saint Joseph's        42   20-13
+2013   Saint Joseph's        96   18-13
+2014   Saint Joseph's        50   24-9
+2015   Saint Joseph's       105   13-18
+2016   Saint Joseph's        51   27-7
+2017   Saint Joseph's     87   11-20
+2010   Saint Louis       113   20-11
+2011   Saint Louis        51   11-19
+2012   Saint Louis        99   24-7
+2013   Saint Louis        36   27-6
+2014   Saint Louis        68   25-6
+2015   Saint Louis       146   10-21
+2016   Saint Louis        81   11-21
+2017   Saint Louis       142   12-21
+2010   Saint Peter's     205   16-14
+2011   Saint Peter's     135   20-13
+2012   Saint Peter's     156   5-26
+2013   Saint Peter's     245   9-21
+2014   Saint Peter's     253   14-17
+2015   Saint Peter's     297   16-18
+2016   Saint Peter's     211   14-16
+2017   Saint Peter's     184   19-13
+2010   Sam Houston St.   186   25-7
+2011   Sam Houston St.   189   14-13
+2012   Sam Houston St.   224   9-19
+2013   Sam Houston St.   259   14-17
+2014   Sam Houston St.   254   20-9
+2015   Sam Houston St.   201   21-8
+2016   Sam Houston St.   185   15-14
+2017   Sam Houston St.   289   17-13
+2010   Samford           203   11-20
+2011   Samford           291   10-19
+2012   Samford           195   9-19
+2013   Samford           264   10-21
+2014   Samford           319   10-20
+2015   Samford           339   12-19
+2016   Samford           281   12-19
+2017   Samford           205   17-15
+2010   San Diego         150   11-21
+2011   San Diego         172   4-24
+2012   San Diego         102   11-18
+2013   San Diego          92   14-18
+2014   San Diego         117   14-16
+2015   San Diego         100   14-16
+2016   San Diego         255   8-21
+2017   San Diego         128   12-18
+2010   San Diego St.      42   25-8
+2011   San Diego St.    22   30-2
+2012   San Diego St.    54   24-7
+2013   San Diego St.    21   20-10
+2014   San Diego St.    91   27-4
+2015   San Diego St.    67   25-8
+2016   San Diego St.    54   23-9
+2017   San Diego St.   106   18-14
+2010   San Francisco   119   12-18
+2011   San Francisco    84   15-14
+2012   San Francisco   163   18-13
+2013   San Francisco   116   13-16
+2014   San Francisco    72   19-11
+2015   San Francisco    89   13-18
+2016   San Francisco   254   14-15
+2017   San Francisco   110   19-12
+2010   San Jose St.    116   14-17
+2011   San Jose St.    149   16-15
+2012   San Jose St.    171   8-22
+2013   San Jose St.    142   8-20
+2014   San Jose St.    133   5-24
+2015   San Jose St.    117   0-28
+2016   San Jose St.    152   6-22
+2017   San Jose St.    130   12-16
+2010   Santa Clara     127   11-21
+2011   Santa Clara     176   17-14
+2012   Santa Clara     193   6-22
+2013   Santa Clara     132   19-11
+2014   Santa Clara     141   12-19
+2015   Santa Clara     128   12-18
+2016   Santa Clara     156   10-20
+2017   Santa Clara      76   16-16
+2010   Savannah St.    333   11-15
+2011   Savannah St.    268   8-18
+2012   Savannah St.    339   19-11
+2013   Savannah St.    197   17-14
+2014   Savannah St.    282   11-19
+2015   Savannah St.    317   7-22
+2016   Savannah St.    342   14-15
+2017   Savannah St.    331   11-16
+2010   Seattle         285   17-14
+2011   Seattle         312   11-20
+2012   Seattle         247   9-15
+2013   Seattle            216   7-22
+2014   Seattle            268   11-17
+2015   Seattle            333   14-15
+2016   Seattle            309   12-16
+2017   Seattle            285   10-17
+2010   Seton Hall          31   19-12
+2011   Seton Hall          15   13-18
+2012   Seton Hall          57   20-12
+2013   Seton Hall          67   15-18
+2014   Seton Hall          96   17-17
+2015   Seton Hall          78   16-15
+2016   Seton Hall          41   25-8
+2017   Seton Hall          49   21-11
+2010   SFA                299   23-9
+2011   SFA                330   14-11
+2012   SFA                314   16-12
+2013   SFA                307   23-4
+2014   SFA                295   27-2
+2015   SFA                154   26-4
+2016   SFA                219   23-5
+2017   SFA                245   15-14
+2010   Siena              124   27-6
+2011   Siena              153   13-18
+2012   Siena              205   14-17
+2013   Siena              203   8-24
+2014   Siena              196   15-17
+2015   Siena              193   11-20
+2016   Siena              162   21-12
+2017   Siena               74   17-17
+2010   SIU Edwardsville   200   5-23
+2011   SIU Edwardsville   226   4-21
+2012   SIU Edwardsville   299   8-17
+2013   SIU Edwardsville   236   7-18
+2014   SIU Edwardsville   315   9-20
+2015   SIU Edwardsville   289   10-16
+2016   SIU Edwardsville   192   6-22
+2017   SIU Edwardsville   260   5-23
+2010   SMU                126   14-17
+2011   SMU                213   14-14
+2012   SMU                146   11-19
+2013   SMU                275   14-17
+2014   SMU                128   23-9
+2015   SMU                   27   26-6
+2016   SMU                   67   25-5
+2017   SMU                   78   30-4
+2010   South Ala.           260   17-15
+2011   South Ala.           306   10-16
+2012   South Ala.           246   16-12
+2013   South Ala.           198   16-12
+2014   South Ala.           166   8-20
+2015   South Ala.           208   10-21
+2016   South Ala.           216   12-19
+2017   South Ala.           175   12-18
+2010   South Carolina        19   15-16
+2011   South Carolina        77   14-16
+2012   South Carolina        37   10-21
+2013   South Carolina       195   14-18
+2014   South Carolina        48   14-20
+2015   South Carolina        39   16-16
+2016   South Carolina       170   23-8
+2017   South Carolina        47   21-10
+2010   South Carolina St.   315   18-14
+2011   South Carolina St.   326   6-22
+2012   South Carolina St.   333   3-26
+2013   South Carolina St.   251   4-24
+2014   South Carolina St.   317   7-21
+2015   South Carolina St.   328   9-22
+2016   South Carolina St.   328   17-14
+2017   South Carolina St.   286   9-20
+2010   South Dakota         345   22-9
+2011   South Dakota         345   14-15
+2012   South Dakota         259   7-18
+2013   South Dakota         134   8-20
+2014   South Dakota         175   9-18
+2015   South Dakota         255   15-16
+2016   South Dakota         143   12-18
+2017   South Dakota         243   20-11
+2010   South Dakota St.     249   14-16
+2011   South Dakota St.     282   17-12
+2012   South Dakota St.     183   25-7
+2013   South Dakota St.     181   22-9
+2014   South Dakota St.     219   16-12
+2015   South Dakota St.     227   21-10
+2016   South Dakota St.     131   24-7
+2017   South Dakota St.      145   16-16
+2010   South Fla.             97   20-12
+2011   South Fla.             17   10-23
+2012   South Fla.             30   19-13
+2013   South Fla.             27   12-19
+2014   South Fla.            159   12-20
+2015   South Fla.            104   8-23
+2016   South Fla.             50   8-25
+2017   South Fla.            189   7-23
+2010   Southeast Mo. St.     242   7-23
+2011   Southeast Mo. St.     280   9-22
+2012   Southeast Mo. St.     298   13-16
+2013   Southeast Mo. St.     288   15-16
+2014   Southeast Mo. St.     346   16-14
+2015   Southeast Mo. St.     318   11-17
+2016   Southeast Mo. St.     262   3-24
+2017   Southeast Mo. St.     330   13-18
+2010   Southeastern La.      277   19-12
+2011   Southeastern La.      300   12-14
+2012   Southeastern La.      335   9-17
+2013   Southeastern La.      184   11-18
+2014   Southeastern La.      334   8-18
+2015   Southeastern La.      336   8-23
+2016   Southeastern La.      341   10-21
+2017   Southeastern La.      320   14-16
+2010   Southern California   100   16-14
+2011   Southern California    41   19-14
+2012   Southern California    93   6-26
+2013   Southern California    39   14-18
+2014   Southern California    51   10-21
+2015   Southern California    94   12-20
+2016   Southern California    36   21-12
+2017   Southern California    75   24-9
+2010   Southern Ill.         139   15-15
+2011   Southern Ill.         143   13-19
+2012   Southern Ill.         132   8-22
+2013   Southern Ill.         180   13-17
+2014   Southern Ill.         141   13-19
+2015   Southern Ill.         249   11-21
+2016   Southern Ill.         266   22-10
+2017   Southern Ill.          91   16-16
+2010   Southern Miss.        135   20-13
+2011   Southern Miss.          87   19-10
+2012   Southern Miss.          44   23-8
+2013   Southern Miss.          55   23-9
+2014   Southern Miss.         123   25-6
+2015   Southern Miss.         123   7-20
+2016   Southern Miss.         268   7-20
+2017   Southern Miss.         278   7-22
+2010   Southern U.            330   5-25
+2011   Southern U.            331   3-24
+2012   Southern U.            344   14-14
+2013   Southern U.            345   20-9
+2014   Southern U.            249   16-13
+2015   Southern U.            281   15-17
+2016   Southern U.            331   19-12
+2017   Southern U.            345   13-17
+2010   Southern Utah          221   7-22
+2011   Southern Utah          230   10-18
+2012   Southern Utah          242   12-17
+2013   Southern Utah          292   9-20
+2014   Southern Utah          244   1-27
+2015   Southern Utah          313   9-19
+2016   Southern Utah          259   4-24
+2017   Southern Utah          271   4-27
+2010   St. Bonaventure        123   15-16
+2011   St. Bonaventure        122   16-14
+2012   St. Bonaventure        125   20-11
+2013   St. Bonaventure        110   14-15
+2014   St. Bonaventure         69   17-15
+2015   St. Bonaventure        150   18-13
+2016   St. Bonaventure         82   22-8
+2017   St. Bonaventure        118   20-12
+2010   St. Francis Brooklyn   329   11-18
+2011   St. Francis Brooklyn   301   15-15
+2012   St. Francis Brooklyn   284   15-15
+2013   St. Francis Brooklyn   164   12-18
+2014   St. Francis Brooklyn   283   17-14
+2015   St. Francis Brooklyn   315   22-11
+2016   St. Francis Brooklyn   339   14-17
+2017   St. Francis Brooklyn   325   3-27
+2010   St. John's (NY)         25   17-15
+2011   St. John's (NY)         11   21-11
+2012   St. John's (NY)         46   13-19
+2013   St. John's (NY)    31   16-15
+2014   St. John's (NY)    49   20-12
+2015   St. John's (NY)    28   20-11
+2016   St. John's (NY)    38   7-24
+2017   St. John's (NY)    53   14-19
+2010   St. Mary's (CA)   122   26-5
+2011   St. Mary's (CA)    99   23-8
+2012   St. Mary's (CA)    94   25-5
+2013   St. Mary's (CA)    93   26-6
+2014   St. Mary's (CA)    66   21-11
+2015   St. Mary's (CA)    96   20-9
+2016   St. Mary's (CA)   149   26-5
+2017   St. Mary's (CA)    64   28-4
+2010   Stanford           88   14-18
+2011   Stanford          139   15-16
+2012   Stanford          152   21-11
+2013   Stanford           48   18-14
+2014   Stanford           20   21-12
+2015   Stanford           50   19-13
+2016   Stanford            7   14-15
+2017   Stanford           18   13-17
+2010   Stetson           268   7-22
+2011   Stetson           236   8-22
+2012   Stetson           169   8-20
+2013   Stetson           266   14-16
+2014   Stetson           292   7-24
+2015   Stetson           295   6-22
+2016   Stetson           285   8-22
+2017   Stetson           316   8-21
+2010   Stony Brook       318   22-9
+2011   Stony Brook       293   14-17
+2012   Stony Brook       322   21-9
+2013   Stony Brook       270   23-7
+2014   Stony Brook       332   22-10
+2015   Stony Brook       241   21-11
+2016   Stony Brook       194   24-6
+2017   Stony Brook       228   18-13
+2010   Syracuse           14   28-4
+2011   Syracuse           34   26-7
+2012   Syracuse           24   31-2
+2013   Syracuse            5   26-9
+2014   Syracuse           77   27-5
+2015   Syracuse          44   18-13
+2016   Syracuse          45   19-13
+2017   Syracuse          67   18-14
+2010   TCU               76   13-19
+2011   TCU               93   11-22
+2012   TCU               72   16-14
+2013   TCU              130   10-21
+2014   TCU               43   7-22
+2015   TCU              116   18-15
+2016   TCU               55   12-21
+2017   TCU               29   18-15
+2010   Temple            58   29-5
+2011   Temple           108   25-7
+2012   Temple            50   24-7
+2013   Temple            65   23-9
+2014   Temple            35   9-22
+2015   Temple            56   23-10
+2016   Temple            79   21-11
+2017   Temple            89   16-16
+2010   Tennessee         20   25-8
+2011   Tennessee          2   19-14
+2012   Tennessee         40   17-14
+2013   Tennessee         53   20-12
+2014   Tennessee         15   20-12
+2015   Tennessee         49   16-16
+2016   Tennessee         52   15-19
+2017   Tennessee         25   15-16
+2010   Tennessee St.    182   9-23
+2011   Tennessee St.    241   12-16
+2012   Tennessee St.    141   18-12
+2013   Tennessee St.    103   16-14
+2014   Tennessee St.    109   4-25
+2015   Tennessee St.    225   3-26
+2016   Tennessee St.    301   18-10
+2017   Tennessee St.    208   15-13
+2010   Tennessee Tech   181   15-17
+2011   Tennessee Tech   272   17-12
+2012   Tennessee Tech   158   17-13
+2013   Tennessee Tech   213   10-17
+2014   Tennessee Tech   232   15-16
+2015   Tennessee Tech   275   10-18
+2016   Tennessee Tech   199   17-11
+2017   Tennessee Tech   255   10-20
+2010   Texas             60   24-9
+2011   Texas             14   27-7
+2012   Texas             15   20-13
+2013   Texas             82   16-16
+2014   Texas             54   23-10
+2015   Texas             16   20-13
+2016   Texas              5   20-12
+2017   Texas             10   11-22
+2010   Texas A&M          4   23-9
+2011   Texas A&M         47   23-8
+2012   Texas A&M         67   13-18
+2013   Texas A&M         42   18-15
+2014   Texas A&M        116   17-15
+2015   Texas A&M         92   20-11
+2016   Texas A&M         59   26-8
+2017   Texas A&M         51   16-15
+2010   Texas Southern   294   17-15
+2011   Texas Southern   333   19-12
+2012   Texas Southern   303   15-18
+2013   Texas Southern   249   17-14
+2014   Texas Southern   347   18-14
+2015   Texas Southern   287   22-12
+2016   Texas Southern   322   18-14
+2017   Texas Southern   300   23-11
+2010   Texas St.        269   15-16
+2011   Texas St.        238   14-15
+2012   Texas St.        291   9-17
+2013   Texas St.        246   11-22
+2014   Texas St.        181   6-23
+2015   Texas St.        180   11-17
+2016   Texas St.        282   13-16
+2017   Texas St.        293   18-13
+2010   Texas Tech        10   17-15
+2011   Texas Tech        66   13-19
+2012   Texas Tech        75   8-23
+2013   Texas Tech       102   11-20
+2014   Texas Tech        45   14-18
+2015   Texas Tech        70   13-19
+2016   Texas Tech         9   19-12
+2017   Texas Tech       126   18-14
+2010   Toledo           163   4-28
+2011   Toledo   245   3-28
+2012   Toledo   305   16-16
+2013   Toledo   287   15-13
+2014   Toledo   149   26-6
+2015   Toledo    81   20-13
+2016   Toledo   217   16-15
+2017   Toledo   112   16-16
+2010   Towson   220   10-21
+2011   Towson    97   4-26
+2012   Towson    66   1-31
+2013   Towson   204   17-13
+2014   Towson   201   21-10
+2015   Towson   303   11-20
+2016   Towson   257   18-12
+2017   Towson   104   19-13
+2010   Troy     166   20-12
+2011   Troy     136   7-21
+2012   Troy     216   9-18
+2013   Troy     241   12-21
+2014   Troy     246   9-20
+2015   Troy     314   8-19
+2016   Troy     188   7-22
+2017   Troy     225   20-14
+2010   Tulane   191   8-22
+2011   Tulane   191   10-17
+2012   Tulane   268   13-16
+2013   Tulane   224   18-14
+2014   Tulane   211   16-16
+2015   Tulane   209   14-16
+2016   Tulane   133   12-22
+2017   Tulane   144   6-25
+2010   Tulsa     93   23-11
+2011   Tulsa     55   19-13
+2012   Tulsa    106   17-14
+2013   Tulsa    109   16-15
+2014   Tulsa     90   21-12
+2015   Tulsa     93   22-9
+2016   Tulsa     60   20-11
+2017   Tulsa     62   15-17
+2010   UAB       99   23-8
+2011   UAB       74   22-8
+2012   UAB       41   15-16
+2013   UAB                100   15-17
+2014   UAB                152   16-13
+2015   UAB                101   18-15
+2016   UAB                279   25-6
+2017   UAB                180   16-16
+2010   UALR               153   8-22
+2011   UALR               209   17-16
+2012   UALR               154   14-16
+2013   UALR               156   16-15
+2014   UALR               153   13-17
+2015   UALR               272   12-18
+2016   UALR               244   27-4
+2017   UALR               291   13-17
+2010   UC Davis           258   14-18
+2011   UC Davis           234   8-20
+2012   UC Davis           293   4-26
+2013   UC Davis           284   14-17
+2014   UC Davis           298   7-22
+2015   UC Davis           304   23-6
+2016   UC Davis           213   9-19
+2017   UC Davis           317   20-12
+2010   UC Irvine          311   14-18
+2011   UC Irvine          325   12-19
+2012   UC Irvine          181   10-19
+2013   UC Irvine          161   18-15
+2014   UC Irvine          225   21-11
+2015   UC Irvine          141   19-12
+2016   UC Irvine          154   23-9
+2017   UC Irvine          179   19-14
+2010   UC Riverside       256   12-17
+2011   UC Riverside       232   10-19
+2012   UC Riverside       285   12-17
+2013   UC Riverside       298   4-24
+2014   UC Riverside       290   8-21
+2015   UC Riverside       216   12-17
+2016   UC Riverside       297   12-19
+2017   UC Riverside       294   6-21
+2010   UC Santa Barbara   196   20-9
+2011   UC Santa Barbara   204   16-13
+2012   UC Santa Barbara   190   18-10
+2013   UC Santa Barbara   154   9-20
+2014   UC Santa Barbara   237   19-9
+2015   UC Santa Barbara    83   17-13
+2016   UC Santa Barbara   100   17-13
+2017   UC Santa Barbara   147   5-22
+2010   UCF                156   15-17
+2011   UCF                 45   18-11
+2012   UCF                 78   20-10
+2013   UCF                119   18-11
+2014   UCF                127   11-18
+2015   UCF                170   11-18
+2016   UCF                163   12-18
+2017   UCF                 99   21-11
+2010   UCLA                41   14-18
+2011   UCLA                50   22-10
+2012   UCLA               113   18-14
+2013   UCLA                15   25-9
+2014   UCLA                13   26-8
+2015   UCLA                26   20-13
+2016   UCLA                21   15-17
+2017   UCLA                93   29-4
+2010   UConn                5   17-15
+2011   UConn                9   26-9
+2012   UConn                2   20-13
+2013   UConn               32   20-10
+2014   UConn               27   26-8
+2015   UConn               53   20-14
+2016   UConn               40   24-10
+2017   UConn               48   15-17
+2014   UMass Lowell       267   9-18
+2015   UMass Lowell       298   11-17
+2016   UMass Lowell       260   10-18
+2017   UMass Lowell       277   10-20
+2010   UMBC               287   4-26
+2011   UMBC               207   5-25
+2012   UMBC               323   4-26
+2013   UMBC               170   7-23
+2014   UMBC               325   8-21
+2015   UMBC               310   4-26
+2016   UMBC               317   7-25
+2017   UMBC               248   16-12
+2010   UMES               320   11-21
+2011   UMES               287   7-22
+2012   UMES               263   6-23
+2013   UMES             257   2-26
+2014   UMES             339   5-23
+2015   UMES             312   18-14
+2016   UMES             315   9-22
+2017   UMES             314   12-20
+2010   UMKC             305   12-18
+2011   UMKC             279   15-14
+2012   UMKC             188   9-20
+2013   UMKC             143   7-24
+2014   UMKC             157   10-19
+2015   UMKC             331   12-19
+2016   UMKC             252   9-19
+2017   UMKC             125   14-16
+2010   UNC Asheville    169   15-16
+2011   UNC Asheville    198   16-13
+2012   UNC Asheville    192   21-9
+2013   UNC Asheville    230   13-16
+2014   UNC Asheville    231   14-15
+2015   UNC Asheville    283   12-16
+2016   UNC Asheville    239   20-11
+2017   UNC Asheville    201   21-9
+2010   UNC Greensboro   121   8-23
+2011   UNC Greensboro   181   7-24
+2012   UNC Greensboro   225   12-19
+2013   UNC Greensboro   304   7-22
+2014   UNC Greensboro   329   11-18
+2015   UNC Greensboro   253   8-22
+2016   UNC Greensboro   180   11-18
+2017   UNC Greensboro   220   22-9
+2010   UNCW             149   9-22
+2011   UNCW             199   13-18
+2012   UNCW             107   10-21
+2013   UNCW             267   9-20
+2014   UNCW             169   7-23
+2015   UNCW             240   17-13
+2016   UNCW             139   23-7
+2017   UNCW             117   27-5
+2010   UNI              120   28-4
+2011   UNI              120   18-13
+2012   UNI               45   18-13
+2013   UNI               34   17-14
+2014   UNI               89   15-15
+2015   UNI            121   30-3
+2016   UNI             84   21-12
+2017   UNI            102   13-16
+2010   UNLV           107   25-8
+2011   UNLV            31   24-8
+2012   UNLV            36   24-8
+2013   UNLV            17   24-9
+2014   UNLV           107   20-13
+2015   UNLV            75   17-15
+2016   UNLV           117   16-15
+2017   UNLV           137   11-21
+2010   USC Upstate    213   6-23
+2011   USC Upstate    187   5-25
+2012   USC Upstate    252   18-12
+2013   USC Upstate    273   14-17
+2014   USC Upstate    259   17-14
+2015   USC Upstate    343   19-11
+2016   USC Upstate    274   7-21
+2017   USC Upstate    295   13-15
+2010   UT Arlington   248   16-14
+2011   UT Arlington   295   9-16
+2012   UT Arlington   290   23-8
+2013   UT Arlington   137   19-13
+2014   UT Arlington   190   13-17
+2015   UT Arlington   203   15-15
+2016   UT Arlington   240   22-10
+2017   UT Arlington   133   23-8
+2010   UT Martin      251   4-25
+2011   UT Martin      275   10-21
+2012   UT Martin      202   2-27
+2013   UT Martin      256   7-21
+2014   UT Martin      304   6-23
+2015   UT Martin      307   16-12
+2016   UT Martin      338   17-14
+2017   UT Martin      305   19-12
+2010   Utah            95   14-17
+2011   Utah            20   12-18
+2012   Utah            59   5-25
+2013   Utah            60   13-18
+2014   Utah           105   19-11
+2015   Utah            33   23-8
+2016   Utah             6   25-8
+2017   Utah          120   18-11
+2010   Utah St.       90   27-7
+2011   Utah St.      112   29-3
+2012   Utah St.      111   16-15
+2013   Utah St.      167   20-10
+2014   Utah St.      103   17-14
+2015   Utah St.      168   17-13
+2016   Utah St.      108   14-15
+2017   Utah St.       92   13-17
+2010   Utah Valley   347   12-18
+2011   Utah Valley   343   15-11
+2012   Utah Valley   340   16-12
+2013   Utah Valley   324   10-18
+2014   Utah Valley   263   18-11
+2015   Utah Valley   293   9-19
+2016   Utah Valley   234   9-18
+2017   Utah Valley   198   12-16
+2010   UTEP          111   26-6
+2011   UTEP          106   24-9
+2012   UTEP           65   15-17
+2013   UTEP           61   18-14
+2014   UTEP          145   21-10
+2015   UTEP          129   22-10
+2016   UTEP          284   18-14
+2017   UTEP          188   14-17
+2010   UTRGV         306   6-27
+2011   UTRGV         323   3-25
+2012   UTRGV         257   7-21
+2013   UTRGV         346   12-16
+2014   UTRGV         287   8-23
+2015   UTRGV         327   7-21
+2016   UTRGV         246   5-22
+2017   UTRGV         217   7-22
+2010   UTSA          290   19-11
+2011   UTSA          294   16-13
+2012   UTSA          289   16-14
+2013   UTSA          200   10-22
+2014   UTSA          174   6-21
+2015   UTSA          259   12-16
+2016   UTSA          312   4-26
+2017   UTSA          273   12-19
+2010   Valparaiso    143   15-17
+2011   Valparaiso   111   21-11
+2012   Valparaiso   157   20-11
+2013   Valparaiso   158   25-7
+2014   Valparaiso   205   15-15
+2015   Valparaiso   256   25-5
+2016   Valparaiso   161   24-6
+2017   Valparaiso   204   23-8
+2010   Vanderbilt    27   24-8
+2011   Vanderbilt    16   23-10
+2012   Vanderbilt     6   24-10
+2013   Vanderbilt    50   16-17
+2014   Vanderbilt    75   15-16
+2015   Vanderbilt   119   18-13
+2016   Vanderbilt    42   19-13
+2017   Vanderbilt     1   19-15
+2010   VCU          142   22-9
+2011   VCU           78   23-11
+2012   VCU          180   28-6
+2013   VCU           33   26-8
+2014   VCU           26   26-8
+2015   VCU            8   26-9
+2016   VCU           61   24-10
+2017   VCU           44   26-8
+2010   Vermont      313   25-9
+2011   Vermont      227   23-8
+2012   Vermont      248   23-11
+2013   Vermont      228   21-11
+2014   Vermont      210   20-10
+2015   Vermont      300   17-13
+2016   Vermont      177   20-13
+2017   Vermont      181   28-5
+2010   Villanova     32   24-7
+2011   Villanova     39   21-11
+2012   Villanova     11   13-19
+2013   Villanova     24   19-13
+2014   Villanova     40   28-4
+2015   Villanova     30   32-2
+2016   Villanova     13   29-5
+2017   Villanova     26   31-3
+2010   Virginia      54   15-16
+2011   Virginia     125   16-15
+2012   Virginia      97   22-9
+2013   Virginia        125   21-11
+2014   Virginia         23   28-6
+2015   Virginia         21   29-3
+2016   Virginia          2   26-7
+2017   Virginia          4   22-10
+2010   Virginia Tech   162   23-8
+2011   Virginia Tech    82   21-11
+2012   Virginia Tech    35   16-17
+2013   Virginia Tech    88   13-19
+2014   Virginia Tech    83   9-22
+2015   Virginia Tech    86   11-22
+2016   Virginia Tech    49   19-14
+2017   Virginia Tech    77   22-10
+2010   VMI             233   10-19
+2011   VMI             267   14-13
+2012   VMI             328   14-16
+2013   VMI             338   11-17
+2014   VMI             316   15-12
+2015   VMI             252   9-19
+2016   VMI             224   6-21
+2017   VMI             173   4-24
+2010   Wagner          250   5-26
+2011   Wagner          117   13-17
+2012   Wagner          271   25-6
+2013   Wagner          193   19-12
+2014   Wagner          337   18-12
+2015   Wagner          236   9-20
+2016   Wagner          335   21-10
+2017   Wagner          324   15-14
+2010   Wake Forest      28   19-10
+2011   Wake Forest     109   8-24
+2012   Wake Forest     119   13-18
+2013   Wake Forest      83   13-18
+2014   Wake Forest      82   17-16
+2015   Wake Forest      34   13-19
+2016   Wake Forest      44   11-20
+2017   Wake Forest      22   19-13
+2010   Washington       71   24-9
+2011   Washington       48   23-10
+2012   Washington       84   21-10
+2013   Washington       40   18-15
+2014   Washington       64   17-15
+2015   Washington        90   16-15
+2016   Washington        39   18-14
+2017   Washington        38   9-22
+2010   Washington St.   163   16-15
+2011   Washington St.    89   19-12
+2012   Washington St.   178   14-16
+2013   Washington St.   101   13-19
+2014   Washington St.    80   9-21
+2015   Washington St.    84   13-18
+2016   Washington St.    30   8-22
+2017   Washington St.    46   12-18
+2010   Weber St.        130   20-10
+2011   Weber St.        195   15-13
+2012   Weber St.        223   22-6
+2013   Weber St.        272   24-6
+2014   Weber St.        247   17-11
+2015   Weber St.        245   11-17
+2016   Weber St.        293   23-8
+2017   Weber St.        249   17-13
+2010   West Virginia      3   27-6
+2011   West Virginia      4   20-11
+2012   West Virginia     22   19-13
+2013   West Virginia     58   13-19
+2014   West Virginia     53   17-15
+2015   West Virginia     43   23-9
+2016   West Virginia     17   26-8
+2017   West Virginia     66   26-8
+2010   Western Caro.    240   22-11
+2011   Western Caro.    255   17-15
+2012   Western Caro.    267   15-18
+2013   Western Caro.    238   12-19
+2014   Western Caro.    294   16-15
+2015   Western Caro.    246   13-17
+2016   Western Caro.    110   13-17
+2017   Western Caro.    139   7-23
+2010   Western Ill.     304   13-17
+2011   Western Ill.     308   4-23
+2012   Western Ill.     129   14-14
+2013   Western Ill.     302   20-8
+2014   Western Ill.     206   7-20
+2015   Western Ill.     226   6-20
+2016   Western Ill.     191   7-17
+2017   Western Ill.     266   6-20
+2010   Western Ky.      194   21-13
+2011   Western Ky.      215   16-16
+2012   Western Ky.      135   15-18
+2013   Western Ky.      169   19-15
+2014   Western Ky.      192   19-12
+2015   Western Ky.      155   18-12
+2016   Western Ky.      109   16-16
+2017   Western Ky.      274   15-17
+2010   Western Mich.    138   18-15
+2011   Western Mich.    299   19-12
+2012   Western Mich.    133   13-20
+2013   Western Mich.    221   19-12
+2014   Western Mich.    148   22-9
+2015   Western Mich.    178   18-13
+2016   Western Mich.     98   11-19
+2017   Western Mich.    122   15-16
+2010   Wichita St.      108   25-9
+2011   Wichita St.      101   23-8
+2012   Wichita St.       47   26-5
+2013   Wichita St.       95   26-8
+2014   Wichita St.       88   33-0
+2015   Wichita St.      102   27-4
+2016   Wichita St.      104   23-8
+2017   Wichita St.      159   29-4
+2010   William & Mary   105   22-10
+2011   William & Mary    91   9-22
+2012   William & Mary   147   5-26
+2013   William & Mary   311   12-17
+2014   William & Mary   189   19-12
+2015   William & Mary   123   18-12
+2016   William & Mary    64   18-11
+2017   William & Mary    97   15-14
+2010   Winston-Salem    295   12-17
+2010   Winthrop         226   19-13
+2011   Winthrop         174   11-17
+2012   Winthrop         243   10-20
+2013   Winthrop         243   11-17
+2014   Winthrop         251   17-13
+2015   Winthrop         319   16-13
+2016   Winthrop         286   20-9
+2017   Winthrop         236   24-6
+2010   Wisconsin     23   23-8
+2011   Wisconsin     28   23-8
+2012   Wisconsin     18   24-9
+2013   Wisconsin     11   23-11
+2014   Wisconsin      3   26-7
+2015   Wisconsin     14   31-3
+2016   Wisconsin     10   20-12
+2017   Wisconsin     79   25-9
+2010   Wofford      211   26-8
+2011   Wofford      165   21-12
+2012   Wofford      304   17-13
+2013   Wofford      240   12-19
+2014   Wofford      242   17-12
+2015   Wofford      205   26-6
+2016   Wofford      203   13-17
+2017   Wofford      151   13-17
+2010   Wright St.   134   20-12
+2011   Wright St.   133   17-14
+2012   Wright St.   177   12-19
+2013   Wright St.   226   20-12
+2014   Wright St.   271   18-14
+2015   Wright St.   197   9-20
+2016   Wright St.   237   20-13
+2017   Wright St.   162   18-12
+2010   Wyoming       48   10-21
+2011   Wyoming      127   8-21
+2012   Wyoming       98   18-11
+2013   Wyoming       57   17-13
+2014   Wyoming      131   16-14
+2015   Wyoming      161   23-9
+2016   Wyoming       96   12-18
+2017   Wyoming      167   16-14
+2010   Xavier        44   24-8
+2011   Xavier        56   24-7
+2012   Xavier        26   21-12
+2013   Xavier        64   17-14
+2014   Xavier        33   20-12
+2015   Xavier        10   21-13
+2016   Xavier        37   27-5
+2017   Xavier        15   21-13
+2010   Yale         274   12-19
+2011   Yale         179   14-13
+2012   Yale             227   17-9
+2013   Yale             171   12-17
+2014   Yale             154   14-13
+2015   Yale             109   20-10
+2016   Yale             160   21-6
+2017   Yale             212   17-11
+2010   Youngstown St.   131   8-22
+2011   Youngstown St.   154   7-21
+2012   Youngstown St.   189   14-15
+2013   Youngstown St.   192   14-15
+2014   Youngstown St.   226   12-17
+2015   Youngstown St.   234   8-21
+2016   Youngstown St.   210   9-21
+2017   Youngstown St.   211   11-21

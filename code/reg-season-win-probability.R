@@ -1,26 +1,24 @@
 ## Reginald Edwards
-## CREATED: 1 March 2018
-## MODIFIED:
-## DESCRIPTION: Compute the probability regular season win percentages and use
-## ase probability of tournament win
+## CREATED: 01 March 2018
+## MODIFIED: 09 March 2018
+## DESCRIPTION: Compute the regular season win percentages and use
+## as probability of tournament win
 ###############################################################################
 
-
-rm(list=ls())
 
 ###############################################################################
 ## Training data
 ###############################################################################
 
 ## load regular season results
-X.season <- read.csv('data/raw/RegularSeasonCompactResults.csv',
+season.compact.results <- read.csv('data/raw/RegularSeasonCompactResults.csv',
   stringsAsFactors = FALSE)
-names(X.season) <- tolower(names(X.season))
-X.season$game <- 1
-wins <- aggregate(X.season$game, by = list(X.season$season, X.season$wteamid), FUN = sum)
+names(season.compact.results) <- tolower(names(season.compact.results))
+season.compact.results$game <- 1
+wins <- aggregate(season.compact.results$game, by = list(season.compact.results$season, season.compact.results$wteamid), FUN = sum)
 names(wins) <- c('season', 'teamid', 'n.wins')
 
-losses <- aggregate(X.season$game, by = list(X.season$season, X.season$lteamid), FUN = sum)
+losses <- aggregate(season.compact.results$game, by = list(season.compact.results$season, season.compact.results$lteamid), FUN = sum)
 names(losses) <- c('season', 'teamid', 'n.losses')
 
 team.record <- merge(wins, losses, all.x = TRUE, all.y = TRUE)
@@ -39,65 +37,72 @@ team.record[which(team.record$win.pct == 1),]
 ## Add win pct, wins, losses, and number of game of team 1 as features
 
 ## load training data
-load('data/working/training.RData')
-X.train <- merge(X.train, team.record, by.x = c('season', 'team1'), by.y = c('season', 'teamid'))
-X.train$wins1 <- X.train$n.wins
-X.train$losses1 <- X.train$n.losses
-X.train$games1 <- X.train$games
-X.train$win.pct1 <- X.train$win.pct
+load('data/working/train_set.RData')
+train.set <- merge(train.set, team.record, by.x = c('season', 'team1'), by.y = c('season', 'teamid'))
+train.set$wins1 <- train.set$n.wins
+train.set$losses1 <- train.set$n.losses
+train.set$games1 <- train.set$games
+train.set$win.pct1 <- train.set$win.pct
 
-X.train$n.wins <- NULL
-X.train$n.losses <- NULL
-X.train$games <- NULL
-X.train$win.pct <- NULL
+## delete unused variables
+train.set$n.wins <- NULL
+train.set$n.losses <- NULL
+train.set$games <- NULL
+train.set$win.pct <- NULL
 
-X.train <- merge(X.train, team.record, by.x = c('season', 'team2'), by.y = c('season', 'teamid'))
-X.train$wins2 <- X.train$n.wins
-X.train$losses2 <- X.train$n.losses
-X.train$games2 <- X.train$games
-X.train$win.pct2 <- X.train$win.pct
+train.set <- merge(train.set, team.record, by.x = c('season', 'team2'), by.y = c('season', 'teamid'))
+train.set$wins2 <- train.set$n.wins
+train.set$losses2 <- train.set$n.losses
+train.set$games2 <- train.set$games
+train.set$win.pct2 <- train.set$win.pct
 
-X.train$n.wins <- NULL
-X.train$n.losses <- NULL
-X.train$games <- NULL
-X.train$win.pct <- NULL
+## delete unused variables
+train.set$n.wins <- NULL
+train.set$n.losses <- NULL
+train.set$games <- NULL
+train.set$win.pct <- NULL
 
-o <- order(X.train$season, X.train$daynum, X.train$wteamid)
-X.train <- X.train[o, ]
+o <- order(train.set$season, train.set$daynum, train.set$wteamid)
+train.set <- train.set[o, ]
 
-save(X.train, file = 'data/working/training.RData')
+save(train.set, file = 'data/working/train_set.RData')
 
 ## Michigan's 2012-2013 season
-#X.train[X.train$season == 2013 & (X.train$wteamid == 1276 | X.train$lteamid == 1276), ]
+#train.set[train.set$season == 2013 & (train.set$wteamid == 1276 | train.set$lteamid == 1276), ]
 
 ###############################################################################
 ## Test data
 ###############################################################################
-load('data/working/testing.RData')
+load('data/working/test_set.RData')
 
-X.test <- merge(X.test, team.record, by.x = c('season', 'team1'), by.y = c('season', 'teamid'))
-X.test$wins1 <- X.test$n.wins
-X.test$losses1 <- X.test$n.losses
-X.test$games1 <- X.test$games
-X.test$win.pct1 <- X.test$win.pct
+test.set <- merge(test.set, team.record, by.x = c('season', 'team1'), by.y = c('season', 'teamid'))
+test.set$wins1 <- test.set$n.wins
+test.set$losses1 <- test.set$n.losses
+test.set$games1 <- test.set$games
+test.set$win.pct1 <- test.set$win.pct
 
-X.test$n.wins <- NULL
-X.test$n.losses <- NULL
-X.test$games <- NULL
-X.test$win.pct <- NULL
+## delete unused variables
+test.set$n.wins <- NULL
+test.set$n.losses <- NULL
+test.set$games <- NULL
+test.set$win.pct <- NULL
 
-X.test <- merge(X.test, team.record, by.x = c('season', 'team2'), by.y = c('season', 'teamid'))
-X.test$wins2 <- X.test$n.wins
-X.test$losses2 <- X.test$n.losses
-X.test$games2 <- X.test$games
-X.test$win.pct2 <- X.test$win.pct
+test.set <- merge(test.set, team.record, by.x = c('season', 'team2'), by.y = c('season', 'teamid'))
+test.set$wins2 <- test.set$n.wins
+test.set$losses2 <- test.set$n.losses
+test.set$games2 <- test.set$games
+test.set$win.pct2 <- test.set$win.pct
 
-X.test$n.wins <- NULL
-X.test$n.losses <- NULL
-X.test$games <- NULL
-X.test$win.pct <- NULL
+## delete unused variables
+test.set$n.wins <- NULL
+test.set$n.losses <- NULL
+test.set$games <- NULL
+test.set$win.pct <- NULL
 
-o <- order(X.test$season, X.test$team1)
-X.test <- X.test[o, ]
- 
-save(X.test, file = 'data/working/testing.RData')
+## sory by season year and teamid of team 1
+test.set <- test.set[order(test.set$season, test.set$team1), ]
+
+save(test.set, file = 'data/working/test_set.RData')
+rm("team.record")
+rm("o")
+gc()

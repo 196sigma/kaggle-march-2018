@@ -1,0 +1,2785 @@
+2010|a&m-corpus christi|159|17-15
+2011|a&m-corpus christi|160|7-21
+2012|a&m-corpus christi|269|6-24
+2013|a&m-corpus christi|206|5-23
+2014|a&m-corpus christi|318|15-13
+2015|a&m-corpus christi|316|17-13
+2016|a&m-corpus christi|235|23-7
+2017|a&m-corpus christi|296|17-11
+2015|abilene christian|274|7-21
+2016|abilene christian|329|9-18
+2017|abilene christian|309|9-16
+2010|air force|101|10-21
+2011|air force|58|14-14
+2012|air force|61|11-16
+2013|air force|52|15-13
+2014|air force|173|10-18
+2015|air force|198|12-17
+2016|air force|168|12-18
+2017|air force|103|10-21
+2010|akron|168|24-10
+2011|akron|184|22-12
+2012|akron|60|21-11
+2013|akron|120|25-6
+2014|akron|143|21-12
+2015|akron|120|20-14
+2016|akron|126|25-8
+2017|akron|161|25-8
+2010|alabama|49|17-15
+2011|alabama|130|21-11
+2012|alabama|32|21-11
+2013|alabama|78|20-12
+2014|alabama|5|12-19
+2015|alabama|61|17-14
+2016|alabama|32|18-14
+2017|alabama|68|19-14
+2010|alabama a&m|344|11-16
+2011|alabama a&m|334|10-15
+2012|alabama a&m|342|5-21
+2013|alabama a&m|339|9-20
+2014|alabama a&m|327|12-16
+2015|alabama a&m|347|8-20
+2016|alabama a&m|351|10-18
+2017|alabama a&m|347|2-27
+2010|alabama st|341|16-15
+2011|alabama st|329|15-17
+2012|alabama st|336|10-19
+2013|alabama st|330|9-22
+2014|alabama st|348|16-12
+2015|alabama st|351|17-10
+2016|alabama st|311|12-17
+2017|alabama st|329|7-23
+2010|albany ny|202|7-25
+2011|albany ny|290|16-16
+2012|albany ny|332|19-14
+2013|albany ny|286|24-10
+2014|albany ny|273|18-14
+2015|albany ny|286|24-8
+2016|albany ny|301|23-8
+2017|albany ny|202|20-13
+2010|alcorn|288|2-29
+2011|alcorn|321|4-24
+2012|alcorn|343|7-21
+2013|alcorn|296|9-23
+2014|alcorn|326|9-19
+2015|alcorn|345|5-25
+2016|alcorn|324|13-15
+2017|alcorn|326|15-14
+2010|american|307|11-20
+2011|american|307|22-9
+2012|american|302|20-11
+2013|american|235|10-20
+2014|american|217|20-12
+2015|american|158|17-16
+2016|american|190|12-19
+2017|american|223|8-22
+2010|appalachian st|183|22-12
+2011|appalachian st|229|14-15
+2012|appalachian st|238|11-18
+2013|appalachian st|323|13-16
+2014|appalachian st|291|5-21
+2015|appalachian st|279|12-17
+2016|appalachian st|135|9-22
+2017|appalachian st|172|7-21
+2010|arizona|39|16-15
+2011|arizona|54|27-7
+2012|arizona|122|23-11
+2013|arizona|28|25-7
+2014|arizona|4|30-4
+2015|arizona|23|31-3
+2016|arizona|93|25-8
+2017|arizona|14|30-4
+2010|arizona st|92|22-10
+2011|arizona st|69|12-19
+2012|arizona st|139|10-21
+2013|arizona st|111|21-12
+2014|arizona st|55|21-11
+2015|arizona st|64|17-15
+2016|arizona st|23|15-17
+2017|arizona st|58|15-18
+2010|ark-pine bluff|266|16-15
+2011|ark-pine bluff|318|7-24
+2012|ark-pine bluff|327|11-22
+2013|ark-pine bluff|320|16-14
+2014|ark-pine bluff|270|11-18
+2015|ark-pine bluff|340|12-20
+2016|ark-pine bluff|300|8-25
+2017|ark-pine bluff|334|6-24
+2010|arkansas|40|14-18
+2011|arkansas|129|18-13
+2012|arkansas|63|18-14
+2013|arkansas|91|19-13
+2014|arkansas|98|21-11
+2015|arkansas|37|26-8
+2016|arkansas|72|16-16
+2017|arkansas|55|25-9
+2010|arkansas st|254|17-14
+2011|arkansas st|188|15-15
+2012|arkansas st|166|13-20
+2013|arkansas st|252|18-12
+2014|arkansas st|286|17-13
+2015|arkansas st|280|10-18
+2016|arkansas st|197|9-20
+2017|arkansas st|241|19-12
+2010|army|303|14-15
+2011|army|297|10-19
+2012|army|330|11-18
+2013|army|276|15-15
+2014|army|266|14-16
+2015|army|308|14-15
+2016|army|323|18-13
+2017|army|259|12-19
+2010|auburn|64|15-17
+2011|auburn|163|10-20
+2012|auburn|77|15-16
+2013|auburn|131|9-23
+2014|auburn|114|14-16
+2015|auburn|22|14-20
+2016|auburn|48|11-20
+2017|auburn|154|18-14
+2010|austin peay|147|17-15
+2011|austin peay|173|18-13
+2012|austin peay|82|11-20
+2013|austin peay|237|6-23
+2014|austin peay|324|10-18
+2015|austin peay|200|6-22
+2016|austin peay|187|16-17
+2017|austin peay|214|9-19
+2010|ball st|238|15-15
+2011|ball st|281|18-12
+2012|ball st|331|14-15
+2013|ball st|297|14-15
+2014|ball st|99|3-25
+2015|ball st|88|6-23
+2016|ball st|250|18-13
+2017|ball st|292|20-12
+2010|baylor|15|25-7
+2011|baylor|46|17-13
+2012|baylor|8|26-7
+2013|baylor|25|17-14
+2014|baylor|9|22-11
+2015|baylor|3|23-9
+2016|baylor|4|21-11
+2017|baylor|5|24-7
+2010|belmont|207|19-12
+2011|belmont|285|30-4
+2012|belmont|201|26-7
+2013|belmont|61|24-6
+2014|belmont|129|23-9
+2015|belmont|251|21-10
+2016|belmont|166|19-11
+2017|belmont|193|21-6
+2010|bethune-cookman|326|17-16
+2011|bethune-cookman|313|17-12
+2012|bethune-cookman|317|16-17
+2013|bethune-cookman|283|12-20
+2014|bethune-cookman|335|5-25
+2015|bethune-cookman|350|9-21
+2016|bethune-cookman|336|12-18
+2017|bethune-cookman|344|8-22
+2010|binghamton|179|13-18
+2011|binghamton|231|8-23
+2012|binghamton|318|2-29
+2013|binghamton|209|2-27
+2014|binghamton|305|7-23
+2015|binghamton|230|5-25
+2016|binghamton|215|8-22
+2017|binghamton|281|9-20
+2010|boise st|195|15-17
+2011|boise st|178|19-12
+2012|boise st|100|12-17
+2013|boise st|69|19-10
+2014|boise st|79|19-13
+2015|boise st|118|23-8
+2016|boise st|127|18-12
+2017|boise st|98|18-11
+2010|boston college|46|15-16
+2011|boston college|40|20-12
+2012|boston college|83|9-22
+2013|boston college|47|16-17
+2014|boston college|47|7-24
+2015|boston college|58|13-19
+2016|boston college|64|7-25
+2017|boston college|39|9-23
+2010|boston univ|192|19-13
+2011|boston univ|212|21-13
+2012|boston univ|230|16-16
+2013|boston univ|208|17-12
+2014|boston univ|137|24-10
+2015|boston univ|112|12-17
+2016|boston univ|280|17-14
+2017|boston univ|238|17-14
+2010|bowling green|171|14-16
+2011|bowling green|243|13-19
+2012|bowling green|149|15-15
+2013|bowling green|212|11-19
+2014|bowling green|95|11-20
+2015|bowling green|239|20-10
+2016|bowling green|189|14-18
+2017|bowling green|140|12-19
+2010|bradley|59|16-15
+2011|bradley|150|11-20
+2012|bradley|85|7-25
+2013|bradley|223|16-16
+2014|bradley|199|12-20
+2015|bradley|131|8-24
+2016|bradley|113|4-27
+2017|bradley|135|12-20
+2010|brown|206|11-20
+2011|brown|193|10-17
+2012|brown|234|7-23
+2013|brown|306|12-15
+2014|brown|310|14-13
+2015|brown|192|11-18
+2016|brown|256|7-20
+2017|brown|306|11-17
+2010|bryant|302|1-29
+2011|bryant|145|8-21
+2012|bryant|266|2-28
+2013|bryant|268|19-11
+2014|bryant|235|17-14
+2015|bryant|220|16-15
+2016|bryant|270|7-23
+2017|bryant|252|11-20
+2010|bucknell|327|14-17
+2011|bucknell|221|25-8
+2012|bucknell|187|23-9
+2013|bucknell|189|27-5
+2014|bucknell|208|16-14
+2015|bucknell|174|18-14
+2016|bucknell|238|16-13
+2017|bucknell|190|26-8
+2010|buffalo|140|18-12
+2011|buffalo|239|17-13
+2012|buffalo|112|18-10
+2013|buffalo|155|12-20
+2014|buffalo|177|18-10
+2015|buffalo|59|23-9
+2016|buffalo|80|19-14
+2017|buffalo|116|15-15
+2010|butler|69|28-4
+2011|butler|67|22-9
+2012|butler|108|19-14
+2013|butler|30|25-8
+2014|butler|101|13-17
+2015|butler|41|22-10
+2016|butler|86|21-10
+2017|butler|9|23-8
+2010|byu|125|29-5
+2011|byu|18|29-4
+2012|byu|104|23-8
+2013|byu|94|20-11
+2014|byu|12|22-11
+2015|byu|66|23-9
+2016|byu|122|22-10
+2017|byu|83|22-11
+2010|cal poly|292|12-19
+2011|cal poly|302|15-14
+2012|cal poly|306|16-15
+2013|cal poly|229|16-13
+2014|cal poly|121|11-19
+2015|cal poly|165|11-16
+2016|cal poly|121|8-20
+2017|cal poly|287|9-20
+2010|cal st fullerton|235|16-15
+2011|cal st fullerton|316|10-20
+2012|cal st fullerton|319|19-9
+2013|cal st fullerton|314|12-18
+2014|cal st fullerton|280|11-20
+2015|cal st fullerton|262|7-22
+2016|cal st fullerton|272|8-20
+2017|cal st fullerton|342|15-14
+2010|cal st northridge|184|11-21
+2011|cal st northridge|277|12-18
+2012|cal st northridge|309|5-21
+2013|cal st northridge|277|12-17
+2014|cal st northridge|297|15-18
+2015|cal st northridge|99|7-24
+2016|cal st northridge|231|8-20
+2017|cal st northridge|319|10-18
+2010|california|8|23-10
+2011|california|23|17-14
+2012|california|79|24-9
+2013|california|41|20-11
+2014|california|38|19-13
+2015|california|65|18-15
+2016|california|16|23-10
+2017|california|37|21-12
+2010|campbell|283|19-11
+2011|campbell|284|11-19
+2012|campbell|308|16-15
+2013|campbell|278|11-19
+2014|campbell|320|9-19
+2015|campbell|232|7-22
+2016|campbell|326|9-18
+2017|campbell|301|14-17
+2010|canisius|237|15-17
+2011|canisius|180|15-15
+2012|canisius|312|5-25
+2013|canisius|145|18-13
+2014|canisius|186|21-11
+2015|canisius|194|16-14
+2016|canisius|200|14-19
+2017|canisius|216|18-15
+2010|centenary la|264|8-21
+2011|centenary la|269|1-27
+2010|central ark|293|9-21
+2011|central ark|252|2-24
+2012|central ark|301|6-20
+2013|central ark|308|11-17
+2014|central ark|275|6-19
+2015|central ark|329|2-27
+2016|central ark|332|7-21
+2017|central ark|218|8-24
+2010|central conn st|338|12-18
+2011|central conn st|259|19-12
+2012|central conn st|236|13-16
+2013|central conn st|188|13-17
+2014|central conn st|300|10-19
+2015|central conn st|296|5-26
+2016|central conn st|348|4-25
+2017|central conn st|341|6-23
+2010|central mich|236|15-15
+2011|central mich|305|9-21
+2012|central mich|275|10-21
+2013|central mich|225|10-20
+2014|central mich|222|8-21
+2015|central mich|173|20-8
+2016|central mich|103|14-15
+2017|central mich|251|14-16
+2010|charleston so|291|13-17
+2011|charleston so|249|12-16
+2012|charleston so|255|16-12
+2013|charleston so|291|16-12
+2014|charleston so|240|9-18
+2015|charleston so|270|16-11
+2016|charleston so|178|6-21
+2017|charleston so|269|9-19
+2010|charlotte|106|19-12
+2011|charlotte|124|10-20
+2012|charlotte|138|13-17
+2013|charlotte|105|21-11
+2014|charlotte|151|17-14
+2015|charlotte|176|14-18
+2016|charlotte|230|14-19
+2017|charlotte|237|12-17
+2010|chattanooga|222|15-18
+2011|chattanooga|194|14-16
+2012|chattanooga|231|8-21
+2013|chattanooga|265|11-19
+2014|chattanooga|330|15-14
+2015|chattanooga|224|20-10
+2016|chattanooga|222|27-5
+2017|chattanooga|222|17-12
+2010|chicago st|346|9-23
+2011|chicago st|322|4-25
+2012|chicago st|288|3-25
+2013|chicago st|269|7-21
+2014|chicago st|230|11-19
+2015|chicago st|254|5-24
+2016|chicago st|206|1-28
+2017|chicago st|127|3-26
+2010|cincinnati|12|18-15
+2011|cincinnati|102|25-8
+2012|cincinnati|80|24-10
+2013|cincinnati|26|22-11
+2014|cincinnati|59|27-6
+2015|cincinnati|55|22-10
+2016|cincinnati|66|22-10
+2017|cincinnati|57|29-5
+2010|citadel|199|16-16
+2011|citadel|208|8-22
+2012|citadel|222|4-24
+2013|citadel|315|6-22
+2014|citadel|306|4-25
+2015|citadel|332|8-19
+2016|citadel|298|7-22
+2017|citadel|233|9-21
+2010|clemson|22|21-10
+2011|clemson|71|21-11
+2012|clemson|142|16-15
+2013|clemson|127|13-18
+2014|clemson|94|20-12
+2015|clemson|69|16-15
+2016|clemson|118|17-14
+2017|clemson|31|17-15
+2010|cleveland st|78|16-17
+2011|cleveland st|113|24-8
+2012|cleveland st|134|21-10
+2013|cleveland st|126|11-18
+2014|cleveland st|136|19-11
+2015|cleveland st|132|16-14
+2016|cleveland st|128|7-23
+2017|cleveland st|114|8-22
+2010|coastal caro|332|28-6
+2011|coastal caro|311|24-5
+2012|coastal caro|264|15-11
+2013|coastal caro|248|11-15
+2014|coastal caro|284|18-12
+2015|coastal caro|306|20-9
+2016|coastal caro|233|15-11
+2017|coastal caro|95|14-17
+2010|col of charleston|173|21-11
+2011|col of charleston|152|24-10
+2012|col of charleston|145|19-12
+2013|col of charleston|258|24-9
+2014|col of charleston|207|13-18
+2015|col of charleston|207|9-24
+2016|col of charleston|120|16-14
+2017|col of charleston|138|24-9
+2010|colgate|271|10-19
+2011|colgate|262|7-23
+2012|colgate|240|8-22
+2013|colgate|227|11-21
+2014|colgate|256|12-18
+2015|colgate|189|15-17
+2016|colgate|273|12-17
+2017|colgate|282|9-22
+2010|colorado|33|15-16
+2011|colorado|60|20-13
+2012|colorado|72|21-11
+2013|colorado|23|21-11
+2014|colorado|18|23-11
+2015|colorado|48|15-17
+2016|colorado|47|21-11
+2017|colorado|111|18-14
+2010|colorado st|96|16-15
+2011|colorado st|29|18-12
+2012|colorado st|7|19-11
+2013|colorado st|49|23-8
+2014|colorado st|119|14-16
+2015|colorado st|108|26-6
+2016|colorado st|167|16-16
+2017|colorado st|82|21-11
+2010|columbia|230|11-17
+2011|columbia|228|14-13
+2012|columbia|164|13-15
+2013|columbia|289|10-16
+2014|columbia|161|18-12
+2015|columbia|106|12-15
+2016|columbia|195|19-10
+2017|columbia|275|10-16
+2010|coppin st|323|8-22
+2011|coppin st|328|13-14
+2012|coppin st|326|10-16
+2013|coppin st|260|7-24
+2014|coppin st|218|11-20
+2015|coppin st|242|7-23
+2016|coppin st|307|7-22
+2017|coppin st|321|7-23
+2010|cornell|209|27-4
+2011|cornell|123|10-18
+2012|cornell|103|11-16
+2013|cornell|279|12-18
+2014|cornell|118|1-26
+2015|cornell|223|12-17
+2016|cornell|169|9-18
+2017|cornell|177|7-21
+2010|creighton|85|16-15
+2011|creighton|131|19-14
+2012|creighton|114|28-5
+2013|creighton|87|27-7
+2014|creighton|22|26-7
+2015|creighton|71|14-19
+2016|creighton|92|18-14
+2017|creighton|45|24-9
+2010|csu bakersfield|300|7-22
+2011|csu bakersfield|298|9-19
+2012|csu bakersfield|281|13-14
+2013|csu bakersfield|242|10-16
+2014|csu bakersfield|322|12-19
+2015|csu bakersfield|309|11-19
+2016|csu bakersfield|310|21-8
+2017|csu bakersfield|171|19-9
+2010|dartmouth|208|5-23
+2011|dartmouth|192|5-23
+2012|dartmouth|220|4-25
+2013|dartmouth|244|8-19
+2014|dartmouth|252|10-16
+2015|dartmouth|221|14-14
+2016|dartmouth|214|9-18
+2017|dartmouth|234|7-20
+2010|davidson|137|16-15
+2011|davidson|254|16-14
+2012|davidson|165|24-7
+2013|davidson|177|25-7
+2014|davidson|182|19-12
+2015|davidson|113|23-7
+2016|davidson|57|19-12
+2017|davidson|69|17-15
+2010|dayton|26|20-12
+2011|dayton|63|22-13
+2012|dayton|75|20-12
+2013|dayton|99|17-14
+2014|dayton|56|23-10
+2015|dayton|103|25-8
+2016|dayton|46|25-7
+2017|dayton|70|23-7
+2010|delaware|53|7-24
+2011|delaware|107|14-17
+2012|delaware|237|18-13
+2013|delaware|175|19-14
+2014|delaware|191|25-9
+2015|delaware|156|10-20
+2016|delaware|147|7-23
+2017|delaware|183|11-20
+2010|delaware st|282|17-12
+2011|delaware st|278|7-21
+2012|delaware st|321|13-14
+2013|delaware st|326|13-18
+2014|delaware st|307|7-21
+2015|delaware st|268|16-17
+2016|delaware st|308|5-25
+2017|delaware st|338|8-22
+2010|denver|217|19-13
+2011|denver|223|13-17
+2012|denver|196|22-9
+2013|denver|139|21-9
+2014|denver|108|15-15
+2015|denver|130|12-18
+2016|denver|196|16-15
+2017|denver|297|16-14
+2010|depaul|38|8-23
+2011|depaul|53|7-24
+2012|depaul|130|12-19
+2013|depaul|112|11-21
+2014|depaul|36|12-21
+2015|depaul|97|12-20
+2016|depaul|73|9-22
+2017|depaul|84|9-23
+2010|detroit|234|20-14
+2011|detroit|147|16-16
+2012|detroit|184|20-13
+2013|detroit|86|18-12
+2014|detroit|165|11-19
+2015|detroit|142|13-18
+2016|detroit|223|14-15
+2017|detroit|166|7-23
+2010|drake|102|14-19
+2011|drake|183|13-18
+2012|drake|123|16-15
+2013|drake|85|14-17
+2014|drake|150|14-16
+2015|drake|91|8-22
+2016|drake|226|6-24
+2017|drake|153|6-23
+2010|drexel|141|16-16
+2011|drexel|155|21-10
+2012|drexel|229|27-6
+2013|drexel|179|13-18
+2014|drexel|158|16-14
+2015|drexel|188|11-18
+2016|drexel|69|6-24
+2017|drexel|258|8-23
+2010|duke|11|29-5
+2011|duke|24|30-4
+2012|duke|3|27-6
+2013|duke|1|27-5
+2014|duke|6|26-8
+2015|duke|13|29-4
+2016|duke|8|23-10
+2017|duke|6|27-8
+2010|duquesne|86|16-15
+2011|duquesne|134|17-12
+2012|duquesne|48|15-15
+2013|duquesne|89|8-22
+2014|duquesne|146|12-17
+2015|duquesne|111|11-19
+2016|duquesne|123|15-16
+2017|duquesne|157|10-22
+2010|east carolina|115|10-21
+2011|east carolina|38|15-15
+2012|east carolina|69|11-16
+2013|east carolina|77|14-12
+2014|east carolina|198|13-16
+2015|east carolina|137|12-19
+2016|east carolina|125|12-20
+2017|east carolina|163|15-18
+2010|eastern ill|218|19-12
+2011|eastern ill|273|7-20
+2012|eastern ill|316|10-17
+2013|eastern ill|247|11-20
+2014|eastern ill|269|9-19
+2015|eastern ill|171|15-14
+2016|eastern ill|278|11-17
+2017|eastern ill|328|12-15
+2010|eastern ky|215|20-12
+2011|eastern ky|327|13-16
+2012|eastern ky|262|14-16
+2013|eastern ky|153|22-9
+2014|eastern ky|224|22-9
+2015|eastern ky|260|17-11
+2016|eastern ky|207|14-16
+2017|eastern ky|178|10-19
+2010|eastern mich|245|17-15
+2011|eastern mich|276|6-22
+2012|eastern mich|294|13-18
+2013|eastern mich|220|13-18
+2014|eastern mich|76|18-14
+2015|eastern mich|181|17-13
+2016|eastern mich|58|14-15
+2017|eastern mich|88|12-17
+2010|eastern wash|161|9-21
+2011|eastern wash|202|8-20
+2012|eastern wash|228|13-17
+2013|eastern wash|312|10-21
+2014|eastern wash|220|13-16
+2015|eastern wash|206|23-8
+2016|eastern wash|334|15-15
+2017|eastern wash|303|20-11
+2010|elon|197|9-23
+2011|elon|308|11-17
+2012|elon|274|13-16
+2013|elon|305|19-11
+2014|elon|200|16-13
+2015|elon|294|13-18
+2016|elon|130|14-16
+2017|elon|213|16-14
+2010|etsu|151|20-14
+2011|etsu|168|21-11
+2012|etsu|258|16-14
+2013|etsu|191|9-22
+2014|etsu|234|17-15
+2015|etsu|191|14-14
+2016|etsu|129|21-11
+2017|etsu|182|25-7
+2010|evansville|129|9-21
+2011|evansville|96|14-15
+2012|evansville|81|15-15
+2013|evansville|97|17-14
+2014|evansville|120|12-19
+2015|evansville|139|18-12
+2016|evansville|186|24-9
+2017|evansville|101|14-17
+2010|fairfield|167|22-10
+2011|fairfield|264|24-7
+2012|fairfield|120|19-14
+2013|fairfield|263|19-15
+2014|fairfield|147|7-25
+2015|fairfield|125|7-24
+2016|fairfield|158|19-13
+2017|fairfield|231|16-14
+2010|fairleigh dickinson|216|11-21
+2011|fairleigh dickinson|257|5-24
+2012|fairleigh dickinson|212|3-26
+2013|fairleigh dickinson|222|7-24
+2014|fairleigh dickinson|223|9-20
+2015|fairleigh dickinson|284|7-21
+2016|fairleigh dickinson|276|17-14
+2017|fairleigh dickinson|267|10-19
+2010|fgcu|319|8-21
+2011|fgcu|250|10-20
+2012|fgcu|211|14-17
+2013|fgcu|202|22-10
+2014|fgcu|257|20-12
+2015|fgcu|258|19-10
+2016|fgcu|290|16-13
+2017|fgcu|240|23-7
+2010|fiu|174|7-25
+2011|fiu|216|9-19
+2012|fiu|151|8-20
+2013|fiu|133|18-14
+2014|fiu|194|13-15
+2015|fiu|269|14-17
+2016|fiu|236|11-19
+2017|fiu|247|5-24
+2010|fla atlantic|212|14-16
+2011|fla atlantic|220|19-10
+2012|fla atlantic|127|10-19
+2013|fla atlantic|214|13-18
+2014|fla atlantic|166|8-22
+2015|fla atlantic|211|7-20
+2016|fla atlantic|208|7-24
+2017|fla atlantic|221|8-20
+2010|florida|35|21-12
+2011|florida|3|26-7
+2012|florida|25|23-10
+2013|florida|15|26-7
+2014|florida|11|32-2
+2015|florida|4|16-17
+2016|florida|11|19-14
+2017|florida|7|24-8
+2010|florida a&m|314|9-22
+2011|florida a&m|332|8-20
+2012|florida a&m|296|8-23
+2013|florida a&m|310|6-23
+2014|florida a&m|333|12-18
+2015|florida a&m|342|2-27
+2016|florida a&m|344|6-21
+2017|florida a&m|350|5-23
+2010|florida st|56|22-9
+2011|florida st|90|21-10
+2012|florida st|4|24-9
+2013|florida st|44|18-15
+2014|florida st|39|19-13
+2015|florida st|72|17-16
+2016|florida st|91|19-13
+2017|florida st|19|25-8
+2010|fordham|98|2-26
+2011|fordham|83|7-21
+2012|fordham|136|10-19
+2013|fordham|76|7-24
+2014|fordham|100|10-21
+2015|fordham|87|9-21
+2016|fordham|205|16-13
+2017|fordham|136|12-19
+2017|fort wayne|268|16-12
+2010|fresno st|118|15-18
+2011|fresno st|171|13-17
+2012|fresno st|160|11-20
+2013|fresno st|19|9-19
+2014|fresno st|86|15-16
+2015|fresno st|126|13-17
+2016|fresno st|134|23-9
+2017|fresno st|105|18-12
+2010|furman|322|13-17
+2011|furman|240|20-10
+2012|furman|278|13-16
+2013|furman|327|5-24
+2014|furman|342|7-20
+2015|furman|185|9-22
+2016|furman|183|16-15
+2017|furman|187|19-11
+2010|ga southern|165|9-23
+2011|ga southern|288|2-27
+2012|ga southern|249|13-15
+2013|ga southern|285|12-19
+2014|ga southern|340|12-19
+2015|ga southern|263|19-9
+2016|ga southern|248|12-17
+2017|ga southern|152|16-14
+2010|gardner-webb|262|8-21
+2011|gardner-webb|225|9-21
+2012|gardner-webb|311|10-20
+2013|gardner-webb|328|18-12
+2014|gardner-webb|328|15-15
+2015|gardner-webb|148|16-14
+2016|gardner-webb|258|14-16
+2017|gardner-webb|253|16-14
+2010|george mason|180|17-14
+2011|george mason|88|26-6
+2012|george mason|186|24-9
+2013|george mason|172|18-14
+2014|george mason|67|11-20
+2015|george mason|60|8-22
+2016|george mason|88|11-21
+2017|george mason|131|19-13
+2010|george washington|170|16-14
+2011|george washington|164|17-14
+2012|george washington|52|10-21
+2013|george washington|90|13-17
+2014|george washington|78|24-8
+2015|george washington|167|21-12
+2016|george washington|119|23-10
+2017|george washington|115|19-14
+2010|georgetown|1|23-10
+2011|georgetown|1|21-10
+2012|georgetown|13|22-8
+2013|georgetown|18|25-6
+2014|georgetown|19|17-14
+2015|georgetown|12|21-10
+2016|georgetown|20|15-18
+2017|georgetown|27|14-18
+2010|georgia|17|14-17
+2011|georgia|44|21-11
+2012|georgia|14|15-17
+2013|georgia|70|15-17
+2014|georgia|57|19-13
+2015|georgia|39|21-11
+2016|georgia|19|19-13
+2017|georgia|12|18-14
+2010|georgia st|187|12-20
+2011|georgia st|158|12-19
+2012|georgia st|260|21-11
+2013|georgia st|231|14-16
+2014|georgia st|227|23-8
+2015|georgia st|136|23-9
+2016|georgia st|164|14-14
+2017|georgia st|160|18-12
+2010|georgia tech|9|22-12
+2011|georgia tech|80|13-18
+2012|georgia tech|96|11-20
+2013|georgia tech|128|16-15
+2014|georgia tech|140|16-17
+2015|georgia tech|32|12-19
+2016|georgia tech|22|19-14
+2017|georgia tech|71|16-15
+2010|gonzaga|117|26-6
+2011|gonzaga|100|23-9
+2012|gonzaga|70|25-6
+2013|gonzaga|75|30-2
+2014|gonzaga|84|27-6
+2015|gonzaga|68|31-2
+2016|gonzaga|107|25-7
+2017|gonzaga|80|32-1
+2010|grambling|340|7-21
+2011|grambling|340|12-21
+2012|grambling|341|4-24
+2013|grambling|342|0-28
+2014|grambling|338|4-23
+2015|grambling|349|0-27
+2016|grambling|325|4-24
+2017|grambling|346|13-17
+2014|grand canyon|233|12-14
+2015|grand canyon|330|15-14
+2016|grand canyon|249|23-6
+2017|grand canyon|280|20-9
+2010|green bay|160|21-12
+2011|green bay|121|13-18
+2012|green bay|117|13-15
+2013|green bay|166|17-15
+2014|green bay|139|21-6
+2015|green bay|147|22-8
+2016|green bay|218|21-12
+2017|green bay|230|16-13
+2010|hampton|337|14-18
+2011|hampton|338|23-8
+2012|hampton|324|12-21
+2013|hampton|329|14-17
+2014|hampton|321|18-12
+2015|hampton|326|16-17
+2016|hampton|320|20-10
+2017|hampton|323|12-16
+2010|hartford|261|8-22
+2011|hartford|244|11-20
+2012|hartford|292|9-22
+2013|hartford|281|17-13
+2014|hartford|313|17-16
+2015|hartford|276|13-16
+2016|hartford|225|9-23
+2017|hartford|313|9-23
+2010|harvard|279|21-7
+2011|harvard|142|21-6
+2012|harvard|209|25-4
+2013|harvard|187|18-9
+2014|harvard|229|25-4
+2015|harvard|134|20-7
+2016|harvard|151|12-16
+2017|harvard|227|16-10
+2010|hawaii|103|10-20
+2011|hawaii|210|17-12
+2012|hawaii|175|14-16
+2013|hawaii|234|16-14
+2014|hawaii|215|18-11
+2015|hawaii|163|20-13
+2016|hawaii|253|25-5
+2017|hawaii|312|13-16
+2010|high point|331|15-15
+2011|high point|211|10-19
+2012|high point|235|11-18
+2013|high point|332|15-13
+2014|high point|183|14-14
+2015|high point|190|19-9
+2016|high point|306|18-10
+2017|high point|254|12-16
+2010|hofstra|175|19-14
+2011|hofstra|140|20-11
+2012|hofstra|126|10-22
+2013|hofstra|215|6-25
+2014|hofstra|178|10-23
+2015|hofstra|288|20-13
+2016|hofstra|106|23-9
+2017|hofstra|165|14-17
+2010|holy cross|198|9-22
+2011|holy cross|219|8-21
+2012|holy cross|213|15-14
+2013|holy cross|274|12-18
+2014|holy cross|176|19-13
+2015|holy cross|153|13-16
+2016|holy cross|295|14-19
+2017|holy cross|235|15-17
+2010|houston|110|19-15
+2011|houston|169|10-18
+2012|houston|214|14-15
+2013|houston|322|18-12
+2014|houston|130|17-16
+2015|houston|175|13-19
+2016|houston|148|22-9
+2017|houston|73|21-10
+2010|houston baptist|343|12-21
+2011|houston baptist|341|5-24
+2012|houston baptist|286|7-20
+2013|houston baptist|344|11-17
+2014|houston baptist|309|4-23
+2015|houston baptist|265|8-16
+2016|houston baptist|227|13-16
+2017|houston baptist|194|13-13
+2010|howard|310|7-25
+2011|howard|260|6-24
+2012|howard|244|9-21
+2013|howard|318|6-23
+2014|howard|278|6-25
+2015|howard|334|13-16
+2016|howard|337|10-20
+2017|howard|327|8-24
+2010|idaho|143|15-16
+2011|idaho|170|17-13
+2012|idaho|172|16-13
+2013|idaho|123|11-18
+2014|idaho|255|15-18
+2015|idaho|222|11-17
+2016|idaho|314|19-12
+2017|idaho|307|16-13
+2010|idaho st|185|7-22
+2011|idaho st|206|7-20
+2012|idaho st|253|8-21
+2013|idaho st|301|5-24
+2014|idaho st|262|9-18
+2015|idaho st|322|5-23
+2016|idaho st|347|14-15
+2017|idaho st|246|4-26
+2010|ill-chicago|193|8-22
+2011|ill-chicago|157|6-24
+2012|ill-chicago|217|7-21
+2013|ill-chicago|159|16-15
+2014|ill-chicago|184|4-25
+2015|ill-chicago|177|8-24
+2016|ill-chicago|265|3-25
+2017|ill-chicago|270|13-18
+2010|illinois|34|19-14
+2011|illinois|21|19-13
+2012|illinois|33|17-15
+2013|illinois|9|21-12
+2014|illinois|37|19-14
+2015|illinois|74|19-13
+2016|illinois|70|15-19
+2017|illinois|20|17-14
+2010|illinois st|148|22-10
+2011|illinois st|214|12-19
+2012|illinois st|118|20-13
+2013|illinois st|118|18-15
+2014|illinois st|111|15-15
+2015|illinois st|54|20-12
+2016|illinois st|94|17-14
+2017|illinois st|123|26-6
+2015|incarnate word|266|14-10
+2016|incarnate word|261|14-11
+2017|incarnate word|250|8-17
+2010|indiana|89|10-21
+2011|indiana|65|12-20
+2012|indiana|27|25-8
+2013|indiana|10|27-6
+2014|indiana|62|17-15
+2015|indiana|25|20-13
+2016|indiana|97|25-7
+2017|indiana|36|18-15
+2010|indiana st|50|17-14
+2011|indiana st|86|19-13
+2012|indiana st|161|17-14
+2013|indiana st|45|17-14
+2014|indiana st|132|21-10
+2015|indiana st|148|14-16
+2016|indiana st|116|14-17
+2017|indiana st|143|10-20
+2010|iona|158|21-10
+2011|iona|103|22-11
+2012|iona|144|25-7
+2013|iona|136|20-13
+2014|iona|113|22-10
+2015|iona|187|26-8
+2016|iona|142|22-10
+2017|iona|158|22-12
+2010|iowa|47|10-22
+2011|iowa|75|11-20
+2012|iowa|92|17-16
+2013|iowa|122|21-12
+2014|iowa|43|19-12
+2015|iowa|29|21-11
+2016|iowa|28|21-10
+2017|iowa|56|18-14
+2010|iowa st|43|15-17
+2011|iowa st|81|16-16
+2012|iowa st|38|22-10
+2013|iowa st|37|22-11
+2014|iowa st|25|26-7
+2015|iowa st|11|25-8
+2016|iowa st|12|21-11
+2017|iowa st|23|23-10
+2010|ipfw|296|16-15
+2011|ipfw|289|17-12
+2012|ipfw|219|8-19
+2013|ipfw|319|14-17
+2014|ipfw|280|21-10
+2015|ipfw|257|13-14
+2016|ipfw|159|22-9
+2010|iupui|177|24-10
+2011|iupui|137|17-14
+2012|iupui|143|12-18
+2013|iupui|210|4-26
+2014|iupui|138|3-26
+2015|iupui|172|10-21
+2016|iupui|141|12-19
+2017|iupui|219|12-18
+2010|jackson st|317|19-12
+2011|jackson st|337|15-15
+2012|jackson st|280|6-24
+2013|jackson st|343|11-18
+2014|jackson st|312|11-20
+2015|jackson st|346|11-21
+2016|jackson st|330|17-15
+2017|jackson st|343|12-17
+2010|jacksonville|253|19-12
+2011|jacksonville|273|18-11
+2012|jacksonville|153|8-22
+2013|jacksonville|321|12-18
+2014|jacksonville|260|10-18
+2015|jacksonville|335|7-22
+2016|jacksonville|346|12-16
+2017|jacksonville|348|13-15
+2010|jacksonville st|265|11-19
+2011|jacksonville st|296|4-25
+2012|jacksonville st|208|13-17
+2013|jacksonville st|217|15-11
+2014|jacksonville st|299|8-21
+2015|jacksonville st|290|10-19
+2016|jacksonville st|193|6-23
+2017|jacksonville st|239|18-14
+2010|james madison|231|13-20
+2011|james madison|151|21-11
+2012|james madison|265|12-20
+2013|james madison|282|20-14
+2014|james madison|164|11-20
+2015|james madison|143|19-13
+2016|james madison|138|20-11
+2017|james madison|141|9-23
+2010|kansas|7|32-2
+2011|kansas|10|32-2
+2012|kansas|12|27-6
+2013|kansas|20|29-5
+2014|kansas|1|24-9
+2015|kansas|1|26-8
+2016|kansas|3|29-4
+2017|kansas|28|28-4
+2010|kansas st|2|26-7
+2011|kansas st|7|21-10
+2012|kansas st|64|21-10
+2013|kansas st|43|26-7
+2014|kansas st|34|20-12
+2015|kansas st|19|15-17
+2016|kansas st|24|17-16
+2017|kansas st|41|20-13
+2010|kennesaw st|297|13-20
+2011|kennesaw st|256|7-23
+2012|kennesaw st|232|2-28
+2013|kennesaw st|271|3-27
+2014|kennesaw st|209|4-25
+2015|kennesaw st|292|8-22
+2016|kennesaw st|174|9-20
+2017|kennesaw st|308|12-18
+2010|kent st|72|23-9
+2011|kent st|116|22-11
+2012|kent st|167|20-11
+2013|kent st|150|19-13
+2014|kent st|214|15-16
+2015|kent st|152|20-11
+2016|kent st|144|18-13
+2017|kent st|210|21-13
+2010|kentucky|36|32-2
+2011|kentucky|8|25-8
+2012|kentucky|28|32-2
+2013|kentucky|73|21-11
+2014|kentucky|2|24-10
+2015|kentucky|36|34-0
+2016|kentucky|25|26-8
+2017|kentucky|17|29-5
+2010|la salle|94|12-18
+2011|la salle|105|15-18
+2012|la salle|124|21-12
+2013|la salle|79|21-9
+2014|la salle|32|15-16
+2015|la salle|63|17-16
+2016|la salle|63|8-22
+2017|la salle|86|15-15
+2010|la-lafayette|280|13-17
+2011|la-lafayette|263|13-14
+2012|la-lafayette|198|15-15
+2013|la-lafayette|146|12-20
+2014|la-lafayette|155|20-11
+2015|la-lafayette|164|17-13
+2016|la-lafayette|165|15-14
+2017|la-lafayette|170|19-12
+2010|la-monroe|267|12-19
+2011|la-monroe|265|5-24
+2012|la-monroe|210|3-25
+2013|la-monroe|135|4-23
+2014|la-monroe|171|9-17
+2015|la-monroe|169|17-12
+2016|la-monroe|114|18-13
+2017|la-monroe|150|7-24
+2010|lafayette|324|19-13
+2011|lafayette|166|12-19
+2012|lafayette|162|13-18
+2013|lafayette|157|18-15
+2014|lafayette|185|10-20
+2015|lafayette|182|19-12
+2016|lafayette|243|6-24
+2017|lafayette|283|8-21
+2010|lamar|273|14-18
+2011|lamar|315|9-17
+2012|lamar|207|21-11
+2013|lamar|254|3-28
+2014|lamar|288|3-25
+2015|lamar|217|11-15
+2016|lamar|340|7-19
+2017|lamar|336|15-14
+2010|lehigh|289|22-10
+2011|lehigh|283|16-15
+2012|lehigh|297|25-7
+2013|lehigh|233|20-9
+2014|lehigh|239|14-18
+2015|lehigh|195|15-14
+2016|lehigh|155|16-15
+2017|lehigh|169|19-12
+2010|liberty|259|15-16
+2011|liberty|253|16-13
+2012|liberty|295|11-18
+2013|liberty|295|12-20
+2014|liberty|250|8-21
+2015|liberty|320|4-24
+2016|liberty|232|10-19
+2017|liberty|203|16-13
+2010|lipscomb|309|17-13
+2011|lipscomb|186|16-13
+2012|lipscomb|204|12-18
+2013|lipscomb|186|11-18
+2014|lipscomb|265|14-15
+2015|lipscomb|305|11-17
+2016|lipscomb|184|10-21
+2017|lipscomb|264|17-13
+2010|liu brooklyn|284|14-17
+2011|liu brooklyn|266|27-5
+2012|liu brooklyn|239|25-8
+2013|liu brooklyn|300|20-13
+2014|liu brooklyn|272|9-20
+2015|liu brooklyn|237|12-18
+2016|liu brooklyn|343|16-15
+2017|liu brooklyn|340|19-12
+2010|long beach st|91|17-16
+2011|long beach st|132|20-11
+2012|long beach st|109|23-8
+2013|long beach st|147|17-13
+2014|long beach st|126|13-17
+2015|long beach st|79|14-17
+2016|long beach st|68|18-14
+2017|long beach st|196|13-19
+2010|longwood|252|12-19
+2011|longwood|319|8-19
+2012|longwood|337|6-21
+2013|longwood|309|6-25
+2014|longwood|289|4-24
+2015|longwood|300|9-23
+2016|longwood|303|7-23
+2017|longwood|299|4-24
+2010|louisiana tech|190|23-10
+2011|louisiana tech|197|11-20
+2012|louisiana tech|148|16-16
+2013|louisiana tech|199|25-6
+2014|louisiana tech|203|26-7
+2015|louisiana tech|202|24-8
+2016|louisiana tech|267|21-9
+2017|louisiana tech|242|21-10
+2010|louisville|6|20-12
+2011|louisville|12|25-9
+2012|louisville|9|26-9
+2013|louisville|7|29-5
+2014|louisville|81|29-5
+2015|louisville|20|24-8
+2016|louisville|35|23-8
+2017|louisville|2|24-8
+2010|loyola chicago|229|14-16
+2011|loyola chicago|233|16-15
+2012|loyola chicago|272|6-23
+2013|loyola chicago|293|14-16
+2014|loyola chicago|213|9-22
+2015|loyola chicago|138|17-13
+2016|loyola chicago|264|14-17
+2017|loyola chicago|224|16-14
+2010|loyola maryland|219|13-17
+2011|loyola maryland|196|15-15
+2012|loyola maryland|215|24-8
+2013|loyola maryland|163|21-11
+2014|loyola maryland|261|10-19
+2015|loyola maryland|264|11-19
+2016|loyola maryland|146|9-21
+2017|loyola maryland|229|14-16
+2010|loyola marymount|204|18-15
+2011|loyola marymount|159|9-21
+2012|loyola marymount|110|17-12
+2013|loyola marymount|104|10-22
+2014|loyola marymount|115|12-19
+2015|loyola marymount|98|7-23
+2016|loyola marymount|242|13-17
+2017|loyola marymount|96|14-15
+2010|lsu|109|11-20
+2011|lsu|114|11-21
+2012|lsu|55|18-14
+2013|lsu|108|19-12
+2014|lsu|85|19-13
+2015|lsu|95|22-10
+2016|lsu|77|19-14
+2017|lsu|32|10-21
+2010|maine|270|19-11
+2011|maine|261|14-15
+2012|maine|313|11-17
+2013|maine|239|10-19
+2014|maine|243|5-23
+2015|maine|215|3-27
+2016|maine|289|8-22
+2017|maine|207|6-25
+2010|manhattan|154|11-20
+2011|manhattan|148|6-25
+2012|manhattan|277|20-12
+2013|manhattan|144|14-18
+2014|manhattan|187|25-7
+2015|manhattan|291|19-13
+2016|manhattan|204|13-18
+2017|manhattan|174|10-22
+2010|marist|155|1-29
+2011|marist|144|6-27
+2012|marist|199|14-18
+2013|marist|178|10-21
+2014|marist|193|12-19
+2015|marist|243|7-25
+2016|marist|245|7-23
+2017|marist|146|8-24
+2010|marquette|45|22-11
+2011|marquette|30|20-14
+2012|marquette|20|25-7
+2013|marquette|14|23-8
+2014|marquette|60|17-15
+2015|marquette|35|13-19
+2016|marquette|124|20-13
+2017|marquette|59|19-12
+2010|marshall|112|23-9
+2011|marshall|64|20-11
+2012|marshall|16|20-13
+2013|marshall|124|12-19
+2014|marshall|188|9-22
+2015|marshall|184|9-21
+2016|marshall|83|17-16
+2017|marshall|99|19-15
+2010|maryland|21|23-8
+2011|maryland|72|19-14
+2012|maryland|56|17-15
+2013|maryland|98|22-12
+2014|maryland|10|16-15
+2015|maryland|47|27-6
+2016|maryland|29|24-8
+2017|maryland|52|23-8
+2010|massachusetts|66|12-20
+2011|massachusetts|115|14-15
+2012|massachusetts|131|22-11
+2013|massachusetts|74|21-11
+2014|massachusetts|42|24-8
+2015|massachusetts|42|17-15
+2016|massachusetts|99|14-18
+2017|massachusetts|121|15-18
+2010|mcneese|312|10-20
+2011|mcneese|270|17-11
+2012|mcneese|185|14-15
+2013|mcneese|255|11-17
+2014|mcneese|180|7-20
+2015|mcneese|302|11-16
+2016|mcneese|345|7-19
+2017|mcneese|164|5-21
+2010|memphis|70|23-9
+2011|memphis|42|25-9
+2012|memphis|17|26-8
+2013|memphis|63|30-4
+2014|memphis|30|22-9
+2015|memphis|38|18-14
+2016|memphis|105|19-15
+2017|memphis|148|19-13
+2010|mercer|214|16-17
+2011|mercer|190|14-18
+2012|mercer|270|21-11
+2013|mercer|262|21-11
+2014|mercer|216|23-8
+2015|mercer|277|16-15
+2016|mercer|299|17-14
+2017|mercer|129|13-17
+2010|miami fl|114|20-13
+2011|miami fl|43|19-14
+2012|miami fl|53|19-12
+2013|miami fl|3|27-6
+2014|miami fl|93|17-16
+2015|miami fl|77|21-12
+2016|miami fl|18|25-7
+2017|miami fl|40|21-11
+2010|miami oh|68|14-18
+2011|miami oh|36|15-16
+2012|miami oh|88|8-21
+2013|miami oh|151|8-22
+2014|miami oh|122|13-17
+2015|miami oh|140|12-19
+2016|miami oh|78|12-20
+2017|miami oh|197|9-21
+2010|michigan|62|15-17
+2011|michigan|19|19-13
+2012|michigan|19|23-9
+2013|michigan|68|25-7
+2014|michigan|7|25-8
+2015|michigan|9|15-16
+2016|michigan|43|21-12
+2017|michigan|24|24-11
+2010|michigan st|51|24-8
+2011|michigan st|13|18-14
+2012|michigan st|1|26-7
+2013|michigan st|4|24-8
+2014|michigan st|24|26-8
+2015|michigan st|6|23-11
+2016|michigan st|56|29-5
+2017|michigan st|11|19-14
+2010|middle tenn|227|19-13
+2011|middle tenn|246|15-16
+2012|middle tenn|194|24-6
+2013|middle tenn|121|28-5
+2014|middle tenn|124|22-9
+2015|middle tenn|133|18-16
+2016|middle tenn|140|22-9
+2017|middle tenn|156|29-4
+2010|milwaukee|175|20-14
+2011|milwaukee|104|19-13
+2012|milwaukee|179|18-13
+2013|milwaukee|183|6-24
+2014|milwaukee|228|20-13
+2015|milwaukee|157|12-16
+2016|milwaukee|283|18-13
+2017|milwaukee|155|10-24
+2010|minnesota|30|21-13
+2011|minnesota|35|17-14
+2012|minnesota|51|19-14
+2013|minnesota|6|20-12
+2014|minnesota|8|19-13
+2015|minnesota|73|17-15
+2016|minnesota|101|8-23
+2017|minnesota|21|24-9
+2010|mississippi st|87|23-11
+2011|mississippi st|85|17-14
+2012|mississippi st|91|21-11
+2013|mississippi st|117|10-22
+2014|mississippi st|195|14-19
+2015|mississippi st|127|12-19
+2016|mississippi st|76|14-17
+2017|mississippi st|107|16-16
+2010|mississippi val|325|9-23
+2011|mississippi val|303|13-19
+2012|mississippi val|310|21-12
+2013|mississippi val|333|5-23
+2014|mississippi val|345|6-23
+2015|mississippi val|338|6-26
+2016|mississippi val|304|8-27
+2017|mississippi val|298|7-25
+2010|missouri|55|22-10
+2011|missouri|62|22-10
+2012|missouri|89|30-4
+2013|missouri|38|23-10
+2014|missouri|74|22-11
+2015|missouri|18|8-23
+2016|missouri|74|10-21
+2017|missouri|85|8-24
+2010|missouri st|133|20-12
+2011|missouri st|128|25-8
+2012|missouri st|74|15-16
+2013|missouri st|71|9-22
+2014|missouri st|97|19-12
+2015|missouri st|107|9-20
+2016|missouri st|198|12-19
+2017|missouri st|232|16-16
+2010|monmouth|308|12-19
+2011|monmouth|203|9-21
+2012|monmouth|205|12-20
+2013|monmouth|250|10-21
+2014|monmouth|276|11-21
+2015|monmouth|219|18-15
+2016|monmouth|176|27-7
+2017|monmouth|192|27-6
+2010|montana|201|22-9
+2011|montana|224|19-10
+2012|montana|191|23-6
+2013|montana|218|23-6
+2014|montana|248|15-13
+2015|montana|199|18-12
+2016|montana|251|18-11
+2017|montana|288|16-16
+2010|montana st|241|15-14
+2011|montana st|248|11-18
+2012|montana st|307|10-17
+2013|montana st|337|11-17
+2014|montana st|313|12-17
+2015|montana st|228|6-23
+2016|montana st|327|13-17
+2017|montana st|302|14-16
+2010|morehead st|145|23-10
+2011|morehead st|175|22-9
+2012|morehead st|182|15-15
+2013|morehead st|106|13-18
+2014|morehead st|202|18-13
+2015|morehead st|212|15-17
+2016|morehead st|172|17-12
+2017|morehead st|149|12-16
+2010|morgan st|286|27-9
+2011|morgan st|317|17-14
+2012|morgan st|261|9-20
+2013|morgan st|336|17-15
+2014|morgan st|245|15-16
+2015|morgan st|325|7-24
+2016|morgan st|296|8-22
+2017|morgan st|349|13-16
+2010|mt st mary's|178|16-15
+2011|mt st mary's|146|11-21
+2012|mt st mary's|245|8-21
+2013|mt st mary's|174|18-14
+2014|mt st mary's|241|16-16
+2015|mt st mary's|213|15-15
+2016|mt st mary's|277|14-19
+2017|mt st mary's|186|19-15
+2010|murray st|275|30-4
+2011|murray st|242|21-8
+2012|murray st|159|27-1
+2013|murray st|194|19-10
+2014|murray st|236|16-11
+2015|murray st|233|25-5
+2016|murray st|153|15-14
+2017|murray st|261|14-17
+2010|nc a&t|263|11-22
+2011|nc a&t|235|12-17
+2012|nc a&t|273|9-20
+2013|nc a&t|316|18-16
+2014|nc a&t|331|8-23
+2015|nc a&t|341|7-23
+2016|nc a&t|350|10-21
+2017|nc a&t|339|1-29
+2010|nc central|335|7-22
+2011|nc central|335|11-15
+2012|nc central|315|13-15
+2013|nc central|303|19-9
+2014|nc central|336|26-5
+2015|nc central|348|22-7
+2016|nc central|333|10-19
+2017|nc central|351|22-8
+2010|navy|298|13-17
+2011|navy|292|10-20
+2012|navy|173|2-26
+2013|navy|201|7-23
+2014|navy|302|8-21
+2015|navy|196|12-19
+2016|navy|318|18-14
+2017|navy|195|15-16
+2013|neb omaha|294|10-19
+2010|nebraska|61|15-18
+2011|nebraska|57|19-12
+2012|nebraska|58|12-18
+2013|nebraska|12|15-18
+2014|nebraska|31|19-12
+2015|nebraska|57|13-18
+2016|nebraska|111|16-18
+2017|nebraska|3|11-19
+2010|nevada|67|20-12
+2011|nevada|95|12-19
+2012|nevada|170|24-6
+2013|nevada|56|11-19
+2014|nevada|104|15-17
+2015|nevada|210|7-22
+2016|nevada|145|17-13
+2017|nevada|124|28-6
+2010|new hampshire|244|13-17
+2011|new hampshire|314|11-18
+2012|new hampshire|337|12-16
+2013|new hampshire|232|8-20
+2014|new hampshire|311|5-24
+2015|new hampshire|321|17-12
+2016|new hampshire|305|17-12
+2017|new hampshire|185|17-12
+2010|new mexico|77|29-4
+2011|new mexico|94|20-12
+2012|new mexico|87|26-6
+2013|new mexico|2|29-5
+2014|new mexico|28|27-6
+2015|new mexico|115|15-16
+2016|new mexico|112|17-15
+2017|new mexico|54|17-14
+2010|new mexico st|57|22-11
+2011|new mexico st|49|14-17
+2012|new mexico st|105|24-9
+2013|new mexico st|107|23-10
+2014|new mexico st|170|25-9
+2015|new mexico st|204|21-10
+2016|new mexico st|209|21-10
+2017|new mexico st|257|25-5
+2010|new orleans|281|8-22
+2013|new orleans|341|4-18
+2014|new orleans|258|8-14
+2015|new orleans|337|8-18
+2016|new orleans|349|7-20
+2017|new orleans|276|17-11
+2010|niagara|152|18-15
+2011|niagara|217|9-23
+2012|niagara|150|14-19
+2013|niagara|149|19-13
+2014|niagara|168|7-26
+2015|niagara|166|8-22
+2016|niagara|221|7-25
+2017|niagara|226|10-23
+2010|nicholls st|224|11-19
+2011|nicholls st|247|10-14
+2012|nicholls st|287|8-20
+2013|nicholls st|299|9-21
+2014|nicholls st|344|12-14
+2015|nicholls st|311|7-19
+2016|nicholls st|269|8-23
+2017|nicholls st|256|10-17
+2010|njit|342|10-21
+2011|njit|344|11-15
+2012|njit|334|11-17
+2013|njit|347|12-13
+2014|njit|343|9-16
+2015|njit|244|14-11
+2016|njit|287|16-14
+2017|njit|244|9-20
+2010|norfolk st|276|11-19
+2011|norfolk st|251|12-20
+2012|norfolk st|300|24-8
+2013|norfolk st|335|21-11
+2014|norfolk st|301|16-14
+2015|norfolk st|250|18-13
+2016|norfolk st|288|15-16
+2017|norfolk st|322|15-16
+2010|north carolina|16|16-16
+2011|north carolina|6|26-7
+2012|north carolina|5|29-5
+2013|north carolina|8|23-10
+2014|north carolina|16|23-9
+2015|north carolina|2|24-11
+2016|north carolina|27|28-6
+2017|north carolina|13|26-7
+2010|north carolina st|79|19-15
+2011|north carolina st|70|15-16
+2012|north carolina st|23|22-12
+2013|north carolina st|35|24-10
+2014|north carolina st|29|21-13
+2015|north carolina st|7|20-13
+2016|north carolina st|62|16-17
+2017|north carolina st|65|15-17
+2010|north dakota|336|8-23
+2011|north dakota|342|15-14
+2012|north dakota|320|13-14
+2013|north dakota|261|14-16
+2014|north dakota|221|15-16
+2015|north dakota|231|6-22
+2016|north dakota|241|14-15
+2017|north dakota|304|19-9
+2010|north dakota st|247|11-18
+2011|north dakota st|258|12-15
+2012|north dakota st|254|15-13
+2013|north dakota st|185|22-9
+2014|north dakota st|106|22-6
+2015|north dakota st|267|21-9
+2016|north dakota st|179|18-13
+2017|north dakota st|168|17-11
+2010|north florida|239|13-18
+2011|north florida|110|15-19
+2012|north florida|197|15-16
+2013|north florida|219|12-19
+2014|north florida|212|14-16
+2015|north florida|323|20-11
+2016|north florida|321|19-11
+2017|north florida|134|11-19
+2010|north texas|272|24-8
+2011|north texas|237|20-11
+2012|north texas|276|15-14
+2013|north texas|190|11-19
+2014|north texas|162|13-16
+2015|north texas|159|12-17
+2016|north texas|220|10-20
+2017|north texas|272|6-22
+2010|northeastern|81|20-12
+2011|northeastern|68|11-20
+2012|northeastern|176|14-17
+2013|northeastern|205|20-12
+2014|northeastern|112|11-21
+2015|northeastern|183|23-11
+2016|northeastern|90|17-15
+2017|northeastern|108|15-16
+2010|northern ariz|243|14-14
+2011|northern ariz|286|17-12
+2012|northern ariz|279|3-24
+2013|northern ariz|196|11-21
+2014|northern ariz|277|14-17
+2015|northern ariz|248|18-14
+2016|northern ariz|136|3-25
+2017|northern ariz|315|8-23
+2010|northern colo|328|24-7
+2011|northern colo|200|19-10
+2012|northern colo|155|8-18
+2013|northern colo|253|11-18
+2014|northern colo|293|16-13
+2015|northern colo|278|13-15
+2016|northern colo|229|8-21
+2017|northern colo|284|9-18
+2010|northern ill|225|10-20
+2011|northern ill|310|8-21
+2012|northern ill|282|4-25
+2013|northern ill|280|4-25
+2014|northern ill|197|14-17
+2015|northern ill|135|13-16
+2016|northern ill|182|17-12
+2017|northern ill|265|12-17
+2013|northern ky|325|11-16
+2014|northern ky|264|9-21
+2015|northern ky|238|11-17
+2016|northern ky|181|7-21
+2017|northern ky|209|22-10
+2010|northwestern|156|20-13
+2011|northwestern|79|18-13
+2012|northwestern|21|18-13
+2013|northwestern|72|13-19
+2014|northwestern|52|14-19
+2015|northwestern|52|15-17
+2016|northwestern|157|20-12
+2017|northwestern|63|23-11
+2010|northwestern st|316|10-19
+2011|northwestern st|339|16-13
+2012|northwestern st|241|13-16
+2013|northwestern st|182|19-8
+2014|northwestern st|160|13-14
+2015|northwestern st|186|15-12
+2016|northwestern st|319|5-19
+2017|northwestern st|335|9-16
+2010|notre dame|37|23-11
+2011|notre dame|25|26-6
+2012|notre dame|43|22-11
+2013|notre dame|54|25-9
+2014|notre dame|71|15-17
+2015|notre dame|82|29-5
+2016|notre dame|26|21-11
+2017|notre dame|30|25-9
+2010|oakland|136|26-8
+2011|oakland|138|24-9
+2012|oakland|128|16-15
+2013|oakland|140|14-16
+2014|oakland|70|11-20
+2015|oakland|110|14-16
+2016|oakland|212|21-11
+2017|oakland|263|22-8
+2010|ohio|104|21-14
+2011|ohio|156|18-15
+2012|ohio|174|26-7
+2013|ohio|148|24-9
+2014|ohio|125|22-11
+2015|ohio|80|10-20
+2016|ohio|95|20-11
+2017|ohio|191|19-11
+2010|ohio st|73|27-7
+2011|ohio st|26|32-2
+2012|ohio st|10|27-7
+2013|ohio st|12|26-7
+2014|ohio st|14|25-9
+2015|ohio st|76|23-10
+2016|ohio st|33|20-13
+2017|ohio st|43|17-15
+2010|oklahoma|18|13-18
+2011|oklahoma|33|14-17
+2012|oklahoma|68|15-16
+2013|oklahoma|22|20-11
+2014|oklahoma|17|23-9
+2015|oklahoma|15|22-10
+2016|oklahoma|15|25-7
+2017|oklahoma|35|11-20
+2010|oklahoma st|24|22-10
+2011|oklahoma st|37|19-13
+2012|oklahoma st|29|14-18
+2013|oklahoma st|46|24-8
+2014|oklahoma st|41|21-12
+2015|oklahoma st|17|17-13
+2016|oklahoma st|75|12-20
+2017|oklahoma st|16|19-12
+2010|old dominion|74|26-8
+2011|old dominion|61|27-6
+2012|old dominion|101|20-13
+2013|old dominion|173|5-25
+2014|old dominion|135|16-17
+2015|old dominion|145|24-7
+2016|old dominion|201|22-13
+2017|old dominion|200|19-12
+2010|ole miss|84|21-10
+2011|ole miss|76|20-13
+2012|ole miss|49|20-13
+2013|ole miss|129|26-8
+2014|ole miss|92|19-14
+2015|ole miss|51|20-12
+2016|ole miss|171|20-12
+2017|ole miss|72|20-13
+2014|omaha|279|13-14
+2015|omaha|344|11-17
+2016|omaha|173|16-13
+2017|omaha|176|17-14
+2010|oral roberts|188|20-13
+2011|oral roberts|161|19-15
+2012|oral roberts|203|27-6
+2013|oral roberts|168|17-14
+2014|oral roberts|163|13-16
+2015|oral roberts|213|16-14
+2016|oral roberts|85|12-17
+2017|oral roberts|119|6-22
+2010|oregon|82|16-16
+2011|oregon|59|15-17
+2012|oregon|86|22-9
+2013|oregon|113|26-8
+2014|oregon|21|23-9
+2015|oregon|45|24-9
+2016|oregon|1|27-6
+2017|oregon|33|28-5
+2010|oregon st|146|14-17
+2011|oregon st|119|11-20
+2012|oregon st|137|18-14
+2013|oregon st|115|14-18
+2014|oregon st|73|16-15
+2015|oregon st|122|16-14
+2016|oregon st|14|18-12
+2017|oregon st|60|4-27
+2010|pacific|228|20-11
+2011|pacific|204|14-15
+2012|pacific|250|9-19
+2013|pacific|138|20-12
+2014|pacific|110|14-15
+2015|pacific|151|9-19
+2016|pacific|102|6-20
+2017|pacific|81|10-22
+2010|penn|210|6-22
+2011|penn|177|13-15
+2012|penn|95|19-12
+2013|penn|211|9-22
+2014|penn|204|8-20
+2015|penn|162|9-19
+2016|penn|271|10-17
+2017|penn|199|13-15
+2010|penn st|80|11-20
+2011|penn st|5|19-14
+2012|penn st|39|12-20
+2013|penn st|29|10-21
+2014|penn st|65|15-17
+2015|penn st|85|18-16
+2016|penn st|87|16-16
+2017|penn st|33|15-18
+2010|pepperdine|189|7-24
+2011|pepperdine|182|11-21
+2012|pepperdine|251|9-19
+2013|pepperdine|176|11-18
+2014|pepperdine|134|14-16
+2015|pepperdine|179|17-13
+2016|pepperdine|137|17-13
+2017|pepperdine|90|8-22
+2010|pittsburgh|13|24-8
+2011|pittsburgh|32|27-5
+2012|pittsburgh|34|17-16
+2013|pittsburgh|81|24-8
+2014|pittsburgh|61|25-9
+2015|pittsburgh|46|18-14
+2016|pittsburgh|31|20-11
+2017|pittsburgh|8|16-17
+2010|portland|128|21-10
+2011|portland|162|20-11
+2012|portland|62|6-24
+2013|portland|114|9-21
+2014|portland|155|15-16
+2015|portland|114|15-15
+2016|portland|150|11-20
+2017|portland|113|9-22
+2010|portland st|172|13-19
+2011|portland st|324|13-16
+2012|portland st|218|15-15
+2013|portland st|317|6-20
+2014|portland st|303|15-14
+2015|portland st|299|13-14
+2016|portland st|275|11-18
+2017|portland st|332|12-16
+2010|prairie view|339|16-14
+2011|prairie view|336|7-22
+2012|prairie view|325|11-18
+2013|prairie view|340|12-19
+2014|prairie view|274|10-23
+2015|prairie view|324|14-18
+2016|prairie view|316|7-24
+2017|prairie view|310|11-20
+2010|presbyterian|246|5-26
+2011|presbyterian|201|13-18
+2012|presbyterian|283|13-15
+2013|presbyterian|313|5-24
+2014|presbyterian|341|4-26
+2015|presbyterian|218|6-22
+2016|presbyterian|313|8-20
+2017|presbyterian|279|3-25
+2010|princeton|301|20-8
+2011|princeton|185|24-6
+2012|princeton|116|17-11
+2013|princeton|160|16-11
+2014|princeton|308|19-8
+2015|princeton|229|15-14
+2016|princeton|132|21-6
+2017|princeton|132|22-6
+2010|providence|29|12-19
+2011|providence|91|15-17
+2012|providence|121|15-17
+2013|providence|66|17-14
+2014|providence|63|23-11
+2015|providence|5|22-11
+2016|providence|53|23-10
+2017|providence|50|20-12
+2010|purdue|65|27-5
+2011|purdue|27|25-7
+2012|purdue|31|21-12
+2013|purdue|84|15-17
+2014|purdue|102|15-17
+2015|purdue|62|21-12
+2016|purdue|34|26-8
+2017|purdue|61|25-7
+2010|quinnipiac|321|23-9
+2011|quinnipiac|304|22-9
+2012|quinnipiac|221|18-13
+2013|quinnipiac|165|15-16
+2014|quinnipiac|172|20-11
+2015|quinnipiac|261|15-15
+2016|quinnipiac|246|9-21
+2017|quinnipiac|215|10-21
+2010|radford|232|19-12
+2011|radford|218|2-24
+2012|radford|226|4-26
+2013|radford|334|10-19
+2014|radford|349|18-12
+2015|radford|273|18-11
+2016|radford|175|14-15
+2017|radford|206|12-18
+2010|rhode island|75|23-9
+2011|rhode island|126|19-13
+2012|rhode island|115|7-24
+2013|rhode island|51|8-21
+2014|rhode island|87|13-18
+2015|rhode island|144|21-9
+2016|rhode island|89|17-15
+2017|rhode island|42|24-9
+2010|rice|223|8-23
+2011|rice|98|12-18
+2012|rice|168|14-15
+2013|rice|141|4-25
+2014|rice|144|5-23
+2015|rice|160|10-19
+2016|rice|202|10-20
+2017|rice|290|20-11
+2010|richmond|63|26-8
+2011|richmond|141|27-7
+2012|richmond|90|16-16
+2013|richmond|80|18-14
+2014|richmond|58|19-14
+2015|richmond|31|19-13
+2016|richmond|71|16-16
+2017|richmond|94|20-12
+2010|rider|132|17-16
+2011|rider|222|23-10
+2012|rider|140|13-19
+2013|rider|162|18-14
+2014|rider|179|14-17
+2015|rider|285|21-11
+2016|rider|228|13-20
+2017|rider|311|18-15
+2010|robert morris|255|23-11
+2011|robert morris|118|18-14
+2012|robert morris|233|24-10
+2013|robert morris|290|23-10
+2014|robert morris|238|21-13
+2015|robert morris|235|19-14
+2016|robert morris|263|10-22
+2017|robert morris|262|14-19
+2010|rutgers|83|15-17
+2011|rutgers|73|15-17
+2012|rutgers|71|14-18
+2013|rutgers|59|15-16
+2014|rutgers|46|11-21
+2015|rutgers|24|10-22
+2016|rutgers|115|6-25
+2017|rutgers|109|14-18
+2010|sacramento st|257|9-21
+2011|sacramento st|271|5-21
+2012|sacramento st|328|8-18
+2013|sacramento st|331|12-15
+2014|sacramento st|285|12-16
+2015|sacramento st|271|18-11
+2016|sacramento st|294|12-17
+2017|sacramento st|318|11-18
+2010|sacred heart|334|14-15
+2011|sacred heart|320|11-18
+2012|sacred heart|256|14-18
+2013|sacred heart|152|9-20
+2014|sacred heart|323|5-26
+2015|sacred heart|282|14-17
+2016|sacred heart|291|12-18
+2017|sacred heart|333|13-19
+2010|saint francis pa|278|11-19
+2011|saint francis pa|167|9-21
+2012|saint francis pa|200|6-23
+2013|saint francis pa|207|5-24
+2014|saint francis pa|296|10-21
+2015|saint francis pa|247|15-15
+2016|saint francis pa|292|12-17
+2017|saint francis pa|337|15-16
+2010|saint joseph's|52|11-20
+2011|saint joseph's|52|11-22
+2012|saint joseph's|42|20-13
+2013|saint joseph's|96|18-13
+2014|saint joseph's|50|24-9
+2015|saint joseph's|105|13-18
+2016|saint joseph's|51|27-7
+2017|saint joseph's|87|11-20
+2010|saint louis|113|20-11
+2011|saint louis|51|11-19
+2012|saint louis|99|24-7
+2013|saint louis|36|27-6
+2014|saint louis|68|25-6
+2015|saint louis|146|10-21
+2016|saint louis|81|11-21
+2017|saint louis|142|12-21
+2010|saint peter's|205|16-14
+2011|saint peter's|135|20-13
+2012|saint peter's|156|5-26
+2013|saint peter's|245|9-21
+2014|saint peter's|253|14-17
+2015|saint peter's|297|16-18
+2016|saint peter's|211|14-16
+2017|saint peter's|184|19-13
+2010|sam houston st|186|25-7
+2011|sam houston st|189|14-13
+2012|sam houston st|224|9-19
+2013|sam houston st|259|14-17
+2014|sam houston st|254|20-9
+2015|sam houston st|201|21-8
+2016|sam houston st|185|15-14
+2017|sam houston st|289|17-13
+2010|samford|203|11-20
+2011|samford|291|10-19
+2012|samford|195|9-19
+2013|samford|264|10-21
+2014|samford|319|10-20
+2015|samford|339|12-19
+2016|samford|281|12-19
+2017|samford|205|17-15
+2010|san diego|150|11-21
+2011|san diego|172|4-24
+2012|san diego|102|11-18
+2013|san diego|92|14-18
+2014|san diego|117|14-16
+2015|san diego|100|14-16
+2016|san diego|255|8-21
+2017|san diego|128|12-18
+2010|san diego st|42|25-8
+2011|san diego st|22|30-2
+2012|san diego st|54|24-7
+2013|san diego st|21|20-10
+2014|san diego st|91|27-4
+2015|san diego st|67|25-8
+2016|san diego st|54|23-9
+2017|san diego st|106|18-14
+2010|san francisco|119|12-18
+2011|san francisco|84|15-14
+2012|san francisco|163|18-13
+2013|san francisco|116|13-16
+2014|san francisco|72|19-11
+2015|san francisco|89|13-18
+2016|san francisco|254|14-15
+2017|san francisco|110|19-12
+2010|san jose st|116|14-17
+2011|san jose st|149|16-15
+2012|san jose st|171|8-22
+2013|san jose st|142|8-20
+2014|san jose st|133|5-24
+2015|san jose st|117|0-28
+2016|san jose st|152|6-22
+2017|san jose st|130|12-16
+2010|santa clara|127|11-21
+2011|santa clara|176|17-14
+2012|santa clara|193|6-22
+2013|santa clara|132|19-11
+2014|santa clara|141|12-19
+2015|santa clara|128|12-18
+2016|santa clara|156|10-20
+2017|santa clara|76|16-16
+2010|savannah st|333|11-15
+2011|savannah st|268|8-18
+2012|savannah st|339|19-11
+2013|savannah st|197|17-14
+2014|savannah st|282|11-19
+2015|savannah st|317|7-22
+2016|savannah st|342|14-15
+2017|savannah st|331|11-16
+2010|seattle|285|17-14
+2011|seattle|312|11-20
+2012|seattle|247|9-15
+2013|seattle|216|7-22
+2014|seattle|268|11-17
+2015|seattle|333|14-15
+2016|seattle|309|12-16
+2017|seattle|285|10-17
+2010|seton hall|31|19-12
+2011|seton hall|15|13-18
+2012|seton hall|57|20-12
+2013|seton hall|67|15-18
+2014|seton hall|96|17-17
+2015|seton hall|78|16-15
+2016|seton hall|41|25-8
+2017|seton hall|49|21-11
+2010|sfa|299|23-9
+2011|sfa|330|14-11
+2012|sfa|314|16-12
+2013|sfa|307|23-4
+2014|sfa|295|27-2
+2015|sfa|154|26-4
+2016|sfa|219|23-5
+2017|sfa|245|15-14
+2010|siena|124|27-6
+2011|siena|153|13-18
+2012|siena|205|14-17
+2013|siena|203|8-24
+2014|siena|196|15-17
+2015|siena|193|11-20
+2016|siena|162|21-12
+2017|siena|74|17-17
+2010|siu edwardsville|200|5-23
+2011|siu edwardsville|226|4-21
+2012|siu edwardsville|299|8-17
+2013|siu edwardsville|236|7-18
+2014|siu edwardsville|315|9-20
+2015|siu edwardsville|289|10-16
+2016|siu edwardsville|192|6-22
+2017|siu edwardsville|260|5-23
+2010|smu|126|14-17
+2011|smu|213|14-14
+2012|smu|146|11-19
+2013|smu|275|14-17
+2014|smu|128|23-9
+2015|smu|27|26-6
+2016|smu|67|25-5
+2017|smu|78|30-4
+2010|south ala|260|17-15
+2011|south ala|306|10-16
+2012|south ala|246|16-12
+2013|south ala|198|16-12
+2014|south ala|166|8-20
+2015|south ala|208|10-21
+2016|south ala|216|12-19
+2017|south ala|175|12-18
+2010|south carolina|19|15-16
+2011|south carolina|77|14-16
+2012|south carolina|37|10-21
+2013|south carolina|195|14-18
+2014|south carolina|48|14-20
+2015|south carolina|39|16-16
+2016|south carolina|170|23-8
+2017|south carolina|47|21-10
+2010|south carolina st|315|18-14
+2011|south carolina st|326|6-22
+2012|south carolina st|333|3-26
+2013|south carolina st|251|4-24
+2014|south carolina st|317|7-21
+2015|south carolina st|328|9-22
+2016|south carolina st|328|17-14
+2017|south carolina st|286|9-20
+2010|south dakota|345|22-9
+2011|south dakota|345|14-15
+2012|south dakota|259|7-18
+2013|south dakota|134|8-20
+2014|south dakota|175|9-18
+2015|south dakota|255|15-16
+2016|south dakota|143|12-18
+2017|south dakota|243|20-11
+2010|south dakota st|249|14-16
+2011|south dakota st|282|17-12
+2012|south dakota st|183|25-7
+2013|south dakota st|181|22-9
+2014|south dakota st|219|16-12
+2015|south dakota st|227|21-10
+2016|south dakota st|131|24-7
+2017|south dakota st|145|16-16
+2010|south fla|97|20-12
+2011|south fla|17|10-23
+2012|south fla|30|19-13
+2013|south fla|27|12-19
+2014|south fla|159|12-20
+2015|south fla|104|8-23
+2016|south fla|50|8-25
+2017|south fla|189|7-23
+2010|southeast mo st|242|7-23
+2011|southeast mo st|280|9-22
+2012|southeast mo st|298|13-16
+2013|southeast mo st|288|15-16
+2014|southeast mo st|346|16-14
+2015|southeast mo st|318|11-17
+2016|southeast mo st|262|3-24
+2017|southeast mo st|330|13-18
+2010|southeastern la|277|19-12
+2011|southeastern la|300|12-14
+2012|southeastern la|335|9-17
+2013|southeastern la|184|11-18
+2014|southeastern la|334|8-18
+2015|southeastern la|336|8-23
+2016|southeastern la|341|10-21
+2017|southeastern la|320|14-16
+2010|southern california|100|16-14
+2011|southern california|41|19-14
+2012|southern california|93|6-26
+2013|southern california|39|14-18
+2014|southern california|51|10-21
+2015|southern california|94|12-20
+2016|southern california|36|21-12
+2017|southern california|75|24-9
+2010|southern ill|139|15-15
+2011|southern ill|143|13-19
+2012|southern ill|132|8-22
+2013|southern ill|180|13-17
+2014|southern ill|141|13-19
+2015|southern ill|249|11-21
+2016|southern ill|266|22-10
+2017|southern ill|91|16-16
+2010|southern miss|135|20-13
+2011|southern miss|87|19-10
+2012|southern miss|44|23-8
+2013|southern miss|55|23-9
+2014|southern miss|123|25-6
+2015|southern miss|123|7-20
+2016|southern miss|268|7-20
+2017|southern miss|278|7-22
+2010|southern univ|330|5-25
+2011|southern univ|331|3-24
+2012|southern univ|344|14-14
+2013|southern univ|345|20-9
+2014|southern univ|249|16-13
+2015|southern univ|281|15-17
+2016|southern univ|331|19-12
+2017|southern univ|345|13-17
+2010|southern utah|221|7-22
+2011|southern utah|230|10-18
+2012|southern utah|242|12-17
+2013|southern utah|292|9-20
+2014|southern utah|244|1-27
+2015|southern utah|313|9-19
+2016|southern utah|259|4-24
+2017|southern utah|271|4-27
+2010|st bonaventure|123|15-16
+2011|st bonaventure|122|16-14
+2012|st bonaventure|125|20-11
+2013|st bonaventure|110|14-15
+2014|st bonaventure|69|17-15
+2015|st bonaventure|150|18-13
+2016|st bonaventure|82|22-8
+2017|st bonaventure|118|20-12
+2010|st francis brooklyn|329|11-18
+2011|st francis brooklyn|301|15-15
+2012|st francis brooklyn|284|15-15
+2013|st francis brooklyn|164|12-18
+2014|st francis brooklyn|283|17-14
+2015|st francis brooklyn|315|22-11
+2016|st francis brooklyn|339|14-17
+2017|st francis brooklyn|325|3-27
+2010|st john's ny|25|17-15
+2011|st john's ny|11|21-11
+2012|st john's ny|46|13-19
+2013|st john's ny|31|16-15
+2014|st john's ny|49|20-12
+2015|st john's ny|28|20-11
+2016|st john's ny|38|7-24
+2017|st john's ny|53|14-19
+2010|st mary's ca|122|26-5
+2011|st mary's ca|99|23-8
+2012|st mary's ca|94|25-5
+2013|st mary's ca|93|26-6
+2014|st mary's ca|66|21-11
+2015|st mary's ca|96|20-9
+2016|st mary's ca|149|26-5
+2017|st mary's ca|64|28-4
+2010|stanford|88|14-18
+2011|stanford|139|15-16
+2012|stanford|152|21-11
+2013|stanford|48|18-14
+2014|stanford|20|21-12
+2015|stanford|50|19-13
+2016|stanford|7|14-15
+2017|stanford|18|13-17
+2010|stetson|268|7-22
+2011|stetson|236|8-22
+2012|stetson|169|8-20
+2013|stetson|266|14-16
+2014|stetson|292|7-24
+2015|stetson|295|6-22
+2016|stetson|285|8-22
+2017|stetson|316|8-21
+2010|stony brook|318|22-9
+2011|stony brook|293|14-17
+2012|stony brook|322|21-9
+2013|stony brook|270|23-7
+2014|stony brook|332|22-10
+2015|stony brook|241|21-11
+2016|stony brook|194|24-6
+2017|stony brook|228|18-13
+2010|syracuse|14|28-4
+2011|syracuse|34|26-7
+2012|syracuse|24|31-2
+2013|syracuse|5|26-9
+2014|syracuse|77|27-5
+2015|syracuse|44|18-13
+2016|syracuse|45|19-13
+2017|syracuse|67|18-14
+2010|tcu|76|13-19
+2011|tcu|93|11-22
+2012|tcu|72|16-14
+2013|tcu|130|10-21
+2014|tcu|43|7-22
+2015|tcu|116|18-15
+2016|tcu|55|12-21
+2017|tcu|29|18-15
+2010|temple|58|29-5
+2011|temple|108|25-7
+2012|temple|50|24-7
+2013|temple|65|23-9
+2014|temple|35|9-22
+2015|temple|56|23-10
+2016|temple|79|21-11
+2017|temple|89|16-16
+2010|tennessee|20|25-8
+2011|tennessee|2|19-14
+2012|tennessee|40|17-14
+2013|tennessee|53|20-12
+2014|tennessee|15|20-12
+2015|tennessee|49|16-16
+2016|tennessee|52|15-19
+2017|tennessee|25|15-16
+2010|tennessee st|182|9-23
+2011|tennessee st|241|12-16
+2012|tennessee st|141|18-12
+2013|tennessee st|103|16-14
+2014|tennessee st|109|4-25
+2015|tennessee st|225|3-26
+2016|tennessee st|301|18-10
+2017|tennessee st|208|15-13
+2010|tennessee tech|181|15-17
+2011|tennessee tech|272|17-12
+2012|tennessee tech|158|17-13
+2013|tennessee tech|213|10-17
+2014|tennessee tech|232|15-16
+2015|tennessee tech|275|10-18
+2016|tennessee tech|199|17-11
+2017|tennessee tech|255|10-20
+2010|texas|60|24-9
+2011|texas|14|27-7
+2012|texas|15|20-13
+2013|texas|82|16-16
+2014|texas|54|23-10
+2015|texas|16|20-13
+2016|texas|5|20-12
+2017|texas|10|11-22
+2010|texas a&m|4|23-9
+2011|texas a&m|47|23-8
+2012|texas a&m|67|13-18
+2013|texas a&m|42|18-15
+2014|texas a&m|116|17-15
+2015|texas a&m|92|20-11
+2016|texas a&m|59|26-8
+2017|texas a&m|51|16-15
+2010|texas southern|294|17-15
+2011|texas southern|333|19-12
+2012|texas southern|303|15-18
+2013|texas southern|249|17-14
+2014|texas southern|347|18-14
+2015|texas southern|287|22-12
+2016|texas southern|322|18-14
+2017|texas southern|300|23-11
+2010|texas st|269|15-16
+2011|texas st|238|14-15
+2012|texas st|291|9-17
+2013|texas st|246|11-22
+2014|texas st|181|6-23
+2015|texas st|180|11-17
+2016|texas st|282|13-16
+2017|texas st|293|18-13
+2010|texas tech|10|17-15
+2011|texas tech|66|13-19
+2012|texas tech|75|8-23
+2013|texas tech|102|11-20
+2014|texas tech|45|14-18
+2015|texas tech|70|13-19
+2016|texas tech|9|19-12
+2017|texas tech|126|18-14
+2010|toledo|163|4-28
+2011|toledo|245|3-28
+2012|toledo|305|16-16
+2013|toledo|287|15-13
+2014|toledo|149|26-6
+2015|toledo|81|20-13
+2016|toledo|217|16-15
+2017|toledo|112|16-16
+2010|towson|220|10-21
+2011|towson|97|4-26
+2012|towson|66|1-31
+2013|towson|204|17-13
+2014|towson|201|21-10
+2015|towson|303|11-20
+2016|towson|257|18-12
+2017|towson|104|19-13
+2010|troy|166|20-12
+2011|troy|136|7-21
+2012|troy|216|9-18
+2013|troy|241|12-21
+2014|troy|246|9-20
+2015|troy|314|8-19
+2016|troy|188|7-22
+2017|troy|225|20-14
+2010|tulane|191|8-22
+2011|tulane|191|10-17
+2012|tulane|268|13-16
+2013|tulane|224|18-14
+2014|tulane|211|16-16
+2015|tulane|209|14-16
+2016|tulane|133|12-22
+2017|tulane|144|6-25
+2010|tulsa|93|23-11
+2011|tulsa|55|19-13
+2012|tulsa|106|17-14
+2013|tulsa|109|16-15
+2014|tulsa|90|21-12
+2015|tulsa|93|22-9
+2016|tulsa|60|20-11
+2017|tulsa|62|15-17
+2010|uab|99|23-8
+2011|uab|74|22-8
+2012|uab|41|15-16
+2013|uab|100|15-17
+2014|uab|152|16-13
+2015|uab|101|18-15
+2016|uab|279|25-6
+2017|uab|180|16-16
+2010|ualr|153|8-22
+2011|ualr|209|17-16
+2012|ualr|154|14-16
+2013|ualr|156|16-15
+2014|ualr|153|13-17
+2015|ualr|272|12-18
+2016|ualr|244|27-4
+2017|ualr|291|13-17
+2010|uc davis|258|14-18
+2011|uc davis|234|8-20
+2012|uc davis|293|4-26
+2013|uc davis|284|14-17
+2014|uc davis|298|7-22
+2015|uc davis|304|23-6
+2016|uc davis|213|9-19
+2017|uc davis|317|20-12
+2010|uc irvine|311|14-18
+2011|uc irvine|325|12-19
+2012|uc irvine|181|10-19
+2013|uc irvine|161|18-15
+2014|uc irvine|225|21-11
+2015|uc irvine|141|19-12
+2016|uc irvine|154|23-9
+2017|uc irvine|179|19-14
+2010|uc riverside|256|12-17
+2011|uc riverside|232|10-19
+2012|uc riverside|285|12-17
+2013|uc riverside|298|4-24
+2014|uc riverside|290|8-21
+2015|uc riverside|216|12-17
+2016|uc riverside|297|12-19
+2017|uc riverside|294|6-21
+2010|uc santa barbara|196|20-9
+2011|uc santa barbara|204|16-13
+2012|uc santa barbara|190|18-10
+2013|uc santa barbara|154|9-20
+2014|uc santa barbara|237|19-9
+2015|uc santa barbara|83|17-13
+2016|uc santa barbara|100|17-13
+2017|uc santa barbara|147|5-22
+2010|ucf|156|15-17
+2011|ucf|45|18-11
+2012|ucf|78|20-10
+2013|ucf|119|18-11
+2014|ucf|127|11-18
+2015|ucf|170|11-18
+2016|ucf|163|12-18
+2017|ucf|99|21-11
+2010|ucla|41|14-18
+2011|ucla|50|22-10
+2012|ucla|113|18-14
+2013|ucla|15|25-9
+2014|ucla|13|26-8
+2015|ucla|26|20-13
+2016|ucla|21|15-17
+2017|ucla|93|29-4
+2010|uconn|5|17-15
+2011|uconn|9|26-9
+2012|uconn|2|20-13
+2013|uconn|32|20-10
+2014|uconn|27|26-8
+2015|uconn|53|20-14
+2016|uconn|40|24-10
+2017|uconn|48|15-17
+2014|umass lowell|267|9-18
+2015|umass lowell|298|11-17
+2016|umass lowell|260|10-18
+2017|umass lowell|277|10-20
+2010|umbc|287|4-26
+2011|umbc|207|5-25
+2012|umbc|323|4-26
+2013|umbc|170|7-23
+2014|umbc|325|8-21
+2015|umbc|310|4-26
+2016|umbc|317|7-25
+2017|umbc|248|16-12
+2010|umes|320|11-21
+2011|umes|287|7-22
+2012|umes|263|6-23
+2013|umes|257|2-26
+2014|umes|339|5-23
+2015|umes|312|18-14
+2016|umes|315|9-22
+2017|umes|314|12-20
+2010|umkc|305|12-18
+2011|umkc|279|15-14
+2012|umkc|188|9-20
+2013|umkc|143|7-24
+2014|umkc|157|10-19
+2015|umkc|331|12-19
+2016|umkc|252|9-19
+2017|umkc|125|14-16
+2010|unc asheville|169|15-16
+2011|unc asheville|198|16-13
+2012|unc asheville|192|21-9
+2013|unc asheville|230|13-16
+2014|unc asheville|231|14-15
+2015|unc asheville|283|12-16
+2016|unc asheville|239|20-11
+2017|unc asheville|201|21-9
+2010|unc greensboro|121|8-23
+2011|unc greensboro|181|7-24
+2012|unc greensboro|225|12-19
+2013|unc greensboro|304|7-22
+2014|unc greensboro|329|11-18
+2015|unc greensboro|253|8-22
+2016|unc greensboro|180|11-18
+2017|unc greensboro|220|22-9
+2010|uncw|149|9-22
+2011|uncw|199|13-18
+2012|uncw|107|10-21
+2013|uncw|267|9-20
+2014|uncw|169|7-23
+2015|uncw|240|17-13
+2016|uncw|139|23-7
+2017|uncw|117|27-5
+2010|uni|120|28-4
+2011|uni|120|18-13
+2012|uni|45|18-13
+2013|uni|34|17-14
+2014|uni|89|15-15
+2015|uni|121|30-3
+2016|uni|84|21-12
+2017|uni|102|13-16
+2010|unlv|107|25-8
+2011|unlv|31|24-8
+2012|unlv|36|24-8
+2013|unlv|17|24-9
+2014|unlv|107|20-13
+2015|unlv|75|17-15
+2016|unlv|117|16-15
+2017|unlv|137|11-21
+2010|usc upstate|213|6-23
+2011|usc upstate|187|5-25
+2012|usc upstate|252|18-12
+2013|usc upstate|273|14-17
+2014|usc upstate|259|17-14
+2015|usc upstate|343|19-11
+2016|usc upstate|274|7-21
+2017|usc upstate|295|13-15
+2010|ut arlington|248|16-14
+2011|ut arlington|295|9-16
+2012|ut arlington|290|23-8
+2013|ut arlington|137|19-13
+2014|ut arlington|190|13-17
+2015|ut arlington|203|15-15
+2016|ut arlington|240|22-10
+2017|ut arlington|133|23-8
+2010|ut martin|251|4-25
+2011|ut martin|275|10-21
+2012|ut martin|202|2-27
+2013|ut martin|256|7-21
+2014|ut martin|304|6-23
+2015|ut martin|307|16-12
+2016|ut martin|338|17-14
+2017|ut martin|305|19-12
+2010|utah|95|14-17
+2011|utah|20|12-18
+2012|utah|59|5-25
+2013|utah|60|13-18
+2014|utah|105|19-11
+2015|utah|33|23-8
+2016|utah|6|25-8
+2017|utah|120|18-11
+2010|utah st|90|27-7
+2011|utah st|112|29-3
+2012|utah st|111|16-15
+2013|utah st|167|20-10
+2014|utah st|103|17-14
+2015|utah st|168|17-13
+2016|utah st|108|14-15
+2017|utah st|92|13-17
+2010|utah valley|347|12-18
+2011|utah valley|343|15-11
+2012|utah valley|340|16-12
+2013|utah valley|324|10-18
+2014|utah valley|263|18-11
+2015|utah valley|293|9-19
+2016|utah valley|234|9-18
+2017|utah valley|198|12-16
+2010|utep|111|26-6
+2011|utep|106|24-9
+2012|utep|65|15-17
+2013|utep|61|18-14
+2014|utep|145|21-10
+2015|utep|129|22-10
+2016|utep|284|18-14
+2017|utep|188|14-17
+2010|utrgv|306|6-27
+2011|utrgv|323|3-25
+2012|utrgv|257|7-21
+2013|utrgv|346|12-16
+2014|utrgv|287|8-23
+2015|utrgv|327|7-21
+2016|utrgv|246|5-22
+2017|utrgv|217|7-22
+2010|utsa|290|19-11
+2011|utsa|294|16-13
+2012|utsa|289|16-14
+2013|utsa|200|10-22
+2014|utsa|174|6-21
+2015|utsa|259|12-16
+2016|utsa|312|4-26
+2017|utsa|273|12-19
+2010|valparaiso|143|15-17
+2011|valparaiso|111|21-11
+2012|valparaiso|157|20-11
+2013|valparaiso|158|25-7
+2014|valparaiso|205|15-15
+2015|valparaiso|256|25-5
+2016|valparaiso|161|24-6
+2017|valparaiso|204|23-8
+2010|vanderbilt|27|24-8
+2011|vanderbilt|16|23-10
+2012|vanderbilt|6|24-10
+2013|vanderbilt|50|16-17
+2014|vanderbilt|75|15-16
+2015|vanderbilt|119|18-13
+2016|vanderbilt|42|19-13
+2017|vanderbilt|1|19-15
+2010|vcu|142|22-9
+2011|vcu|78|23-11
+2012|vcu|180|28-6
+2013|vcu|33|26-8
+2014|vcu|26|26-8
+2015|vcu|8|26-9
+2016|vcu|61|24-10
+2017|vcu|44|26-8
+2010|vermont|313|25-9
+2011|vermont|227|23-8
+2012|vermont|248|23-11
+2013|vermont|228|21-11
+2014|vermont|210|20-10
+2015|vermont|300|17-13
+2016|vermont|177|20-13
+2017|vermont|181|28-5
+2010|villanova|32|24-7
+2011|villanova|39|21-11
+2012|villanova|11|13-19
+2013|villanova|24|19-13
+2014|villanova|40|28-4
+2015|villanova|30|32-2
+2016|villanova|13|29-5
+2017|villanova|26|31-3
+2010|virginia|54|15-16
+2011|virginia|125|16-15
+2012|virginia|97|22-9
+2013|virginia|125|21-11
+2014|virginia|23|28-6
+2015|virginia|21|29-3
+2016|virginia|2|26-7
+2017|virginia|4|22-10
+2010|virginia tech|162|23-8
+2011|virginia tech|82|21-11
+2012|virginia tech|35|16-17
+2013|virginia tech|88|13-19
+2014|virginia tech|83|9-22
+2015|virginia tech|86|11-22
+2016|virginia tech|49|19-14
+2017|virginia tech|77|22-10
+2010|vmi|233|10-19
+2011|vmi|267|14-13
+2012|vmi|328|14-16
+2013|vmi|338|11-17
+2014|vmi|316|15-12
+2015|vmi|252|9-19
+2016|vmi|224|6-21
+2017|vmi|173|4-24
+2010|wagner|250|5-26
+2011|wagner|117|13-17
+2012|wagner|271|25-6
+2013|wagner|193|19-12
+2014|wagner|337|18-12
+2015|wagner|236|9-20
+2016|wagner|335|21-10
+2017|wagner|324|15-14
+2010|wake forest|28|19-10
+2011|wake forest|109|8-24
+2012|wake forest|119|13-18
+2013|wake forest|83|13-18
+2014|wake forest|82|17-16
+2015|wake forest|34|13-19
+2016|wake forest|44|11-20
+2017|wake forest|22|19-13
+2010|washington|71|24-9
+2011|washington|48|23-10
+2012|washington|84|21-10
+2013|washington|40|18-15
+2014|washington|64|17-15
+2015|washington|90|16-15
+2016|washington|39|18-14
+2017|washington|38|9-22
+2010|washington st|163|16-15
+2011|washington st|89|19-12
+2012|washington st|178|14-16
+2013|washington st|101|13-19
+2014|washington st|80|9-21
+2015|washington st|84|13-18
+2016|washington st|30|8-22
+2017|washington st|46|12-18
+2010|weber st|130|20-10
+2011|weber st|195|15-13
+2012|weber st|223|22-6
+2013|weber st|272|24-6
+2014|weber st|247|17-11
+2015|weber st|245|11-17
+2016|weber st|293|23-8
+2017|weber st|249|17-13
+2010|west virginia|3|27-6
+2011|west virginia|4|20-11
+2012|west virginia|22|19-13
+2013|west virginia|58|13-19
+2014|west virginia|53|17-15
+2015|west virginia|43|23-9
+2016|west virginia|17|26-8
+2017|west virginia|66|26-8
+2010|western caro|240|22-11
+2011|western caro|255|17-15
+2012|western caro|267|15-18
+2013|western caro|238|12-19
+2014|western caro|294|16-15
+2015|western caro|246|13-17
+2016|western caro|110|13-17
+2017|western caro|139|7-23
+2010|western ill|304|13-17
+2011|western ill|308|4-23
+2012|western ill|129|14-14
+2013|western ill|302|20-8
+2014|western ill|206|7-20
+2015|western ill|226|6-20
+2016|western ill|191|7-17
+2017|western ill|266|6-20
+2010|western ky|194|21-13
+2011|western ky|215|16-16
+2012|western ky|135|15-18
+2013|western ky|169|19-15
+2014|western ky|192|19-12
+2015|western ky|155|18-12
+2016|western ky|109|16-16
+2017|western ky|274|15-17
+2010|western mich|138|18-15
+2011|western mich|299|19-12
+2012|western mich|133|13-20
+2013|western mich|221|19-12
+2014|western mich|148|22-9
+2015|western mich|178|18-13
+2016|western mich|98|11-19
+2017|western mich|122|15-16
+2010|wichita st|108|25-9
+2011|wichita st|101|23-8
+2012|wichita st|47|26-5
+2013|wichita st|95|26-8
+2014|wichita st|88|33-0
+2015|wichita st|102|27-4
+2016|wichita st|104|23-8
+2017|wichita st|159|29-4
+2010|william & mary|105|22-10
+2011|william & mary|91|9-22
+2012|william & mary|147|5-26
+2013|william & mary|311|12-17
+2014|william & mary|189|19-12
+2015|william & mary|123|18-12
+2016|william & mary|64|18-11
+2017|william & mary|97|15-14
+2010|winston-salem|295|12-17
+2010|winthrop|226|19-13
+2011|winthrop|174|11-17
+2012|winthrop|243|10-20
+2013|winthrop|243|11-17
+2014|winthrop|251|17-13
+2015|winthrop|319|16-13
+2016|winthrop|286|20-9
+2017|winthrop|236|24-6
+2010|wisconsin|23|23-8
+2011|wisconsin|28|23-8
+2012|wisconsin|18|24-9
+2013|wisconsin|11|23-11
+2014|wisconsin|3|26-7
+2015|wisconsin|14|31-3
+2016|wisconsin|10|20-12
+2017|wisconsin|79|25-9
+2010|wofford|211|26-8
+2011|wofford|165|21-12
+2012|wofford|304|17-13
+2013|wofford|240|12-19
+2014|wofford|242|17-12
+2015|wofford|205|26-6
+2016|wofford|203|13-17
+2017|wofford|151|13-17
+2010|wright st|134|20-12
+2011|wright st|133|17-14
+2012|wright st|177|12-19
+2013|wright st|226|20-12
+2014|wright st|271|18-14
+2015|wright st|197|9-20
+2016|wright st|237|20-13
+2017|wright st|162|18-12
+2010|wyoming|48|10-21
+2011|wyoming|127|8-21
+2012|wyoming|98|18-11
+2013|wyoming|57|17-13
+2014|wyoming|131|16-14
+2015|wyoming|161|23-9
+2016|wyoming|96|12-18
+2017|wyoming|167|16-14
+2010|xavier|44|24-8
+2011|xavier|56|24-7
+2012|xavier|26|21-12
+2013|xavier|64|17-14
+2014|xavier|33|20-12
+2015|xavier|10|21-13
+2016|xavier|37|27-5
+2017|xavier|15|21-13
+2010|yale|274|12-19
+2011|yale|179|14-13
+2012|yale|227|17-9
+2013|yale|171|12-17
+2014|yale|154|14-13
+2015|yale|109|20-10
+2016|yale|160|21-6
+2017|yale|212|17-11
+2010|youngstown st|131|8-22
+2011|youngstown st|154|7-21
+2012|youngstown st|189|14-15
+2013|youngstown st|192|14-15
+2014|youngstown st|226|12-17
+2015|youngstown st|234|8-21
+2016|youngstown st|210|9-21
+2017|youngstown st|211|11-21

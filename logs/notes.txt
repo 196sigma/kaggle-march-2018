@@ -24,8 +24,10 @@ Models
 team in a given game in a given round)
 
 TODO
+* explore competition evaluation metric (log-loss)
 * predict upsets 
 * summary stats on BIG upsets (eg underdog is more than four ranks apart)
+* get vegas odds data
 
 Sources
 * http://blog.kaggle.com/2017/05/19/march-machine-learning-mania-1st-place-winners-interview-andrew-landgraf/
