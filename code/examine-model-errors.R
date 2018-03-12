@@ -22,3 +22,26 @@ lines(density(models.mat$m3))
 lines(density(models.mat$m4))
 lines(density(models.mat$m5))
 summary(models.mat)
+
+## test effect of upward bound on win probability
+max.winprob <- .8
+
+plot(density(models.mat$m1))
+lines(density(pred1), col='red')
+source('code/log-loss-evaluation.R')
+f <- function(x){
+  pv <- models.mat[c("id", "m1")]
+  pv$pred <- pmin(x, models.mat$m1)
+  logloss.evaluate("", pv)
+}
+f2 <- function(x){
+  pv <- models.mat[c("id", "m1")]
+  pv$pred <- pmax(x, models.mat$m1)
+  logloss.evaluate("", pv)
+}
+max.winprob.list <- seq(0.75,.99, .01)
+min.winprob.list <- seq(0.01,.5, .01)
+x <- c()
+for(i in min.winprob.list) x <- c(x, f2(i))
+plot(min.winprob.list, x, type='l')
+abline(h = 0.57)
